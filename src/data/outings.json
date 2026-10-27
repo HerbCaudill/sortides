@@ -165,7 +165,8 @@
     "venue": "Sant Esteve de la Sarga",
     "when": "Any day",
     "price": "Free",
-    "why": "Cliff-side walkways through a gorge on the Noguera Ribagorçana. Book parking ahead in season.",
+    "why": "Cliffside path through the gorge of the Noguera Ribagorçana; check access and parking before visiting.",
+    "context": "The Noguera Ribagorçana cuts through the Montsec, and a trail carved into the rock follows the gorge above the water. Check the access notice and La Masieta parking calendar before setting out, and book a parking space in advance.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Inici+del+cam%C3%AD+cap+a+la+passarel%C2%B7la+de+Mont-rebei/data=!4m2!3m1!1s0x12a6515a673768dd:0x4c283ccbfd5aa3bb",
     "links": [
@@ -194,6 +195,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "The largest Iberian settlement in Catalonia: walls and streets on a hilltop, with a small museum.",
+    "context": "Puig de Sant Andreu was a capital of the Indigetes, with walls, houses, cisterns and a museum of finds from the site. Check seasonal opening hours before visiting and pair it with nearby Peratallada.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Museu+d'Arqueologia+de+Catalunya+-+Ullastret/data=!4m2!3m1!1s0x12baf85e351bf3ff:0x1430c74c74d3ed91",
     "links": [
@@ -221,7 +223,8 @@
     "venue": "Begur",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "How Begur emigrants made fortunes in Cuba and came home to build the town’s colonial-style houses.",
+    "why": "The story of Begur’s emigrants to the Americas and their architectural legacy.",
+    "context": "The centre explores the legacy of Catalans who crossed the Atlantic in search of fortune, including many people from Begur in the 19th century. Follow the free audio-guided route past the town’s indiano houses afterwards.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Centre+d'Interpretaci%C3%B3+dels+Indians+de+Catalunya-Begur/data=!4m2!3m1!1s0x12ba51fbb91c6715:0xe58b33b299fb50a3",
     "links": [
@@ -250,12 +253,13 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Underground winery designed by RCR Arquitectes, with tastings among the vines.",
+    "context": "RCR Arquitectes set this cellar into the landscape of a working estate near Palamós. Arrange a visit for a tour and tasting of the estate’s wines and other produce.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Bell-Lloc+Winery/data=!4m2!3m1!1s0x12ba554d9c7441a3:0x5815ee5ca4d6c9a1",
     "links": [
       {
         "label": "Website",
-        "url": "https://www.fincabell-lloc.com/en/"
+        "url": "https://brugarol.com/finca-bell-lloc/"
       }
     ]
   },
@@ -278,6 +282,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Family winery in the Albera hills above Cantallops.",
+    "context": "This family winery sits among vines and olive trees in the Albera and makes Empordà wines. Book ahead for a tasting, with options that include food or a picnic among the vines.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Masia+Serra/data=!4m2!3m1!1s0x12ba9b4f80ee0063:0xa65b5ad4783b006f",
     "links": [
@@ -302,6 +307,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Organic winery in the hills behind La Selva de Mar, near Cap de Creus.",
+    "context": "The Soto-Dalmau family restored this estate in the Sant Romà valley, inside the Cap de Creus natural park, and farms its vines organically and biodynamically. Arrange a visit in advance to see the estate and taste its wines.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Mas+Estela+Winery/data=!4m2!3m1!1s0x12ba649ad3ec2457:0x5a71c032b67ce62e",
     "links": [
@@ -330,6 +336,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Small family winery in Capmany, in the heart of Empordà wine country.",
+    "context": "The fourth generation of the Arché Pagès winegrowing family founded its own cellar in Capmany in 2004. The Empordà wine route lists cellar visits with a tasting; contact the winery to arrange one.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Arch%C3%A9+Pag%C3%A8s/data=!4m2!3m1!1s0x12ba9abf2c484d8d:0xb6aed6952107c1cb",
     "links": [
@@ -354,9 +361,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Memorial to a Douglas DC-6 that crashed near Cantallops in 1986.",
+    "context": "The remains and a plaque commemorate four crew members who died when a French firefighting aircraft crashed in the Albera in 1986. Masia Serra, also on this list, is in Cantallops and can make a second stop in the area.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/AVI%C3%93+DOUGLAS+DC6+1986/data=!4m2!3m1!1s0x12ba9c99d17876bf:0x579b542a6b237389",
-    "links": []
+    "links": [
+      {
+        "label": "Walking guide",
+        "url": "https://masiaserra.com/wp-content/uploads/2022/02/FULLETO-EXPERIENCIES_VISITES-INTERES_RUTES.cat_.Rev2022.pdf"
+      }
+    ]
   },
   {
     "title": "Terracotta ceramics museum",
@@ -377,6 +390,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "La Bisbal’s pottery tradition, shown in an old ceramics factory.",
+    "context": "The museum occupies a former ceramic factory in La Bisbal, where production continued until 1984. Its collection and exhibitions introduce the town’s pottery tradition; check ahead for guided visits and workshops.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/The+Terracotta+Ceramics+Museum/data=!4m2!3m1!1s0x12baf932d540272d:0x14ecf43e588a212b",
     "links": [
@@ -405,6 +419,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Historic spa hotel in Caldes de Malavella – thermal baths for the day.",
+    "context": "This historic spa grew around the thermal springs that gave Vichy Catalan its name. Check the spa’s current day-visit options and reserve a thermal circuit before travelling.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Balneario+Vichy+Catalan/data=!4m2!3m1!1s0x12bb1f0e60628eff:0x84f124ff3c3bce4f",
     "links": [
@@ -433,6 +448,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Restored 17th-century farmhouse with a fine restaurant near Figueres.",
+    "context": "A farmhouse hotel and spa in Avinyonet de Puigventós, near Figueres, Mas Falgarona also has a restaurant serving local produce. Check restaurant and spa availability before making it a day trip.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Mas+Falgarona/data=!4m2!3m1!1s0x12ba9247d1da8c77:0x9e8ffbfac0ca0c53",
     "links": [
@@ -461,6 +477,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "RCR Arquitectes’ glass pavilions next to Les Cols, Fina Puigdevall’s restaurant in Olot.",
+    "context": "RCR Arquitectes designed these glass pavilions beside the Les Cols farmhouse and restaurant in Olot. They are accommodation rather than an open architectural exhibition, so arrange a stay or meal ahead of time.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Les+Cols+Pavellons/data=!4m2!3m1!1s0x12baca61da31aa6b:0x73463569be017f36",
     "links": [
@@ -484,7 +501,8 @@
     "venue": "Aravell",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "Country hotel and restaurant near La Seu d’Urgell.",
+    "why": "Country hotel near La Seu d’Urgell, with views toward the Cadí.",
+    "context": "This country hotel in Aravell looks toward the Cadí range and offers rooms and a converted barn for stays. Check directly about meals before visiting; the current hotel site does not describe a restaurant.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Mas+D'En+Roqueta+Restaurant/data=!4m2!3m1!1s0x12a5efca93c4ea2d:0xc4245c3ec764e904",
     "links": [
@@ -508,10 +526,16 @@
     "venue": "25655",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "Vineyard and restaurant in the Pre-Pyrenees of Lleida.",
+    "why": "Family wine and olive-oil producer in the Pallars Jussà; arrange a visit in advance.",
+    "context": "This family producer grows vines and olives in the Pallars Jussà and offers vineyard visits and tastings. Sources differ on the restaurant’s status, so contact the producer to confirm current options and arrange a visit.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Celler+Restaurant+Xics+Cal+Borrech/data=!4m2!3m1!1s0x12a66bf7fc000001:0xa4b47967599d4d3c",
-    "links": []
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://xicscalborrech.com/ca/"
+      }
+    ]
   },
   {
     "title": "Masia el Puig",
@@ -531,10 +555,16 @@
     "venue": "Castellar de la Muntanya",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "Stone farmhouse hotel with valley views in the Garrotxa.",
+    "why": "Rural lodging in the Vall de Bianya, in the Garrotxa.",
+    "context": "This rural lodging is at El Puig de Castellar de la Muntanya in the Vall de Bianya. Contact the property before visiting and consider pairing a stay with a trip to Castellfollit de la Roca.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Masia+el+Puig/data=!4m2!3m1!1s0x12bab5a44cdefa91:0xf1fdb73f3aede8e0",
-    "links": []
+    "links": [
+      {
+        "label": "Local guide",
+        "url": "https://www.valldebianya.com/index.php/ca/serveis/allotjament"
+      }
+    ]
   },
   {
     "title": "Hostal la Placeta",
@@ -554,7 +584,8 @@
     "venue": "Camprodon",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "Inn on a square in Camprodon, with a restaurant and wine bar.",
+    "why": "Camprodon inn on Plaça del Carme, home to the Cal Marquès restaurant.",
+    "context": "This inn on Camprodon’s Plaça del Carme now shares its home with the Cal Marquès restaurant. Book a meal or room ahead and leave time to walk over the town’s Pont Nou.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Hostal+la+Placeta/data=!4m2!3m1!1s0x12a54e95867e89cd:0x139c952fb8b97dcd",
     "links": [
@@ -583,6 +614,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Small hotel by the river in Camprodon.",
+    "context": "Mas de Xaxàs occupies a late-19th-century house recognised as part of Camprodon’s historic heritage. Its terrace looks toward the river and mountains; check availability before planning a meal or stay.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Hotel+Mas+de+Xaxas/data=!4m2!3m1!1s0x12a54e9776b61049:0xd470d3e31f7e7949",
     "links": [
@@ -611,6 +643,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Hotel with valley views just outside Camprodon.",
+    "context": "This small rural hotel overlooks the Camprodon valley and serves breakfasts made with local products. Meals are by reservation, so check with the hotel before making a special trip.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Hotelet+del+Bac/data=!4m2!3m1!1s0x12a54e965b8f4ee5:0xf279eee8c6400abe",
     "links": [
@@ -635,6 +668,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Stone hotel in the Cerdanya near Bellver.",
+    "context": "Set in a former hay barn in the village of Talló, this small hotel has a restaurant focused on local and seasonal ingredients. Check the restaurant’s opening days and pair a visit with Prullans across the Cerdanya valley.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Hotel+Cal+Rei+de+Tall%C3%B3/data=!4m2!3m1!1s0x12a59cc30118bad3:0xfe5d1f284c55a17a",
     "links": [
@@ -658,7 +692,8 @@
     "venue": "Beget",
     "when": "Check opening hours",
     "price": "Varies",
-    "why": "Old inn in Beget with a restaurant overlooking the mountains.",
+    "why": "Historic family inn and restaurant in the stone village of Beget.",
+    "context": "This family-run inn and restaurant occupies a building recorded as an inn in 1586. Pair a meal with a walk through Beget to the Romanesque church of Sant Cristòfol.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Hostal+El+Forn+de+Beget/data=!4m2!3m1!1s0x12bab31889b6c287:0x8827270991aea113",
     "links": [
@@ -687,6 +722,7 @@
     "when": "Check opening hours",
     "price": "Varies",
     "why": "Mediterranean and tropical tanks, with a walk-through shark tunnel.",
+    "context": "The aquarium’s exhibits range from Mediterranean habitats to tropical seas, with a transparent tunnel through the main shark tank. Check feeding times and book tickets online before visiting.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/Aquarium/data=!4m2!3m1!1s0xd51bab215b2efff:0xcddf34c9ef7db06e",
     "links": [
@@ -714,10 +750,16 @@
     "venue": "Camprodon",
     "when": "Any day",
     "price": "Free",
-    "why": "Pyrenean town with a 12th-century stone bridge over the Ter.",
+    "why": "Pyrenean town known for its medieval Pont Nou over the Ter.",
+    "context": "The Pont Nou crosses the Ter just below its meeting with the Ritort and has been rebuilt over the centuries. Walk through the old town and pair the visit with Beget or a meal at Hostal La Placeta.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Camprodon/data=!4m2!3m1!1s0x12a54e9452f3c1a5:0xdc8199afbfc1eed6",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://visitcamprodon.cat/que-fer/historia-i-arquitectura/pont-nou/"
+      }
+    ]
   },
   {
     "title": "Castelnou",
@@ -734,9 +776,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Hilltop medieval village in French Catalonia, one of the “plus beaux villages de France”.",
+    "context": "This fortified village in French Catalonia climbs toward a medieval castle, with views toward Canigou. Park below the village and explore its steep, cobbled lanes on foot.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Castelnou/data=!4m2!3m1!1s0x12b00c239925b547:0x6e8ef9b37b71eded",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/aux-alentours/castelnou/"
+      }
+    ]
   },
   {
     "title": "Castellbell i el Vilar",
@@ -757,9 +805,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Small town on the Llobregat at the foot of Montserrat.",
+    "context": "The Llobregat winds through this Bages municipality below Montserrat. Its medieval Pont Vell crosses the river beneath the castle, with views toward the mountain.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Castellbell+i+el+Vilar/data=!4m2!3m1!1s0x12a4f5013ba9d18f:0x77a6cf3c466849c7",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.castellbellielvilar.cat/el-municipi/turisme/llocs-dinteres/pont-vell.html"
+      }
+    ]
   },
   {
     "title": "L'Astor",
@@ -776,9 +830,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Tiny hilltop hamlet in the Anoia with wide views.",
+    "context": "This small hamlet in Pujalt keeps a medieval street plan with covered passages and stone arches. Pair it with Argençola for a tour of the Anoia uplands.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/L'Astor/data=!4m2!3m1!1s0x12a43bea4ed15b51:0x6d7ca5f261adfebd",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://anoiaturisme.cat/anoia/pujalt-i-lastor-pedra-i-tradicio/"
+      }
+    ]
   },
   {
     "title": "Fonollosa",
@@ -799,9 +859,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Quiet farming village in the Bages.",
+    "context": "Fonollosa is a rural Bages municipality made up of several settlements among fields and woods. Explore the countryside and the medieval towers of Fals in the same municipality.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Fonollosa/data=!4m2!3m1!1s0x12a44fe5d6494c69:0xe8746ab88e7e5eca",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.catalunya.com/es/continguts/territori/fonollosa-2-1-496319"
+      }
+    ]
   },
   {
     "title": "Argençola",
@@ -818,12 +884,13 @@
     "when": "Any day",
     "price": "Free",
     "why": "Hilltop village in the Anoia uplands.",
+    "context": "The remains of an 11th-century castle crown this village in the Anoia uplands. The local tourism office suggests a short walk to the old ice well; access to the castle itself is restricted.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Argen%C3%A7ola/data=!4m2!3m1!1s0x12a43e075a2a33e7:0x20cb7562f371c98f",
     "links": [
       {
-        "label": "Website",
-        "url": "http://www.argensola.diba.cat/"
+        "label": "Tourism office",
+        "url": "https://anoiaturisme.cat/poblacions/argencola/"
       }
     ]
   },
@@ -842,9 +909,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Cerdanya village on a sunny slope facing the Cadí.",
+    "context": "This Cerdanya village faces the Cadí mountains across the valley. Look for the Romanesque church of Sant Esteve, then explore the viewpoints on the walking route toward Ardòvol.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Prullans/data=!4m2!3m1!1s0x12a59b4b6d9c1167:0xca979427af28c0a8",
-    "links": []
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ca.wikipedia.org/wiki/Prullans"
+      }
+    ]
   },
   {
     "title": "Solsona",
@@ -861,9 +934,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Cathedral town with a well-kept old quarter.",
+    "context": "The old town retains three gates in its former walls and a Gothic cathedral with a Romanesque image of the Mare de Déu del Claustre. A guided old-town walk also takes in the squares and the town’s festival giants.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Solsona/data=!4m2!3m1!1s0x12a5c9fc31e2b86f:0x400fae021a4c4d0",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.catalunya.com/en/continguts/territori/solsona-2-1-252075"
+      }
+    ]
   },
   {
     "title": "Talamanca",
@@ -879,10 +958,16 @@
     "venue": "Talamanca",
     "when": "Any day",
     "price": "Free",
-    "why": "Medieval village around a castle above the Calders valley.",
+    "why": "Medieval village around a castle above the Talamanca stream.",
+    "context": "Talamanca grew around a castle whose present structure was rebuilt after the War of the Spanish Succession. Pair a walk through its old streets with nearby Mura, another village on this list.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Talamanca/data=!4m2!3m1!1s0x12a4f00f6d6eba87:0x9ee5ba69aa3ae28f",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.catalunya.com/en/continguts/territori/talamanca-2-1-496425"
+      }
+    ]
   },
   {
     "title": "Santa Coloma de Cervelló",
@@ -903,9 +988,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Home of Gaudí’s crypt at the Colònia Güell.",
+    "context": "The Colònia Güell is a former textile workers’ settlement with an unfinished church by Antoni Gaudí. Visit the crypt and walk the residential streets of the colony; check entry times ahead.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Santa+Coloma+de+Cervell%C3%B3/data=!4m2!3m1!1s0x12a49b0d8b457029:0xb01af8a1bb2219ef",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.santacolomadecervello.cat/municipi/turisme-i-patrimoni/cripta-de-la-colonia-guell"
+      }
+    ]
   },
   {
     "title": "Granera",
@@ -926,9 +1017,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Tiny village in the Moianès with a castle and a Romanesque church.",
+    "context": "Granera’s small settlements grew around a medieval castle in the Moianès. Walk up toward the castle remains and look for the Romanesque church of Santa Cecília.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Granera/data=!4m2!3m1!1s0x12a4ef4e83155525:0xa93040f4b0b68c09",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.catalunya.com/ca/continguts/territori/granera-2-1-496325"
+      }
+    ]
   },
   {
     "title": "Olivella",
@@ -945,9 +1042,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Village in the Garraf hills, close to Sitges.",
+    "context": "Olivella is an inland Garraf village within reach of the Garraf park’s walking routes. Combine a stroll through the village with time in the surrounding limestone hills.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Olivella/data=!4m2!3m1!1s0x12a47e4a71e189e5:0xd6a22bbda0355f92",
-    "links": []
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ca.wikipedia.org/wiki/Olivella"
+      }
+    ]
   },
   {
     "title": "Sant Llorenç de la Muga",
@@ -968,9 +1071,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Walled medieval village on the Muga river.",
+    "context": "The old village retains walls, towers and gateways beside the Muga. Follow the river to the old bridges, then explore the lanes inside the walls.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Sant+Lloren%C3%A7+de+la+Muga/data=!4m2!3m1!1s0x12ba97d2af4b999b:0x268e533aea5681c5",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://empordaturisme.com/es/municipio/sant-llorenc-de-la-muga/"
+      }
+    ]
   },
   {
     "title": "Tortosa",
@@ -987,9 +1096,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Historic city on the Ebre with a Gothic cathedral and the Suda castle.",
+    "context": "Tortosa’s old quarter sits below the Suda castle on the Ebre. Walk from the Gothic cathedral to the Renaissance courtyard of the Reials Col·legis and up to the castle viewpoint.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Tortosa/data=!4m2!3m1!1s0x12a0e4a4887de549:0x4750f0d9aa735b5c",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.tortosaturisme.cat/tortosa-en-un-dia/"
+      }
+    ]
   },
   {
     "title": "Benifallet",
@@ -1006,9 +1121,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Ebre river village with show caves.",
+    "context": "This village beside the Ebre is a base for visiting the Coves Meravelles and travelling on the river. Ask the tourism office about cave visits and pair the stop with nearby Tortosa.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Benifallet/data=!4m2!3m1!1s0x12a0dde66f35b6c3:0xec8328bfb7d46830",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://turismebenifallet.cat/"
+      }
+    ]
   },
   {
     "title": "Altafulla",
@@ -1025,9 +1146,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Walled old town above the beach, near Tarragona.",
+    "context": "The Vila Closa is Altafulla’s walled historic centre, below its castle and above the coast. Ask the tourism office about a guided walk, then head down to the beach.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Altafulla/data=!4m2!3m1!1s0x12a3f07af838de8d:0xfcf9381022d6ddfe",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://patrimoni.gencat.cat/ca/article/villes-i-castells-al-voltant-daltafulla"
+      }
+    ]
   },
   {
     "title": "La Vilella Baixa",
@@ -1044,9 +1171,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Priorat village of tall houses stacked above the river.",
+    "context": "The steep slope makes the village’s houses look several storeys taller from the river than from the street. Cross the three-arched bridge and find the dead-end Carrer que No Passa in the old quarter.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/La+Vilella+Baixa/data=!4m2!3m1!1s0x12a1327280ee4a7f:0xf5f957516bc3c22",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.turismepriorat.org/fr/a-faire/paysages-du-vin/la-vilella-baixa"
+      }
+    ]
   },
   {
     "title": "Queralbs",
@@ -1063,9 +1196,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Stone mountain village on the Vall de Núria rack railway.",
+    "context": "This mountain village is a stop on the rack railway to Vall de Núria. Leave time to explore the stone streets before taking the train up the valley.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Queralbs/data=!4m2!3m1!1s0x12a54294873fd749:0x5bb98aa634ca8d1d",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://ripollesturisme.cat/es/romanic/esglesia-de-sant-jaume-de-queralbs/"
+      }
+    ]
   },
   {
     "title": "Tavertet",
@@ -1086,9 +1225,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Cliff-top village with views over the Sau reservoir.",
+    "context": "Tavertet stands above the cliffs of the Collsacabra, overlooking the Sau valley. Pair the village and its viewpoints with Rupit, another stone village on the same plateau.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Tavertet/data=!4m2!3m1!1s0x12a52c5e514fa8d5:0xc3f09b1f63bd112f",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.barcelonaesmoltmes.cat/en/-/between-cliffs-and-water"
+      }
+    ]
   },
   {
     "title": "Monells",
@@ -1109,9 +1254,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Arcaded medieval square in the Baix Empordà.",
+    "context": "The arcaded Plaça Jaume I was once the site of an important medieval market. Wander the old streets, then pair the village with nearby Peratallada.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Monells/data=!4m2!3m1!1s0x12bafbeb5d2ce405:0xa31a89ea61bedbea",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.cmss.cat/ca/visit-cmss/els-nostres-pobles/monells/"
+      }
+    ]
   },
   {
     "title": "Rivert",
@@ -1128,9 +1279,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Remote hamlet in the Pallars Jussà.",
+    "context": "Rivert sits beneath a wall of rock in the Pallars Jussà, with springs, a pond and an old mill shaped by the village’s water. Walk through its two parts and look for the Romanesque church of Sant Martí.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Rivert/data=!4m2!3m1!1s0x12a63fe8817a189f:0xaed2eaa65d1be011",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://rivert.cat/"
+      }
+    ]
   },
   {
     "title": "Tivenys",
@@ -1147,12 +1304,13 @@
     "when": "Any day",
     "price": "Free",
     "why": "Ebre river village among olive groves.",
+    "context": "Tivenys lies on the Ebre between the river and its irrigation canal. Its municipal park is a place to pause by the water; pair the visit with Tortosa or Benifallet.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Tivenys/data=!4m2!3m1!1s0x12a0e6db220f7ae9:0xadb4fee2e9b8898b",
     "links": [
       {
-        "label": "Website",
-        "url": "http://www.tivenys.altanet.org/"
+        "label": "Tourism office",
+        "url": "https://tivenys.altanet.org/turisme"
       }
     ]
   },
@@ -1171,9 +1329,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Romanesque churches of the Vall de Boí, a UNESCO World Heritage site.",
+    "context": "Sant Climent and Santa Maria are two of the Vall de Boí’s UNESCO-listed Romanesque churches. See the painting projection at Sant Climent and check church opening times before travelling.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Ta%C3%BCll/data=!4m2!3m1!1s0x12a620e7bb6deee1:0x193082866b09d147",
-    "links": []
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ca.wikipedia.org/wiki/Ta%C3%BCll"
+      }
+    ]
   },
   {
     "title": "Beget",
@@ -1190,9 +1354,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Stone village in a deep valley with a Romanesque church.",
+    "context": "Stone houses and bridges cluster around the streams in this Alta Garrotxa village. The Romanesque church of Sant Cristòfol holds the carved Majestat de Beget; check opening times and pair the visit with Hostal El Forn.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Beget/data=!4m2!3m1!1s0x12bab3188c26f497:0x8b819c68203d34d5",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.elforndebeget.com/es/"
+      }
+    ]
   },
   {
     "title": "Prades",
@@ -1209,9 +1379,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "The “red village” of the Prades mountains, built of red sandstone.",
+    "context": "Red sandstone gives Prades its nickname, the red village. Walk around the arcaded Plaça Major and its round fountain, then follow one of the marked routes into the surrounding mountains.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Prades/data=!4m2!3m1!1s0x12a6b37bbf3771db:0x72c976d5c80134c2",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://prades.cat/turisme/"
+      }
+    ]
   },
   {
     "title": "Montsonís",
@@ -1228,9 +1404,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Hilltop village with a castle in the Noguera.",
+    "context": "A castle crowns this small Noguera village, with a keep and rooms that can be visited on a guided tour. Check tour times and reserve ahead for the slots that require it.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Montson%C3%ADs/data=!4m2!3m1!1s0x12a6884d09077ec9:0x3d9c68e9cb552b4f",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.montsonis.org/cataleg/visita-guiada-castell-montsonis/"
+      }
+    ]
   },
   {
     "title": "Rupit",
@@ -1251,9 +1433,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Stone village in the Collsacabra with a hanging footbridge.",
+    "context": "A hanging footbridge leads into Rupit’s stone streets in the Collsacabra. Pair the village with Tavertet, or follow the local path toward the Sallent waterfall.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Rupit/data=!4m2!3m1!1s0x12bad2ce80215c2d:0xa5dbe78a7e794f82",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.rupitpruit.cat/turisme/informacio-util?lang=ca"
+      }
+    ]
   },
   {
     "title": "Castellar de n'Hug",
@@ -1270,9 +1458,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Mountain village near the source of the Llobregat and the Asland cement museum.",
+    "context": "The Llobregat rises near this Berguedà mountain village, and the former Asland cement factory is now a museum. Check the museum’s opening times and leave time for the walk to the river’s springs.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Castellar+de+n'Hug/data=!4m2!3m1!1s0x12a56dcf557d1b59:0xd1ee80dfb78ded7c",
-    "links": []
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ca.wikipedia.org/wiki/Castellar_de_n%27Hug"
+      }
+    ]
   },
   {
     "title": "Santa Pau",
@@ -1293,9 +1487,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Medieval village in the Garrotxa volcanic park.",
+    "context": "Santa Pau’s medieval centre lies within the Garrotxa volcanic zone, close to the Croscat volcano. Explore the arcaded square and pair the village with a walk in the natural park.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Santa+Pau/data=!4m2!3m1!1s0x12bac922d51118f7:0x875570b561c67f",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.spain.info/en/destination/santa-pau/"
+      }
+    ]
   },
   {
     "title": "Castellfollit de la Roca",
@@ -1316,9 +1516,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Village perched on the edge of a basalt cliff.",
+    "context": "The old village stands on a basalt cliff formed by overlapping lava flows. A marked circular walk descends to the Fluvià for a view back up at the cliff and returns through the old streets.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Castellfollit+de+la+Roca/data=!4m2!3m1!1s0x12bab610273f1959:0x7e80806747f40500",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://parcsnaturals.gencat.cat/ca/xarxa-de-parcs/garrotxa/gaudeix-del-parc/equipaments-i-itineraris/itineraris/num13/index.html"
+      }
+    ]
   },
   {
     "title": "Peralada",
@@ -1339,9 +1545,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Castle town known for its wine cellars and summer music festival.",
+    "context": "Peralada combines a historic centre with a castle, a wine tradition and a summer music festival. Check the festival programme or cellar visit times before planning a trip.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Peralada/data=!4m2!3m1!1s0x12ba8ed0c2ae038d:0x4c157bc397b1e7db",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.catalunya.com/es/continguts/experiencies-turistiques/oficina-de-turismo-de-peralada-20-2-69"
+      }
+    ]
   },
   {
     "title": "Tivissa",
@@ -1358,9 +1570,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Ribera d’Ebre village near the Iberian site of Castellet de Banyoles.",
+    "context": "Tivissa’s old quarter has narrow streets around the church of Sant Jaume. The Iberian site of Castellet de Banyoles lies a few kilometres away and can be visited freely; guided visits are available by reservation.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Tivissa/data=!4m2!3m1!1s0x12a124a1fd55159b:0x51e8681ecd0f741c",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.turismeriberaebre.org/que-fer/patrimoni-cultural/monuments-i-espais-visitables/poblat-iberic-del-castellet-de-banyoles/"
+      }
+    ]
   },
   {
     "title": "Tossa de Mar",
@@ -1381,9 +1599,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Walled old town on a headland above the beach.",
+    "context": "The Vila Vella’s fortified walls and towers stand above Tossa’s beach. Walk through the gateway and old streets, and check for any access changes during restoration work.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Tossa+de+Mar/data=!4m2!3m1!1s0x12bb11cbe13ee55f:0x298d02ee8b95c047",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://visittossa.com/es/patrimonio-cultural/tossa-a-traves-del-tiempo/el-recinto-amurallado-de-la-vila-vella/"
+      }
+    ]
   },
   {
     "title": "Begur",
@@ -1404,9 +1628,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Hilltop town with a castle, indiano houses and coves below.",
+    "context": "A castle overlooks Begur’s old streets and the coves below. Pair a walk through town with the Indians interpretation centre and its audio-guided route past indiano houses.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Begur/data=!4m2!3m1!1s0x12ba53d81794d96f:0x1fb9238b71186c25",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://begur.cat/serveis/cultura/centre-dinterpretacio-indians/"
+      }
+    ]
   },
   {
     "title": "Besalú",
@@ -1427,9 +1657,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Romanesque bridge and a medieval Jewish quarter.",
+    "context": "Besalú’s medieval bridge leads into an old town with a former Jewish quarter and ritual bath, or mikveh. Ask the tourism office about guided visits to the Jewish heritage sites.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Besal%C3%BA/data=!4m2!3m1!1s0x12bac7547751518d:0x334cb5899dfbf86b",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://patrimoni.gencat.cat/ca/silesparetsparlessin/episodi-13-pont-de-besalu"
+      }
+    ]
   },
   {
     "title": "Mura",
@@ -1446,9 +1682,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Stone village in the Sant Llorenç del Munt park.",
+    "context": "This Bages village is a gateway to Sant Llorenç del Munt i l’Obac Natural Park. Explore the old centre and the church of Sant Martí, then pair it with nearby Talamanca.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Mura,+Barcelona/data=!4m2!3m1!1s0x12a4f1cdbe2d2315:0x9d7fc0c4a59f1918",
-    "links": []
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ca.wikipedia.org/wiki/Mura"
+      }
+    ]
   },
   {
     "title": "Peratallada",
@@ -1469,9 +1711,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Walled medieval village with a moat cut into the rock.",
+    "context": "The village’s medieval defences include a deep moat cut into the sandstone, walls and towers. Walk through the Portal de la Verge and around Plaça de les Voltes, then pair the trip with Monells.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Peratallada/data=!4m2!3m1!1s0x12baf89897661525:0xa00fae2bb8bae60",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.visitperatallada.cat/pujades/files/fulleto_cat_EN_2025_WEB%2822%29.pdf"
+      }
+    ]
   },
   {
     "title": "Gósol",
@@ -1488,9 +1736,15 @@
     "when": "Any day",
     "price": "Free",
     "why": "Pyrenean village where Picasso spent the summer of 1906.",
+    "context": "Picasso spent part of 1906 in this mountain village near Pedraforca, producing works inspired by its people and landscape. The local Picasso centre presents his Gósol period; check opening times before visiting.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/G%C3%B3sol/data=!4m2!3m1!1s0x12a597e8d6a00e8b:0x6df9d94cb89229e6",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://gosol.ddl.net/turisme/picaso-1"
+      }
+    ]
   },
   {
     "title": "Bagergue",
@@ -1506,10 +1760,16 @@
     "venue": "Bagergue",
     "when": "Any day",
     "price": "Free",
-    "why": "The highest village in the Val d’Aran.",
+    "why": "The highest inhabited village in the Val d’Aran.",
+    "context": "The highest inhabited village in the Val d’Aran has stone houses and the Romanesque church of Sant Fèlix. The Eth Corrau museum presents objects from traditional Aranese life; check its opening times before visiting.",
     "sourceList": "Pobles amb encant",
     "mapsUrl": "https://www.google.com/maps/place/Bagergue/data=!4m2!3m1!1s0x12a8bd435a1afef1:0xb1652d8ed38b24a2",
-    "links": []
+    "links": [
+      {
+        "label": "Tourism office",
+        "url": "https://www.visitvaldaran.com/descubre-la-val-daran/pueblos/bagergue/"
+      }
+    ]
   },
   {
     "title": "Muntanya de Sal, Cardona",
@@ -1526,6 +1786,7 @@
     "when": "Guided tours; book ahead",
     "price": "Varies",
     "why": "Guided walk inside a mountain of salt, then the castle above the town.",
+    "context": "A guided walk enters a former salt mine to see folded layers and mineral formations. Book ahead and arrive early for the tour; Cardona’s castle and old town make a natural second stop.",
     "mapsUrl": "https://maps.google.com/?cid=16651433110401339310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "links": [
       {
