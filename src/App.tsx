@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react"
 import {
-  IconHome,
+  IconBuildingSkyscraper,
+  IconBeach,
   IconMoon,
   IconSun,
   IconSearch,
@@ -260,7 +261,11 @@ export default function App() {
                 aria-pressed={base === value}
                 onClick={() => setBase(value)}
               >
-                <IconHome size={16} />
+                {value === "Barcelona" ? (
+                  <IconBuildingSkyscraper size={16} aria-hidden="true" />
+                ) : (
+                  <IconBeach size={16} aria-hidden="true" />
+                )}
                 {value}
                 <kbd>{index ? "T" : "B"}</kbd>
               </button>
