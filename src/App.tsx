@@ -35,6 +35,7 @@ export default function App() {
   const [expanded, setExpanded] = useState(true)
   const mapNode = useRef<HTMLDivElement>(null)
   const map = useRef<maplibregl.Map | null>(null)
+  const mapMode = useRef<"night" | "day">("night")
   const search = useRef<HTMLInputElement>(null)
   const rows = useRef<HTMLDivElement>(null)
   const available = useMemo(
@@ -64,7 +65,7 @@ export default function App() {
     if (!mapNode.current) return
     const instance = new maplibregl.Map({
       container: mapNode.current,
-      style: "https://tiles.openfreemap.org/styles/liberty",
+      style: "https://tiles.openfreemap.org/styles/dark",
       center: [2.17, 41.39],
       zoom: 12,
     })
@@ -78,6 +79,12 @@ export default function App() {
   useEffect(() => {
     const instance = map.current
     if (!instance) return
+    if (mapMode.current !== mode) {
+      instance.setStyle(
+        `https://tiles.openfreemap.org/styles/${mode === "night" ? "dark" : "liberty"}`,
+      )
+      mapMode.current = mode
+    }
     const center: [number, number] = base === "Barcelona" ? [2.17, 41.39] : [3.17, 41.92]
     instance.flyTo({
       center,
@@ -126,7 +133,7 @@ export default function App() {
       })
     }
     if (instance.isStyleLoaded()) drawRings()
-    else instance.once("load", drawRings)
+    instance.on("style.load", drawRings)
     const markers = visible.map(item => {
       const node = document.createElement("button")
       node.className = "map-marker " + color(item.kind)
@@ -140,7 +147,7 @@ export default function App() {
       return new maplibregl.Marker({ element: node }).setLngLat(item.coordinates).addTo(instance)
     })
     return () => {
-      instance.off("load", drawRings)
+      instance.off("style.load", drawRings)
       markers.forEach(marker => marker.remove())
     }
   }, [base, mode, visible])
