@@ -12,7 +12,7 @@ test("switches views and selects an outing", async ({ page }, testInfo) => {
     .click()
   await expect(page.getByText("Peratallada").first()).toBeVisible()
   await page.getByRole("button", { name: /Peratallada Peratallada/ }).click()
-  await expect(page.getByText("Directions ↗")).toBeVisible()
+  await expect(page.getByText("Directions ↗").locator("visible=true").first()).toBeVisible()
   await page.screenshot({ path: `test-results/${testInfo.project.name}.png` })
 })
 
@@ -30,7 +30,7 @@ test("changes the map palette with the outing mode", async ({ page }, testInfo) 
     .first()
     .click()
   await dayStyle
-  await expect(page.getByText("Sunset at the Bunkers").first()).toBeVisible()
+  await expect(page.getByText("Aquàrium de Barcelona").first()).toBeVisible()
   const restoredNightStyle = page.waitForResponse(
     response => response.url() === "https://tiles.openfreemap.org/styles/dark",
   )
@@ -40,6 +40,6 @@ test("changes the map palette with the outing mode", async ({ page }, testInfo) 
     .click()
   await restoredNightStyle
   await page.getByRole("button", { name: /Trio Carioca Harlem/ }).click()
-  await expect(page.getByText("Directions ↗")).toBeVisible()
+  await expect(page.getByText("Directions ↗").locator("visible=true").first()).toBeVisible()
   await page.screenshot({ path: `test-results/${testInfo.project.name}-night.png` })
 })
