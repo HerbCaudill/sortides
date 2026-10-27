@@ -67,8 +67,8 @@ export default function App() {
     const instance = new maplibregl.Map({
       container: mapNode.current,
       style: "https://tiles.openfreemap.org/styles/dark",
-      center: [2.17, 41.39],
-      zoom: 12,
+      center: [2.166, 41.392],
+      zoom: 13.5,
     })
     instance.addControl(new maplibregl.NavigationControl(), "bottom-right")
     map.current = instance
@@ -86,10 +86,11 @@ export default function App() {
       )
       mapMode.current = mode
     }
-    const center: [number, number] = base === "Barcelona" ? [2.17, 41.39] : [3.17, 41.92]
+    const center: [number, number] =
+      base === "Tamariu" ? [3.17, 41.92] : mode === "night" ? [2.166, 41.392] : [2.17, 41.39]
     instance.flyTo({
       center,
-      zoom: mode === "night" ? (base === "Barcelona" ? 12.2 : 10.3) : 8.2,
+      zoom: mode === "night" ? (base === "Barcelona" ? 13.5 : 10.3) : 8.2,
       duration: 700,
     })
     const drawRings = () => {
