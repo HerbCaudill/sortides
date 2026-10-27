@@ -20,6 +20,7 @@ import {
   dayTripsForBase,
   driveMinutes,
   driveGroup,
+  outingLinks,
   formatDriveTime,
   type Outing,
 } from "./data/outings"
@@ -167,22 +168,19 @@ export default function App() {
     why.textContent = selected.why
     const context = document.createElement("p")
     context.textContent = selected.context ?? ""
-    const link = document.createElement("a")
-    link.href = `https://www.google.com/maps/dir/?api=1&destination=${selected.coordinates[1]},${selected.coordinates[0]}`
-    link.target = "_blank"
-    link.rel = "noreferrer"
-    link.textContent = "Directions ↗"
+    const actions = document.createElement("p")
+    outingLinks(selected).forEach(({ label, url }, index) => {
+      const anchor = document.createElement("a")
+      anchor.href = url
+      anchor.target = "_blank"
+      anchor.rel = "noreferrer"
+      anchor.textContent = `${label} ↗`
+      if (index > 0) actions.append(" · ")
+      actions.append(anchor)
+    })
     content.append(heading, detail, venue, why)
     if (selected.context) content.append(context)
-    content.append(link)
-    if (selected.mapsUrl) {
-      const maps = document.createElement("a")
-      maps.href = selected.mapsUrl
-      maps.target = "_blank"
-      maps.rel = "noreferrer"
-      maps.textContent = " · Google Maps ↗"
-      content.append(maps)
-    }
+    content.append(actions)
     const popup = new maplibregl.Popup({ offset: 22 })
       .setLngLat(selected.coordinates)
       .setDOMContent(content)
@@ -341,6 +339,16 @@ export default function App() {
               <strong>{selected.title}</strong>
               <p>{selected.why}</p>
               {selected.context && <p>{selected.context}</p>}
+              <p>
+                {outingLinks(selected).map(({ label, url }, index) => (
+                  <span key={url}>
+                    {index > 0 && " · "}
+                    <a href={url} target="_blank" rel="noreferrer">
+                      {label} ↗
+                    </a>
+                  </span>
+                ))}
+              </p>
             </div>
           )}
           <div className="list" ref={rows}>

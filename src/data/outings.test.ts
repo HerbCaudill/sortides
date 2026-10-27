@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import { outingSchema, outings, dayTripsForBase } from "./outings"
+import { outingSchema, outings, dayTripsForBase, outingLinks } from "./outings"
 
 describe("outings", () => {
   it("preserves optional context for an outing", () => {
@@ -33,5 +33,21 @@ describe("outings", () => {
     expect(
       outings.filter(item => item.title.startsWith("Sunset")).every(item => item.mode === "day"),
     ).toBe(true)
+  })
+  it("lists an outing's own links before directions and its Google Maps page", () => {
+    const item = outingSchema.parse({
+      ...outings[0]!,
+      coordinates: [3.0683, 42.0008],
+      mapsUrl: "https://maps.google.com/?cid=1",
+      links: [{ label: "Tickets", url: "https://example.com/tickets" }],
+    })
+    expect(outingLinks(item)).toEqual([
+      { label: "Tickets", url: "https://example.com/tickets" },
+      {
+        label: "Directions",
+        url: "https://www.google.com/maps/dir/?api=1&destination=42.0008,3.0683",
+      },
+      { label: "Google Maps", url: "https://maps.google.com/?cid=1" },
+    ])
   })
 })

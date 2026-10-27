@@ -48,6 +48,18 @@ export function dayTripsForBase(items: Outing[], base: Base) {
     .filter(item => item.mode === "day" && driveMinutes(item, base) !== undefined)
     .sort((a, b) => driveMinutes(a, base)! - driveMinutes(b, base)!)
 }
+/** Links to show for an outing: its own links, then directions and its Google Maps page. */
+export function outingLinks(item: Outing) {
+  const [longitude, latitude] = item.coordinates
+  return [
+    ...item.links,
+    {
+      label: "Directions",
+      url: `https://www.google.com/maps/dir/?api=1&destination=${latitude},${longitude}`,
+    },
+    ...(item.mapsUrl ? [{ label: "Google Maps", url: item.mapsUrl }] : []),
+  ]
+}
 /** Group a drive time into useful ranges. */
 export function driveGroup(minutes: number) {
   return minutes <= 30
