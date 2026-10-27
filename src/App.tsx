@@ -359,7 +359,7 @@ function color(kind: string) {
     ? "orange"
     : kind === "Movies"
       ? "blue"
-      : kind === "Exhibitions"
+      : ["Exhibitions", "Museum", "Architecture"].includes(kind)
         ? "purple"
         : "green"
 }
@@ -369,7 +369,7 @@ function icon(kind: string) {
     <IconMusic size={16} />
   ) : kind === "Movies" ? (
     <IconMovie size={16} />
-  ) : kind === "Exhibitions" ? (
+  ) : ["Exhibitions", "Museum", "Architecture"].includes(kind) ? (
     <IconBuilding size={16} />
   ) : kind === "Walks" || kind === "Hikes" ? (
     <IconWalk size={16} />

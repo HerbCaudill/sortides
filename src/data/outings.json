@@ -1882,5 +1882,421 @@
         "url": "https://www.cardonaturisme.cat/visita-cardona/muntanya-de-sal/"
       }
     ]
+  },
+  {
+    "title": "MNAC – Museu Nacional d’Art de Catalunya",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.15331, 41.36833],
+    "venue": "Barcelona · Montjuïc",
+    "when": "Tue–Sun",
+    "price": "€12",
+    "why": "Romanesque church frescoes, Catalan modernism and rooftop views in one visit.",
+    "context": "The permanent collection spans medieval to modern Catalan art. The general ticket covers the collection, temporary exhibitions and rooftop viewpoint; check the museum’s seasonal hours.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MNAC%20%E2%80%93%20Museu%20Nacional%20d%E2%80%99Art%20de%20Catalunya%20Barcelona%20%C2%B7%20Montju%C3%AFc",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.museunacional.cat/en/opening-hours-and-prices"
+      }
+    ],
+    "photo": {
+      "url": "/photos/mnac-museu-nacional-d-art-de-catalunya.webp",
+      "alt": "View of MNAC – Museu Nacional d’Art de Catalunya",
+      "credit": "MARIA ROSA FERRE ✿ from Vilafranca del penedes, Catalunya",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLM14ES_-_Palau_Nacional_i_seu_del_MNAC_de_Barcelona_-_MARIA_ROSA_FERRE.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  {
+    "title": "Museu Picasso",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.180893, 41.385216],
+    "venue": "Barcelona · El Born",
+    "when": "Tue–Sun",
+    "price": "From €12",
+    "why": "Picasso’s early work and Las Meninas series inside the old palaces of El Born.",
+    "context": "Choose a collection-only ticket or one including temporary exhibitions. Book a timed entry; free sessions also require a reservation.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Picasso%20Barcelona%20%C2%B7%20El%20Born",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://museupicassobcn.cat/en/plan-your-visit"
+      }
+    ],
+    "photo": {
+      "url": "/photos/museu-picasso.webp",
+      "alt": "View of Museu Picasso",
+      "credit": "Pere López",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Berenguer_d%27Aguilar.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "title": "Fundació Joan Miró",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.16, 41.368611],
+    "venue": "Barcelona · Montjuïc",
+    "when": "Tue–Sun",
+    "price": "See tickets",
+    "why": "Miró’s paintings, sculpture and bright Mediterranean architecture on Montjuïc.",
+    "context": "Josep Lluís Sert designed the building around courtyards and natural light. Check the current exhibition programme and ticket arrangements before visiting.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3%20Joan%20Mir%C3%B3%20Barcelona%20%C2%B7%20Montju%C3%AFc",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.fmirobcn.org/en/"
+      }
+    ],
+    "photo": {
+      "url": "/photos/fundacio-joan-miro.webp",
+      "alt": "View of Fundació Joan Miró",
+      "credit": "Canaan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3_Mir%C3%B3.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "title": "MACBA",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.166944, 41.383333],
+    "venue": "Barcelona · El Raval",
+    "when": "Closed Tue",
+    "price": "€13.50 online",
+    "why": "Contemporary art and changing exhibitions in Richard Meier’s white Raval building.",
+    "context": "The general ticket gives repeat access to current exhibitions and the collection for a month after activation. Closed Tuesdays; check Sunday and holiday hours.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MACBA%20Barcelona%20%C2%B7%20El%20Raval",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.macba.cat/en/plan-your-visit/"
+      }
+    ]
+  },
+  {
+    "title": "CCCB",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.166667, 41.383611],
+    "venue": "Barcelona · El Raval",
+    "when": "Tue–Sun 10–20",
+    "price": "From €8 online",
+    "why": "Exhibitions connecting art, cities, science and contemporary life.",
+    "context": "The programme changes through the year, so check the current exhibitions. Sunday afternoons are free with an advance reservation.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CCCB%20Barcelona%20%C2%B7%20El%20Raval",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.cccb.org/en/visit"
+      }
+    ]
+  },
+  {
+    "title": "Recinte Modernista de Sant Pau",
+    "kind": "Architecture",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.1744, 41.4128],
+    "venue": "Barcelona · Guinardó",
+    "when": "Daily from 09:30",
+    "price": "€17–18",
+    "why": "Modernista hospital pavilions, tiled interiors and gardens designed as a place of care.",
+    "context": "Explore Domènech i Montaner’s former hospital on a self-guided or guided visit. Closing time changes with the season; Barcelona residents can get reduced admission.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Recinte%20Modernista%20de%20Sant%20Pau%20Barcelona%20%C2%B7%20Guinard%C3%B3",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://santpaubarcelona.org/en/prepara-la-teva-visita/"
+      }
+    ],
+    "photo": {
+      "url": "/photos/recinte-modernista-de-sant-pau.webp",
+      "alt": "View of Recinte Modernista de Sant Pau",
+      "credit": "C messier",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF_%CE%A3%CE%B1%CE%BD%CF%84_%CE%A0%CE%AC%CE%BF%CF%85_3421.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "title": "Monestir de Pedralbes",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 105
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.1122, 41.3956],
+    "venue": "Barcelona · Pedralbes",
+    "when": "Tue–Sun",
+    "price": "€5.20",
+    "why": "A quiet Gothic cloister, medieval murals and the daily life of the enclosed community.",
+    "context": "Visit the monastery’s historic rooms, art and medicinal garden. Winter weekday hours are shorter; Sunday afternoons and the first Sunday of the month offer free entry.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monestir%20de%20Pedralbes%20Barcelona%20%C2%B7%20Pedralbes",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.monestirpedralbes.barcelona/en/visit/opening-times-and-admission-fees"
+      }
+    ],
+    "photo": {
+      "url": "/photos/monestir-de-pedralbes.webp",
+      "alt": "View of Monestir de Pedralbes",
+      "credit": "Enric",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:090_Monestir_de_Santa_Maria_de_Pedralbes_(Barcelona),_galeria_nord_del_claustre.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "title": "Museu d’Art de Girona",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.8267, 41.9872],
+    "venue": "Girona · Barri Vell",
+    "when": "Tue–Sun",
+    "price": "€7",
+    "why": "Catalan art from Romanesque to the twentieth century inside the old episcopal palace.",
+    "context": "Allow about an hour for the permanent collection, with more time for temporary exhibitions. Near the cathedral; Sundays have shorter hours.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Art%20de%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://museuart.cat/en/frequently-asked-questions/"
+      }
+    ],
+    "photo": {
+      "url": "/photos/museu-d-art-de-girona.webp",
+      "alt": "View of Museu d’Art de Girona",
+      "credit": "Eboix",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_Palau_Episcopal._Museu_d%27Art.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "title": "Museu d’Història dels Jueus",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.8255, 41.9861],
+    "venue": "Girona · Barri Vell",
+    "when": "Daily from 10:00",
+    "price": "€6",
+    "why": "Everyday life, culture and history of Catalonia’s medieval Jewish communities.",
+    "context": "Eleven galleries use Girona’s own material heritage to explore family, work, religion and persecution. Mondays and Sundays close earlier; the first Sunday of each month is free.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Hist%C3%B2ria%20dels%20Jueus%20Girona%20%C2%B7%20Barri%20Vell",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.girona.cat/call/eng/info.php"
+      }
+    ],
+    "photo": {
+      "url": "/photos/museu-d-historia-dels-jueus.webp",
+      "alt": "View of Museu d’Història dels Jueus",
+      "credit": "Kippelboy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_d%27Hist%C3%B2ria_dels_Jueus_(Girona)-entrada_(2).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "title": "Museu del Cinema",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.82236, 41.98367],
+    "venue": "Girona · Mercadal",
+    "when": "Tue–Sun; summer Mon",
+    "price": "€7",
+    "why": "Shadow theatre, optical toys and early moving images from the Tomàs Mallol collection.",
+    "context": "Follow the experiments that led to cinema in the former Casa de les Aigües. Sundays close at 14:00; the first Sunday of each month is free.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20del%20Cinema%20Girona%20%C2%B7%20Mercadal",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://museudelcinema.girona.cat/cat/museu_info.php"
+      }
+    ],
+    "photo": {
+      "url": "/photos/museu-del-cinema.webp",
+      "alt": "View of Museu del Cinema",
+      "credit": "Kippelboy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_del_Cinema_de_Girona.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "title": "Sant Pere de Galligants – MAC Girona",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.8264, 41.9889],
+    "venue": "Girona · Barri Vell",
+    "when": "Tue–Sun",
+    "price": "€6",
+    "why": "A Romanesque monastery and cloister housing Girona’s archaeology museum.",
+    "context": "The ticket covers the monastery, exhibitions and a tablet guide. Winter weekdays close at 18:00, Sundays at 14:00; the first Sunday of each month is free.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sant%20Pere%20de%20Galligants%20%E2%80%93%20MAC%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://www.mac.cat/ca/Visita-ns-Portada/Girona-Portada-Seu/Planifica-la-visita-Girona"
+      }
+    ],
+    "photo": {
+      "url": "/photos/sant-pere-de-galligants-mac-girona.webp",
+      "alt": "View of Sant Pere de Galligants – MAC Girona",
+      "credit": "Josep Renalias",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sant_Pere_de_Galligants.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "title": "Museu d’Història de Girona",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.825083, 41.986972],
+    "venue": "Girona · Barri Vell",
+    "when": "Tue–Sun",
+    "price": "See tickets",
+    "why": "The city’s story from Roman Gerunda through medieval life and the twentieth century.",
+    "context": "The museum occupies a former Capuchin convent on Carrer de la Força. Check current gallery access, temporary exhibitions and admission before visiting.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Hist%C3%B2ria%20de%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
+    "links": [
+      {
+        "label": "Hours and tickets",
+        "url": "https://web2.girona.cat/museuhistoria/eng/index.php"
+      }
+    ],
+    "photo": {
+      "url": "/photos/museu-d-historia-de-girona.webp",
+      "alt": "View of Museu d’Història de Girona",
+      "credit": "Enfo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:251_Casa_Cartell%C3%A0,_Museu_d%27Hist%C3%B2ria_de_Girona,_c._For%C3%A7a_27.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   }
 ]
