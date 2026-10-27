@@ -2,353 +2,439 @@
   {
     "title": "Marta Roig Quartet",
     "kind": "Music",
-    "base": "Barcelona",
     "mode": "night",
-    "coordinates": [
-      2.175,
-      41.38
-    ],
+    "coordinates": [2.175, 41.38],
     "venue": "Jamboree, Plaça Reial",
     "when": "Fri 21:00",
     "price": "€18",
     "group": "This weekend",
     "why": "Explore Marta Roig Quartet at Jamboree, Plaça Reial.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-10-30"
   },
   {
     "title": "In the Mood for Love",
     "kind": "Movies",
-    "base": "Barcelona",
     "mode": "night",
-    "coordinates": [
-      2.17,
-      41.379
-    ],
+    "coordinates": [2.17, 41.379],
     "venue": "Filmoteca de Catalunya, Raval",
     "when": "Sat 18:00",
     "price": "€4",
     "group": "This weekend",
     "why": "Explore In the Mood for Love at Filmoteca de Catalunya, Raval.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-10-31"
   },
   {
     "title": "Trio Carioca",
     "kind": "Music",
-    "base": "Barcelona",
     "mode": "night",
-    "coordinates": [
-      2.177,
-      41.383
-    ],
+    "coordinates": [2.177, 41.383],
     "venue": "Harlem Jazz Club, Gòtic",
     "when": "Sat 31 Oct · 22:00",
     "price": "€12",
     "group": "This weekend",
     "why": "Seven-string guitar, pandeiro and flute in a room for about eighty people.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-10-31"
   },
   {
     "title": "Orquesta La Clave",
     "kind": "Music",
-    "base": "Barcelona",
     "mode": "night",
-    "coordinates": [
-      2.17,
-      41.374
-    ],
+    "coordinates": [2.17, 41.374],
     "venue": "Sala Apolo, Poble-sec",
     "when": "Thu 5 Nov",
     "price": "€22",
     "group": "Next week",
     "why": "Explore Orquesta La Clave at Sala Apolo, Poble-sec.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-11-05"
   },
   {
     "title": "The Quiet Season",
     "kind": "Movies",
-    "base": "Barcelona",
     "mode": "night",
-    "coordinates": [
-      2.156,
-      41.404
-    ],
+    "coordinates": [2.156, 41.404],
     "venue": "Cinemes Verdi, Gràcia",
-    "when": "Daily",
+    "when": "Sat 31 Oct",
     "price": "€9.50",
-    "group": "Any night",
+    "group": "This weekend",
     "why": "Explore The Quiet Season at Cinemes Verdi, Gràcia.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-10-31"
   },
   {
     "title": "Sunset at the Bunkers",
     "kind": "Outdoors",
-    "base": "Barcelona",
-    "mode": "night",
-    "coordinates": [
-      2.161,
-      41.419
-    ],
+    "mode": "day",
+    "coordinates": [2.161, 41.419],
     "venue": "Turó de la Rovira",
     "when": "17:32",
     "price": "Free",
-    "group": "Any night",
     "why": "Explore Sunset at the Bunkers at Turó de la Rovira.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ]
   },
   {
     "title": "Ibers: els primers catalans",
     "kind": "Exhibitions",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      2.155,
-      41.368
-    ],
+    "coordinates": [2.155, 41.368],
     "venue": "Museu d'Arqueologia, Montjuïc",
     "when": "Until 22 Feb",
     "price": "€6",
-    "group": "In the city",
     "why": "Explore Ibers: els primers catalans at Museu d'Arqueologia, Montjuïc.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 105
+      }
+    ]
   },
   {
     "title": "Tàpies: matèria i gest",
     "kind": "Exhibitions",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      2.165,
-      41.392
-    ],
+    "coordinates": [2.165, 41.392],
     "venue": "Fundació Antoni Tàpies, Eixample",
     "when": "Until 10 Jan",
     "price": "€15",
-    "group": "In the city",
     "why": "Explore Tàpies: matèria i gest at Fundació Antoni Tàpies, Eixample.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ]
   },
   {
     "title": "Barcelona 1929: la ciutat refeta",
     "kind": "Exhibitions",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      2.177,
-      41.384
-    ],
+    "coordinates": [2.177, 41.384],
     "venue": "MUHBA, Plaça del Rei",
     "when": "Until 14 Mar",
     "price": "€7",
-    "group": "In the city",
     "why": "Explore Barcelona 1929: la ciutat refeta at MUHBA, Plaça del Rei.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 105
+      }
+    ]
   },
   {
     "title": "Monestir de Pedralbes",
     "kind": "Places",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      2.112,
-      41.396
-    ],
+    "coordinates": [2.112, 41.396],
     "venue": "Pedralbes",
     "when": "Tue–Sun",
     "price": "€5",
-    "group": "In the city",
     "why": "Explore Monestir de Pedralbes at Pedralbes.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 105
+      }
+    ]
   },
   {
     "title": "Recinte Modernista de Sant Pau",
     "kind": "Places",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      2.175,
-      41.413
-    ],
+    "coordinates": [2.175, 41.413],
     "venue": "Guinardó",
     "when": "Daily",
     "price": "€16",
-    "group": "In the city",
     "why": "Explore Recinte Modernista de Sant Pau at Guinardó.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ]
   },
   {
     "title": "Montserrat: Sant Jeroni",
     "kind": "Hikes",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      1.811,
-      41.592
-    ],
+    "coordinates": [1.811, 41.592],
     "venue": "Montserrat",
     "when": "1 h by car",
     "price": "Free",
-    "group": "Out of town",
     "why": "Explore Montserrat: Sant Jeroni at Montserrat.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 60
+      }
+    ]
   },
   {
     "title": "Muntanya de Sal, Cardona",
     "kind": "Places",
-    "base": "Barcelona",
     "mode": "day",
-    "coordinates": [
-      1.674,
-      41.912
-    ],
+    "coordinates": [1.674, 41.912],
     "venue": "Cardona",
     "when": "1 h 20 by car",
     "price": "€15",
-    "group": "Out of town",
     "why": "Guided walk inside a mountain of salt, then the castle above the town.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 80
+      }
+    ]
   },
   {
     "title": "Laia Serra Trio",
     "kind": "Music",
-    "base": "Tamariu",
     "mode": "night",
-    "coordinates": [
-      3.162,
-      41.918
-    ],
+    "coordinates": [3.162, 41.918],
     "venue": "Teatre Municipal, Palafrugell",
     "when": "Sat 31 Oct · 21:00",
     "price": "€14",
     "group": "This weekend",
     "why": "Piano trio playing Mompou and Monk side by side.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-10-31"
   },
   {
     "title": "Nit de bossa nova",
     "kind": "Music",
-    "base": "Tamariu",
     "mode": "night",
-    "coordinates": [
-      3.16,
-      41.916
-    ],
+    "coordinates": [3.16, 41.916],
     "venue": "Mas de les Vinyes, Palafrugell",
     "when": "Sat 7 Nov",
     "price": "€15",
     "group": "Next week",
     "why": "Explore Nit de bossa nova at Mas de les Vinyes, Palafrugell.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 20
+      }
+    ],
+    "date": "2026-11-07"
   },
   {
     "title": "The Quiet Season",
     "kind": "Movies",
-    "base": "Tamariu",
     "mode": "night",
-    "coordinates": [
-      2.825,
-      41.984
-    ],
+    "coordinates": [2.825, 41.984],
     "venue": "Cinema Truffaut, Girona",
-    "when": "Thu–Sun",
+    "when": "Sat 31 Oct",
     "price": "€7",
-    "group": "Any night",
+    "group": "This weekend",
     "why": "Explore The Quiet Season at Cinema Truffaut, Girona.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "date": "2026-10-31"
   },
   {
     "title": "Sunset at Sant Sebastià",
     "kind": "Outdoors",
-    "base": "Tamariu",
-    "mode": "night",
-    "coordinates": [
-      3.206,
-      41.899
-    ],
+    "mode": "day",
+    "coordinates": [3.206, 41.899],
     "venue": "Lighthouse above Llafranc",
     "when": "17:31",
     "price": "Free",
-    "group": "Any night",
     "why": "Explore Sunset at Sant Sebastià at Lighthouse above Llafranc.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 105
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 10
+      }
+    ]
   },
   {
     "title": "Camí de ronda to Llafranc",
     "kind": "Walks",
-    "base": "Tamariu",
     "mode": "day",
-    "coordinates": [
-      3.207,
-      41.91
-    ],
+    "coordinates": [3.207, 41.91],
     "venue": "From the house, on foot",
     "when": "On foot",
     "price": "Free",
-    "group": "Close by",
     "why": "Explore Camí de ronda to Llafranc at From the house, on foot.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 105
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 5
+      }
+    ]
   },
   {
     "title": "Peratallada",
     "kind": "Places",
-    "base": "Tamariu",
     "mode": "day",
-    "coordinates": [
-      3.091,
-      41.979
-    ],
+    "coordinates": [3.091, 41.979],
     "venue": "Peratallada",
     "when": "20 min by car",
     "price": "Free",
-    "group": "Close by",
     "why": "Explore Peratallada at Peratallada.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 105
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 20
+      }
+    ]
   },
   {
     "title": "Ullastret Iberian town",
     "kind": "Places",
-    "base": "Tamariu",
     "mode": "day",
-    "coordinates": [
-      3.06,
-      42.005
-    ],
+    "coordinates": [3.06, 42.005],
     "venue": "Ullastret",
     "when": "25 min by car",
     "price": "€4",
-    "group": "Close by",
     "why": "Walls and streets of the largest Iberian settlement in Catalonia.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 110
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 25
+      }
+    ]
   },
   {
     "title": "Dalí i el mar",
     "kind": "Exhibitions",
-    "base": "Tamariu",
     "mode": "day",
-    "coordinates": [
-      2.981,
-      42.013
-    ],
+    "coordinates": [2.981, 42.013],
     "venue": "Castell Gala Dalí, Púbol",
     "when": "35 min by car",
     "price": "€10",
-    "group": "Close by",
     "why": "Explore Dalí i el mar at Castell Gala Dalí, Púbol.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 110
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 35
+      }
+    ]
   },
   {
     "title": "Besalú",
     "kind": "Places",
-    "base": "Tamariu",
     "mode": "day",
-    "coordinates": [
-      2.7,
-      42.2
-    ],
+    "coordinates": [2.7, 42.2],
     "venue": "Besalú",
     "when": "1 h by car",
     "price": "Free",
-    "group": "Farther",
     "why": "Explore Besalú at Besalú.",
-    "links": []
+    "links": [],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 100
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 60
+      }
+    ]
   }
 ]
