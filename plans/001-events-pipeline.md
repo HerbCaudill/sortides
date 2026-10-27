@@ -14,7 +14,7 @@ Populate date nights and exhibitions automatically, the same way the `briefings`
 ## Stages
 
 1. **Fetch (deterministic):** Pull candidates from each source and normalize them to title, venue, start and end dates, URL, category and raw description. Drop candidates already in `src/data/outings.json` or already judged (keep a judged-IDs file). Write the day's candidates to a dated raw file.
-2. **Select (LLM):** One pass over new candidates with the selection criteria below. Output a schema-validated list of picks with kind, base hints, mode and a one-line "why".
+2. **Select (LLM):** One pass over new candidates with the selection criteria below. Output a schema-validated list of picks with kind, base hints, mode, a one-line "why", and optional context. The context is a short paragraph of two or three sentences about the artist and their sound, the exhibition or film, or a practical venue or ticket tip. Ground it in fetched source material, including event pages, venue descriptions and ratings; do not invent facts. Keep it shorter when sources are thin.
 3. **Apply (deterministic):** Resolve venue coordinates and drive times from each base (Google Places and Routes, cached per venue; key in `~/.secrets` as `GOOGLE_MAPS_API_KEY`). Assign bases with the same rule as places: every base within a two-hour drive, otherwise the nearer one. Remove ended events, validate with the zod schema, commit and push.
 
 ## Selection criteria

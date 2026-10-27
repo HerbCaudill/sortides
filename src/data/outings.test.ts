@@ -2,6 +2,12 @@ import { describe, expect, it } from "vitest"
 import { outingSchema, outings, dayTripsForBase } from "./outings"
 
 describe("outings", () => {
+  it("preserves optional context for an outing", () => {
+    const item = outings[0]!
+    expect(outingSchema.parse({ ...item, context: "A distinctive performance." }).context).toBe(
+      "A distinctive performance.",
+    )
+  })
   it("shows shared places in drive-time order for each base", () => {
     const trips = dayTripsForBase(outings, "Tamariu")
     const times = trips.map(

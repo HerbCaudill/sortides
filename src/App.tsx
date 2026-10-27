@@ -164,12 +164,16 @@ export default function App() {
     venue.textContent = selected.venue
     const why = document.createElement("p")
     why.textContent = selected.why
+    const context = document.createElement("p")
+    context.textContent = selected.context ?? ""
     const link = document.createElement("a")
     link.href = `https://www.google.com/maps/dir/?api=1&destination=${selected.coordinates[1]},${selected.coordinates[0]}`
     link.target = "_blank"
     link.rel = "noreferrer"
     link.textContent = "Directions ↗"
-    content.append(heading, detail, venue, why, link)
+    content.append(heading, detail, venue, why)
+    if (selected.context) content.append(context)
+    content.append(link)
     if (selected.mapsUrl) {
       const maps = document.createElement("a")
       maps.href = selected.mapsUrl
@@ -331,6 +335,13 @@ export default function App() {
               aria-label="Search outings on phone"
             />
           </div>
+          {selected && !expanded && (
+            <div className="phone-detail">
+              <strong>{selected.title}</strong>
+              <p>{selected.why}</p>
+              {selected.context && <p>{selected.context}</p>}
+            </div>
+          )}
           <div className="list" ref={rows}>
             {groups.map(group => (
               <div key={group}>

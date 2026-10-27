@@ -22,6 +22,7 @@ export const outingSchema = z
     price: z.string().min(1),
     group: z.string().optional(),
     why: z.string().min(1),
+    context: z.string().min(1).optional(),
     date: z.iso.date().optional(),
     sourceList: z.string().min(1).optional(),
     mapsUrl: z.url().optional(),
