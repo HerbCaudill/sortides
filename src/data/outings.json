@@ -95,166 +95,6 @@
     "date": "2026-10-31"
   },
   {
-    "title": "Sunset at the Bunkers",
-    "kind": "Outdoors",
-    "mode": "day",
-    "coordinates": [2.161, 41.419],
-    "venue": "Turó de la Rovira",
-    "when": "17:32",
-    "price": "Free",
-    "why": "Explore Sunset at the Bunkers at Turó de la Rovira.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ]
-  },
-  {
-    "title": "Ibers: els primers catalans",
-    "kind": "Exhibitions",
-    "mode": "day",
-    "coordinates": [2.155, 41.368],
-    "venue": "Museu d'Arqueologia, Montjuïc",
-    "when": "Until 22 Feb",
-    "price": "€6",
-    "why": "Explore Ibers: els primers catalans at Museu d'Arqueologia, Montjuïc.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 105
-      }
-    ]
-  },
-  {
-    "title": "Tàpies: matèria i gest",
-    "kind": "Exhibitions",
-    "mode": "day",
-    "coordinates": [2.165, 41.392],
-    "venue": "Fundació Antoni Tàpies, Eixample",
-    "when": "Until 10 Jan",
-    "price": "€15",
-    "why": "Explore Tàpies: matèria i gest at Fundació Antoni Tàpies, Eixample.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 10
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ]
-  },
-  {
-    "title": "Barcelona 1929: la ciutat refeta",
-    "kind": "Exhibitions",
-    "mode": "day",
-    "coordinates": [2.177, 41.384],
-    "venue": "MUHBA, Plaça del Rei",
-    "when": "Until 14 Mar",
-    "price": "€7",
-    "why": "Explore Barcelona 1929: la ciutat refeta at MUHBA, Plaça del Rei.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 105
-      }
-    ]
-  },
-  {
-    "title": "Monestir de Pedralbes",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [2.112, 41.396],
-    "venue": "Pedralbes",
-    "when": "Tue–Sun",
-    "price": "€5",
-    "why": "Explore Monestir de Pedralbes at Pedralbes.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 105
-      }
-    ]
-  },
-  {
-    "title": "Recinte Modernista de Sant Pau",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [2.175, 41.413],
-    "venue": "Guinardó",
-    "when": "Daily",
-    "price": "€16",
-    "why": "Explore Recinte Modernista de Sant Pau at Guinardó.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 95
-      }
-    ]
-  },
-  {
-    "title": "Montserrat: Sant Jeroni",
-    "kind": "Hikes",
-    "mode": "day",
-    "coordinates": [1.811, 41.592],
-    "venue": "Montserrat",
-    "when": "1 h by car",
-    "price": "Free",
-    "why": "Explore Montserrat: Sant Jeroni at Montserrat.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 60
-      }
-    ]
-  },
-  {
-    "title": "Muntanya de Sal, Cardona",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [1.674, 41.912],
-    "venue": "Cardona",
-    "when": "1 h 20 by car",
-    "price": "€15",
-    "why": "Guided walk inside a mountain of salt, then the castle above the town.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 80
-      }
-    ]
-  },
-  {
     "title": "Laia Serra Trio",
     "kind": "Music",
     "mode": "night",
@@ -312,128 +152,1385 @@
     "date": "2026-10-31"
   },
   {
-    "title": "Sunset at Sant Sebastià",
-    "kind": "Outdoors",
-    "mode": "day",
-    "coordinates": [3.206, 41.899],
-    "venue": "Lighthouse above Llafranc",
-    "when": "17:31",
-    "price": "Free",
-    "why": "Explore Sunset at Sant Sebastià at Lighthouse above Llafranc.",
-    "links": [],
+    "title": "Congost de Mont-rebei",
+    "kind": "Nature",
     "bases": [
       {
         "base": "Barcelona",
-        "driveMinutes": 105
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 10
+        "driveMinutes": 178
       }
-    ]
-  },
-  {
-    "title": "Camí de ronda to Llafranc",
-    "kind": "Walks",
+    ],
     "mode": "day",
-    "coordinates": [3.207, 41.91],
-    "venue": "From the house, on foot",
-    "when": "On foot",
+    "coordinates": [0.6829786, 42.082746799999995],
+    "venue": "Sant Esteve de la Sarga",
+    "when": "Any day",
     "price": "Free",
-    "why": "Explore Camí de ronda to Llafranc at From the house, on foot.",
-    "links": [],
-    "bases": [
+    "why": "Cliff-side walkways through a gorge on the Noguera Ribagorçana. Book parking ahead in season.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Inici+del+cam%C3%AD+cap+a+la+passarel%C2%B7la+de+Mont-rebei/data=!4m2!3m1!1s0x12a6515a673768dd:0x4c283ccbfd5aa3bb",
+    "links": [
       {
-        "base": "Barcelona",
-        "driveMinutes": 105
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 5
-      }
-    ]
-  },
-  {
-    "title": "Peratallada",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [3.091, 41.979],
-    "venue": "Peratallada",
-    "when": "20 min by car",
-    "price": "Free",
-    "why": "Explore Peratallada at Peratallada.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 105
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 20
+        "label": "Website",
+        "url": "https://www.fundaciocatalunya-lapedrera.com/ca/espais-natura/congost-mont-rebei?utm_source=google&utm_medium=organic&utm_campaign=espainatura"
       }
     ]
   },
   {
     "title": "Ullastret Iberian town",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [3.06, 42.005],
-    "venue": "Ullastret",
-    "when": "25 min by car",
-    "price": "€4",
-    "why": "Walls and streets of the largest Iberian settlement in Catalonia.",
-    "links": [],
+    "kind": "Archaeology",
     "bases": [
       {
-        "base": "Barcelona",
-        "driveMinutes": 110
+        "base": "Tamariu",
+        "driveMinutes": 30
       },
       {
-        "base": "Tamariu",
-        "driveMinutes": 25
+        "base": "Barcelona",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.0798346999999997, 42.005927],
+    "venue": "Ullastret",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "The largest Iberian settlement in Catalonia: walls and streets on a hilltop, with a small museum.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Museu+d'Arqueologia+de+Catalunya+-+Ullastret/data=!4m2!3m1!1s0x12baf85e351bf3ff:0x1430c74c74d3ed91",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.mac.cat/ullastret"
       }
     ]
   },
   {
-    "title": "Dalí i el mar",
-    "kind": "Exhibitions",
+    "title": "Indians museum, Begur",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 95
+      }
+    ],
     "mode": "day",
-    "coordinates": [2.981, 42.013],
-    "venue": "Castell Gala Dalí, Púbol",
-    "when": "35 min by car",
-    "price": "€10",
-    "why": "Explore Dalí i el mar at Castell Gala Dalí, Púbol.",
-    "links": [],
+    "coordinates": [3.2086094, 41.9545481],
+    "venue": "Begur",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "How Begur emigrants made fortunes in Cuba and came home to build the town’s colonial-style houses.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Centre+d'Interpretaci%C3%B3+dels+Indians+de+Catalunya-Begur/data=!4m2!3m1!1s0x12ba51fbb91c6715:0xe58b33b299fb50a3",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://begur.cat/serveis/cultura/centre-dinterpretacio-indians/"
+      }
+    ]
+  },
+  {
+    "title": "Bell-lloc winery",
+    "kind": "Winery",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 24
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.1085756, 41.8804857],
+    "venue": "Palamós i Sant Joan",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Underground winery designed by RCR Arquitectes, with tastings among the vines.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Bell-Lloc+Winery/data=!4m2!3m1!1s0x12ba554d9c7441a3:0x5815ee5ca4d6c9a1",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.fincabell-lloc.com/en/"
+      }
+    ]
+  },
+  {
+    "title": "Masia Serra",
+    "kind": "Winery",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 82
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 109
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.928273, 42.423241999999995],
+    "venue": "Cantallops",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Family winery in the Albera hills above Cantallops.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Masia+Serra/data=!4m2!3m1!1s0x12ba9b4f80ee0063:0xa65b5ad4783b006f",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://masiaserra.com/"
+      }
+    ]
+  },
+  {
+    "title": "Mas Estela",
+    "kind": "Winery",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.1885961, 42.3154112],
+    "venue": "La Selva de Mar",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Organic winery in the hills behind La Selva de Mar, near Cap de Creus.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Mas+Estela+Winery/data=!4m2!3m1!1s0x12ba649ad3ec2457:0x5a71c032b67ce62e",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.masestela.com/"
+      }
+    ]
+  },
+  {
+    "title": "Arché Pagès",
+    "kind": "Winery",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 73
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 101
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.9239189999999997, 42.3746669],
+    "venue": "Capmany",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Small family winery in Capmany, in the heart of Empordà wine country.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Arch%C3%A9+Pag%C3%A8s/data=!4m2!3m1!1s0x12ba9abf2c484d8d:0xb6aed6952107c1cb",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://ca.cellerarchepages.com/"
+      }
+    ]
+  },
+  {
+    "title": "Douglas DC-6 memorial",
+    "kind": "Landmark",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.9156078, 42.4456659],
+    "venue": "Cantallops",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Memorial to a Douglas DC-6 that crashed near Cantallops in 1986.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/AVI%C3%93+DOUGLAS+DC6+1986/data=!4m2!3m1!1s0x12ba9c99d17876bf:0x579b542a6b237389",
+    "links": []
+  },
+  {
+    "title": "Terracotta ceramics museum",
+    "kind": "Museum",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 24
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.0442362999999997, 41.958689799999995],
+    "venue": "La Bisbal d'Empordà",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "La Bisbal’s pottery tradition, shown in an old ceramics factory.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/The+Terracotta+Ceramics+Museum/data=!4m2!3m1!1s0x12baf932d540272d:0x14ecf43e588a212b",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.terracottamuseu.cat/"
+      }
+    ]
+  },
+  {
+    "title": "Balneari Vichy Catalan",
+    "kind": "Spa",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 44
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 63
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.8047632, 41.839208299999996],
+    "venue": "Caldes de Malavella",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Historic spa hotel in Caldes de Malavella – thermal baths for the day.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Balneario+Vichy+Catalan/data=!4m2!3m1!1s0x12bb1f0e60628eff:0x84f124ff3c3bce4f",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.1881hotelbalneariovichycatalan.com/es/?utm_source=google&utm_medium=organic&utm_campaign=google-my-business"
+      }
+    ]
+  },
+  {
+    "title": "Mas Falgarona",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.905575, 42.2603302],
+    "venue": "Avinyonet de Puigventós",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Restored 17th-century farmhouse with a fine restaurant near Figueres.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Mas+Falgarona/data=!4m2!3m1!1s0x12ba9247d1da8c77:0x9e8ffbfac0ca0c53",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.masfalgarona.com/"
+      }
+    ]
+  },
+  {
+    "title": "Les Cols Pavellons",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 85
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.5009641, 42.194858499999995],
+    "venue": "Olot",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "RCR Arquitectes’ glass pavilions next to Les Cols, Fina Puigdevall’s restaurant in Olot.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Les+Cols+Pavellons/data=!4m2!3m1!1s0x12baca61da31aa6b:0x73463569be017f36",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.lescolspavellons.com/"
+      }
+    ]
+  },
+  {
+    "title": "Mas d'en Roqueta",
+    "kind": "Country hotel",
     "bases": [
       {
         "base": "Barcelona",
-        "driveMinutes": 110
+        "driveMinutes": 143
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.4031951, 42.3666067],
+    "venue": "Aravell",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Country hotel and restaurant near La Seu d’Urgell.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Mas+D'En+Roqueta+Restaurant/data=!4m2!3m1!1s0x12a5efca93c4ea2d:0xc4245c3ec764e904",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.masdenroqueta.com/"
+      }
+    ]
+  },
+  {
+    "title": "Xic's Cal Borrech",
+    "kind": "Winery",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 139
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.9556874999999998, 42.1254588],
+    "venue": "25655",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Vineyard and restaurant in the Pre-Pyrenees of Lleida.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Celler+Restaurant+Xics+Cal+Borrech/data=!4m2!3m1!1s0x12a66bf7fc000001:0xa4b47967599d4d3c",
+    "links": []
+  },
+  {
+    "title": "Masia el Puig",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
       },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 109
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.5066194, 42.2360153],
+    "venue": "Castellar de la Muntanya",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Stone farmhouse hotel with valley views in the Garrotxa.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Masia+el+Puig/data=!4m2!3m1!1s0x12bab5a44cdefa91:0xf1fdb73f3aede8e0",
+    "links": []
+  },
+  {
+    "title": "Hostal la Placeta",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 113
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 109
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.3645817, 42.3108329],
+    "venue": "Camprodon",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Inn on a square in Camprodon, with a restaurant and wine bar.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Hostal+la+Placeta/data=!4m2!3m1!1s0x12a54e95867e89cd:0x139c952fb8b97dcd",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://laplacetadecamprodon.com/"
+      }
+    ]
+  },
+  {
+    "title": "Hotel Mas de Xaxas",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 113
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 109
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.3706389, 42.3131203],
+    "venue": "Camprodon",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Small hotel by the river in Camprodon.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+Mas+de+Xaxas/data=!4m2!3m1!1s0x12a54e9776b61049:0xd470d3e31f7e7949",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.masdexaxas.com/"
+      }
+    ]
+  },
+  {
+    "title": "Hotelet del Bac",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 114
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.376902, 42.3110466],
+    "venue": "Camprodon",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Hotel with valley views just outside Camprodon.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Hotelet+del+Bac/data=!4m2!3m1!1s0x12a54e965b8f4ee5:0xf279eee8c6400abe",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.hoteletdelbac.com/"
+      }
+    ]
+  },
+  {
+    "title": "Hotel Cal Rei de Talló",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 109
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.7810686000000002, 42.363025799999996],
+    "venue": "Bellver de Cerdanya",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Stone hotel in the Cerdanya near Bellver.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Hotel+Cal+Rei+de+Tall%C3%B3/data=!4m2!3m1!1s0x12a59cc30118bad3:0xfe5d1f284c55a17a",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.hotelcalrei.com/"
+      }
+    ]
+  },
+  {
+    "title": "Hostal El Forn de Beget",
+    "kind": "Country hotel",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 120
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.4814401, 42.320704],
+    "venue": "Beget",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Old inn in Beget with a restaurant overlooking the mountains.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Hostal+El+Forn+de+Beget/data=!4m2!3m1!1s0x12bab31889b6c287:0x8827270991aea113",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.elforndebeget.com"
+      }
+    ]
+  },
+  {
+    "title": "Aquàrium de Barcelona",
+    "kind": "Aquarium",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 19
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.1843334, 41.3768473],
+    "venue": "Barcelona",
+    "when": "Check opening hours",
+    "price": "Varies",
+    "why": "Mediterranean and tropical tanks, with a walk-through shark tunnel.",
+    "sourceList": "Want to go",
+    "mapsUrl": "https://www.google.com/maps/place/Aquarium/data=!4m2!3m1!1s0xd51bab215b2efff:0xcddf34c9ef7db06e",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.aquariumbcn.com/?utm_campaign=maps&utm_medium=organic&utm_source=googlemaps"
+      }
+    ]
+  },
+  {
+    "title": "Camprodon",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 114
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.3651424999999997, 42.313669399999995],
+    "venue": "Camprodon",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Pyrenean town with a 12th-century stone bridge over the Ter.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Camprodon/data=!4m2!3m1!1s0x12a54e9452f3c1a5:0xdc8199afbfc1eed6",
+    "links": []
+  },
+  {
+    "title": "Castelnou",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 112
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.7029240999999997, 42.620225999999995],
+    "venue": "Castellnou dels Aspres",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Hilltop medieval village in French Catalonia, one of the “plus beaux villages de France”.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Castelnou/data=!4m2!3m1!1s0x12b00c239925b547:0x6e8ef9b37b71eded",
+    "links": []
+  },
+  {
+    "title": "Castellbell i el Vilar",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 102
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 43
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.8641519, 41.629103199999996],
+    "venue": "Castellbell i el Vilar",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Small town on the Llobregat at the foot of Montserrat.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Castellbell+i+el+Vilar/data=!4m2!3m1!1s0x12a4f5013ba9d18f:0x77a6cf3c466849c7",
+    "links": []
+  },
+  {
+    "title": "L'Astor",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 74
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.4273114, 41.6903449],
+    "venue": "L'Astor",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Tiny hilltop hamlet in the Anoia with wide views.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/L'Astor/data=!4m2!3m1!1s0x12a43bea4ed15b51:0x6d7ca5f261adfebd",
+    "links": []
+  },
+  {
+    "title": "Fonollosa",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 120
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 63
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.7246856, 41.757700199999995],
+    "venue": "08259",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Quiet farming village in the Bages.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Fonollosa/data=!4m2!3m1!1s0x12a44fe5d6494c69:0xe8746ab88e7e5eca",
+    "links": []
+  },
+  {
+    "title": "Argençola",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.4531355000000001, 41.6020116],
+    "venue": "08717",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Hilltop village in the Anoia uplands.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Argen%C3%A7ola/data=!4m2!3m1!1s0x12a43e075a2a33e7:0x20cb7562f371c98f",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.argensola.diba.cat/"
+      }
+    ]
+  },
+  {
+    "title": "Prullans",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 111
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.738673, 42.378856],
+    "venue": "Prullans",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Cerdanya village on a sunny slope facing the Cadí.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Prullans/data=!4m2!3m1!1s0x12a59b4b6d9c1167:0xca979427af28c0a8",
+    "links": []
+  },
+  {
+    "title": "Solsona",
+    "kind": "Town",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.5156684999999999, 41.9932468],
+    "venue": "Solsona",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Cathedral town with a well-kept old quarter.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Solsona/data=!4m2!3m1!1s0x12a5c9fc31e2b86f:0x400fae021a4c4d0",
+    "links": []
+  },
+  {
+    "title": "Talamanca",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.977755, 41.7368442],
+    "venue": "Talamanca",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Medieval village around a castle above the Calders valley.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Talamanca/data=!4m2!3m1!1s0x12a4f00f6d6eba87:0x9ee5ba69aa3ae28f",
+    "links": []
+  },
+  {
+    "title": "Santa Coloma de Cervelló",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 29
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.0176494, 41.367781099999995],
+    "venue": "Santa Coloma de Cervelló",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Home of Gaudí’s crypt at the Colònia Güell.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Santa+Coloma+de+Cervell%C3%B3/data=!4m2!3m1!1s0x12a49b0d8b457029:0xb01af8a1bb2219ef",
+    "links": []
+  },
+  {
+    "title": "Granera",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 116
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 64
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.0634559, 41.7303656],
+    "venue": "Granera",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Tiny village in the Moianès with a castle and a Romanesque church.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Granera/data=!4m2!3m1!1s0x12a4ef4e83155525:0xa93040f4b0b68c09",
+    "links": []
+  },
+  {
+    "title": "Olivella",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.8114184999999998, 41.310246299999996],
+    "venue": "Olivella",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Village in the Garraf hills, close to Sitges.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Olivella/data=!4m2!3m1!1s0x12a47e4a71e189e5:0xd6a22bbda0355f92",
+    "links": []
+  },
+  {
+    "title": "Sant Llorenç de la Muga",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 78
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 106
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.7885625999999997, 42.3225318],
+    "venue": "Sant Llorenç de la Muga",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Walled medieval village on the Muga river.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Sant+Lloren%C3%A7+de+la+Muga/data=!4m2!3m1!1s0x12ba97d2af4b999b:0x268e533aea5681c5",
+    "links": []
+  },
+  {
+    "title": "Tortosa",
+    "kind": "Town",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 122
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.5214423, 40.8125777],
+    "venue": "Tortosa",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Historic city on the Ebre with a Gothic cathedral and the Suda castle.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Tortosa/data=!4m2!3m1!1s0x12a0e4a4887de549:0x4750f0d9aa735b5c",
+    "links": []
+  },
+  {
+    "title": "Benifallet",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 125
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.5169218999999999, 40.9733072],
+    "venue": "Benifallet",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Ebre river village with show caves.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Benifallet/data=!4m2!3m1!1s0x12a0dde66f35b6c3:0xec8328bfb7d46830",
+    "links": []
+  },
+  {
+    "title": "Altafulla",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 67
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.3776888999999999, 41.140858699999995],
+    "venue": "Altafulla",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Walled old town above the beach, near Tarragona.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Altafulla/data=!4m2!3m1!1s0x12a3f07af838de8d:0xfcf9381022d6ddfe",
+    "links": []
+  },
+  {
+    "title": "La Vilella Baixa",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 120
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.7630852, 41.2202707],
+    "venue": "La Vilella Baixa",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Priorat village of tall houses stacked above the river.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/La+Vilella+Baixa/data=!4m2!3m1!1s0x12a1327280ee4a7f:0xf5f957516bc3c22",
+    "links": []
+  },
+  {
+    "title": "Queralbs",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 105
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.1628298999999997, 42.3495303],
+    "venue": "Queralbs",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Stone mountain village on the Vall de Núria rack railway.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Queralbs/data=!4m2!3m1!1s0x12a54294873fd749:0x5bb98aa634ca8d1d",
+    "links": []
+  },
+  {
+    "title": "Tavertet",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 113
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.4177834, 41.995266699999995],
+    "venue": "Tavertet",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Cliff-top village with views over the Sau reservoir.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Tavertet/data=!4m2!3m1!1s0x12a52c5e514fa8d5:0xc3f09b1f63bd112f",
+    "links": []
+  },
+  {
+    "title": "Monells",
+    "kind": "Village",
+    "bases": [
       {
         "base": "Tamariu",
         "driveMinutes": 35
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.9988680999999997, 41.9754009],
+    "venue": "Monells",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Arcaded medieval square in the Baix Empordà.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Monells/data=!4m2!3m1!1s0x12bafbeb5d2ce405:0xa31a89ea61bedbea",
+    "links": []
+  },
+  {
+    "title": "Rivert",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 181
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.8959727000000001, 42.2495543],
+    "venue": "Rivert",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Remote hamlet in the Pallars Jussà.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Rivert/data=!4m2!3m1!1s0x12a63fe8817a189f:0xaed2eaa65d1be011",
+    "links": []
+  },
+  {
+    "title": "Tivenys",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 135
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.5112607, 40.907504599999996],
+    "venue": "43511",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Ebre river village among olive groves.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Tivenys/data=!4m2!3m1!1s0x12a0e6db220f7ae9:0xadb4fee2e9b8898b",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.tivenys.altanet.org/"
       }
     ]
   },
   {
-    "title": "Besalú",
-    "kind": "Places",
-    "mode": "day",
-    "coordinates": [2.7, 42.2],
-    "venue": "Besalú",
-    "when": "1 h by car",
-    "price": "Free",
-    "why": "Explore Besalú at Besalú.",
-    "links": [],
+    "title": "Taüll",
+    "kind": "Village",
     "bases": [
       {
         "base": "Barcelona",
-        "driveMinutes": 100
+        "driveMinutes": 220
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.8487501, 42.519937],
+    "venue": "Taüll",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Romanesque churches of the Vall de Boí, a UNESCO World Heritage site.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Ta%C3%BCll/data=!4m2!3m1!1s0x12a620e7bb6deee1:0x193082866b09d147",
+    "links": []
+  },
+  {
+    "title": "Beget",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 120
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.4811265, 42.3206558],
+    "venue": "Beget",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Stone village in a deep valley with a Romanesque church.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Beget/data=!4m2!3m1!1s0x12bab3188c26f497:0x8b819c68203d34d5",
+    "links": []
+  },
+  {
+    "title": "Prades",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 111
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.9886394999999999, 41.309872399999996],
+    "venue": "Prades",
+    "when": "Any day",
+    "price": "Free",
+    "why": "The “red village” of the Prades mountains, built of red sandstone.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Prades/data=!4m2!3m1!1s0x12a6b37bbf3771db:0x72c976d5c80134c2",
+    "links": []
+  },
+  {
+    "title": "Montsonís",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 106
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.022565, 41.8867305],
+    "venue": "Montsonís",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Hilltop village with a castle in the Noguera.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Montson%C3%ADs/data=!4m2!3m1!1s0x12a6884d09077ec9:0x3d9c68e9cb552b4f",
+    "links": []
+  },
+  {
+    "title": "Rupit",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 114
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.4655228000000005, 42.024504199999996],
+    "venue": "Rupit",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Stone village in the Collsacabra with a hanging footbridge.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Rupit/data=!4m2!3m1!1s0x12bad2ce80215c2d:0xa5dbe78a7e794f82",
+    "links": []
+  },
+  {
+    "title": "Castellar de n'Hug",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 113
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.0172181, 42.2829512],
+    "venue": "Castellar de n'Hug",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Mountain village near the source of the Llobregat and the Asland cement museum.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Castellar+de+n'Hug/data=!4m2!3m1!1s0x12a56dcf557d1b59:0xd1ee80dfb78ded7c",
+    "links": []
+  },
+  {
+    "title": "Santa Pau",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.5703053000000002, 42.147188199999995],
+    "venue": "Santa Pau",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Medieval village in the Garrotxa volcanic park.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Santa+Pau/data=!4m2!3m1!1s0x12bac922d51118f7:0x875570b561c67f",
+    "links": []
+  },
+  {
+    "title": "Castellfollit de la Roca",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 82
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.5488918, 42.219731],
+    "venue": "Castellfollit de la Roca",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Village perched on the edge of a basalt cliff.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Castellfollit+de+la+Roca/data=!4m2!3m1!1s0x12bab610273f1959:0x7e80806747f40500",
+    "links": []
+  },
+  {
+    "title": "Peralada",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 64
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.0094404, 42.308352299999996],
+    "venue": "Peralada",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Castle town known for its wine cellars and summer music festival.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Peralada/data=!4m2!3m1!1s0x12ba8ed0c2ae038d:0x4c157bc397b1e7db",
+    "links": []
+  },
+  {
+    "title": "Tivissa",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 105
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.7330858, 41.0408609],
+    "venue": "Tivissa",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Ribera d’Ebre village near the Iberian site of Castellet de Banyoles.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Tivissa/data=!4m2!3m1!1s0x12a124a1fd55159b:0x51e8681ecd0f741c",
+    "links": []
+  },
+  {
+    "title": "Tossa de Mar",
+    "kind": "Town",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 77
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.9301806, 41.7223958],
+    "venue": "Tossa de Mar",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Walled old town on a headland above the beach.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Tossa+de+Mar/data=!4m2!3m1!1s0x12bb11cbe13ee55f:0x298d02ee8b95c047",
+    "links": []
+  },
+  {
+    "title": "Begur",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.2025607999999997, 41.9535511],
+    "venue": "Begur",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Hilltop town with a castle, indiano houses and coves below.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Begur/data=!4m2!3m1!1s0x12ba53d81794d96f:0x1fb9238b71186c25",
+    "links": []
+  },
+  {
+    "title": "Besalú",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
       },
       {
         "base": "Tamariu",
-        "driveMinutes": 60
+        "driveMinutes": 73
+      }
+    ],
+    "mode": "day",
+    "coordinates": [2.6953824, 42.200191000000004],
+    "venue": "Besalú",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Romanesque bridge and a medieval Jewish quarter.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Besal%C3%BA/data=!4m2!3m1!1s0x12bac7547751518d:0x334cb5899dfbf86b",
+    "links": []
+  },
+  {
+    "title": "Mura",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 66
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.9768377, 41.6998359],
+    "venue": "Mura",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Stone village in the Sant Llorenç del Munt park.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Mura,+Barcelona/data=!4m2!3m1!1s0x12a4f1cdbe2d2315:0x9d7fc0c4a59f1918",
+    "links": []
+  },
+  {
+    "title": "Peratallada",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 27
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 97
+      }
+    ],
+    "mode": "day",
+    "coordinates": [3.0908105000000003, 41.975453099999996],
+    "venue": "Peratallada",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Walled medieval village with a moat cut into the rock.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Peratallada/data=!4m2!3m1!1s0x12baf89897661525:0xa00fae2bb8bae60",
+    "links": []
+  },
+  {
+    "title": "Gósol",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 114
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.6596733, 42.237224],
+    "venue": "Gósol",
+    "when": "Any day",
+    "price": "Free",
+    "why": "Pyrenean village where Picasso spent the summer of 1906.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/G%C3%B3sol/data=!4m2!3m1!1s0x12a597e8d6a00e8b:0x6df9d94cb89229e6",
+    "links": []
+  },
+  {
+    "title": "Bagergue",
+    "kind": "Village",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 252
+      }
+    ],
+    "mode": "day",
+    "coordinates": [0.9155032999999999, 42.718932099999996],
+    "venue": "Bagergue",
+    "when": "Any day",
+    "price": "Free",
+    "why": "The highest village in the Val d’Aran.",
+    "sourceList": "Pobles amb encant",
+    "mapsUrl": "https://www.google.com/maps/place/Bagergue/data=!4m2!3m1!1s0x12a8bd435a1afef1:0xb1652d8ed38b24a2",
+    "links": []
+  },
+  {
+    "title": "Muntanya de Sal, Cardona",
+    "kind": "Nature",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 75
+      }
+    ],
+    "mode": "day",
+    "coordinates": [1.6746177999999998, 41.906663099999996],
+    "venue": "Cardona",
+    "when": "Guided tours; book ahead",
+    "price": "Varies",
+    "why": "Guided walk inside a mountain of salt, then the castle above the town.",
+    "mapsUrl": "https://maps.google.com/?cid=16651433110401339310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.cardonaturisme.cat/visita-cardona/muntanya-de-sal/"
       }
     ]
   }
