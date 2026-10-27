@@ -26,6 +26,16 @@ export const outingSchema = z
     date: z.iso.date().optional(),
     sourceList: z.string().min(1).optional(),
     mapsUrl: z.url().optional(),
+    photo: z
+      .object({
+        url: z.union([z.url(), z.string().startsWith("/photos/")]),
+        alt: z.string().min(1),
+        credit: z.string().min(1),
+        sourceUrl: z.url(),
+        license: z.string().min(1),
+        licenseUrl: z.url(),
+      })
+      .optional(),
     links: z.array(z.object({ label: z.string(), url: z.url() })),
   })
   .superRefine((item, ctx) => {

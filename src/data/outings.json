@@ -759,7 +759,15 @@
         "label": "Tourism office",
         "url": "https://visitcamprodon.cat/que-fer/historia-i-arquitectura/pont-nou/"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/camprodon.webp",
+      "alt": "View of Camprodon",
+      "credit": "Enfo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:271_Camprodon_des_del_puig_de_les_Rel%C3%ADquies.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   {
     "title": "Castelnou",
@@ -1104,7 +1112,15 @@
         "label": "Tourism office",
         "url": "https://www.tortosaturisme.cat/tortosa-en-un-dia/"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/tortosa.webp",
+      "alt": "View of Tortosa",
+      "credit": "Hans Hillewaert",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tortosa_(town_view).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   {
     "title": "Benifallet",
@@ -1204,7 +1220,15 @@
         "label": "Tourism office",
         "url": "https://ripollesturisme.cat/es/romanic/esglesia-de-sant-jaume-de-queralbs/"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/queralbs.webp",
+      "alt": "View of Queralbs",
+      "credit": "Kent Wang",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queralbs_-_51585118719.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   {
     "title": "Tavertet",
@@ -1337,7 +1361,15 @@
         "label": "Wikipedia",
         "url": "https://ca.wikipedia.org/wiki/Ta%C3%BCll"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/taull.webp",
+      "alt": "View of Taüll",
+      "credit": "Manuel Velazquez",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VISTA_DE_TAHULL_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
   },
   {
     "title": "Beget",
@@ -1441,7 +1473,15 @@
         "label": "Tourism office",
         "url": "https://www.rupitpruit.cat/turisme/informacio-util?lang=ca"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/rupit.webp",
+      "alt": "View of Rupit",
+      "credit": "raul2010 from Catalonia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rupit.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   {
     "title": "Castellar de n'Hug",
@@ -1495,7 +1535,15 @@
         "label": "Tourism office",
         "url": "https://www.spain.info/en/destination/santa-pau/"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/santa-pau.webp",
+      "alt": "View of Santa Pau",
+      "credit": "friviere",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalonia-CastellDeSantaPau.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
   },
   {
     "title": "Castellfollit de la Roca",
@@ -1553,7 +1601,15 @@
         "label": "Tourism office",
         "url": "https://www.catalunya.com/es/continguts/experiencies-turistiques/oficina-de-turismo-de-peralada-20-2-69"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/peralada.webp",
+      "alt": "View of Peralada",
+      "credit": "Josep Renalias Lohen11",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peralada_-_Pla%C3%A7a_major.JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
   },
   {
     "title": "Tivissa",
@@ -1607,7 +1663,15 @@
         "label": "Tourism office",
         "url": "https://visittossa.com/es/patrimonio-cultural/tossa-a-traves-del-tiempo/el-recinto-amurallado-de-la-vila-vella/"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/tossa-de-mar.webp",
+      "alt": "View of Tossa de Mar",
+      "credit": "Sylvestre",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tossa_de_Mar_-_center.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   {
     "title": "Begur",
@@ -1665,7 +1729,15 @@
         "label": "Tourism office",
         "url": "https://patrimoni.gencat.cat/ca/silesparetsparlessin/episodi-13-pont-de-besalu"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/besalu.webp",
+      "alt": "The medieval bridge over the Fluvià at Besalú",
+      "credit": "Mikipons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_Besal%C3%BA_1.jpg",
+      "license": "CC BY-SA 3.0 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en"
+    }
   },
   {
     "title": "Mura",
@@ -1719,7 +1791,15 @@
         "label": "Tourism office",
         "url": "https://www.visitperatallada.cat/pujades/files/fulleto_cat_EN_2025_WEB%2822%29.pdf"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/peratallada.webp",
+      "alt": "Stone buildings in the fortified village of Peratallada",
+      "credit": "Ane76",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peratallada.JPG",
+      "license": "CC BY-SA 3.0 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en"
+    }
   },
   {
     "title": "Gósol",
@@ -1744,7 +1824,15 @@
         "label": "Tourism office",
         "url": "https://gosol.ddl.net/turisme/picaso-1"
       }
-    ]
+    ],
+    "photo": {
+      "url": "/photos/gosol.webp",
+      "alt": "View of Gósol",
+      "credit": "Pere López",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%B3sol_des_del_castell.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
   },
   {
     "title": "Bagergue",

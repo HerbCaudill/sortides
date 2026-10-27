@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from "react"
+import { createRoot } from "react-dom/client"
 import {
   IconBuildingSkyscraper,
   IconBeach,
   IconMoon,
   IconSun,
-  IconSearch,
   IconMap,
   IconMusic,
   IconMovie,
@@ -25,20 +25,19 @@ import {
   type Outing,
 } from "./data/outings"
 import { UpdateNotice } from "./components/UpdateNotice"
+import { OutingPhoto } from "./components/OutingPhoto"
 
 /** The outings map and its responsive list. */
 export default function App() {
   const [base, setBase] = useState<"Barcelona" | "Tamariu">("Barcelona")
   const [mode, setMode] = useState<"night" | "day">("night")
   const [kind, setKind] = useState("Everything")
-  const [query, setQuery] = useState("")
   const [selected, setSelected] = useState<Outing | null>(null)
   const [shortcuts, setShortcuts] = useState(false)
   const [expanded, setExpanded] = useState(true)
   const mapNode = useRef<HTMLDivElement>(null)
   const map = useRef<maplibregl.Map | null>(null)
   const mapMode = useRef<"night" | "day">("night")
-  const search = useRef<HTMLInputElement>(null)
   const rows = useRef<HTMLDivElement>(null)
   const available = useMemo(
     () =>
@@ -50,13 +49,8 @@ export default function App() {
     [base, mode],
   )
   const visible = useMemo(
-    () =>
-      available.filter(
-        item =>
-          (kind === "Everything" || item.kind === kind) &&
-          `${item.title} ${item.venue} ${item.why}`.toLowerCase().includes(query.toLowerCase()),
-      ),
-    [available, kind, query],
+    () => available.filter(item => kind === "Everything" || item.kind === kind),
+    [available, kind],
   )
   const kinds = Array.from(new Set(available.map(item => item.kind)))
   const groupFor = (item: Outing) =>
@@ -94,49 +88,6 @@ export default function App() {
       zoom: mode === "night" ? (base === "Barcelona" ? 13.5 : 10.3) : 8.2,
       duration: 700,
     })
-    const drawRings = () => {
-      if (!instance.getSource("rings")) {
-        instance.addSource("rings", {
-          type: "geojson",
-          data: { type: "FeatureCollection", features: [] },
-        })
-        instance.addLayer({
-          id: "rings",
-          type: "line",
-          source: "rings",
-          paint: {
-            "line-color": "#1f4e79",
-            "line-opacity": 0.55,
-            "line-width": 1.5,
-            "line-dasharray": [3, 4],
-          },
-        })
-      }
-      const features =
-        mode === "day"
-          ? [25, 50].map(radius => ({
-              type: "Feature" as const,
-              properties: {},
-              geometry: {
-                type: "LineString" as const,
-                coordinates: Array.from({ length: 129 }, (_, i) => {
-                  const angle = (i * Math.PI * 2) / 128
-                  return [
-                    center[0] +
-                      (radius * Math.cos(angle)) / (111 * Math.cos((center[1] * Math.PI) / 180)),
-                    center[1] + (radius * Math.sin(angle)) / 111,
-                  ]
-                }),
-              },
-            }))
-          : []
-      ;(instance.getSource("rings") as maplibregl.GeoJSONSource).setData({
-        type: "FeatureCollection",
-        features,
-      })
-    }
-    if (instance.isStyleLoaded()) drawRings()
-    instance.on("style.load", drawRings)
     const markers = visible.map(item => {
       const node = document.createElement("button")
       node.className = "map-marker " + color(item.kind)
@@ -150,7 +101,6 @@ export default function App() {
       return new maplibregl.Marker({ element: node }).setLngLat(item.coordinates).addTo(instance)
     })
     return () => {
-      instance.off("style.load", drawRings)
       markers.forEach(marker => marker.remove())
     }
   }, [base, mode, visible])
@@ -158,6 +108,9 @@ export default function App() {
     const instance = map.current
     if (!instance || !selected) return
     const content = document.createElement("div")
+    const photoNode = document.createElement("div")
+    content.append(photoNode)
+    const photoRoot = createRoot(photoNode)
     const heading = document.createElement("strong")
     heading.textContent = selected.title
     const detail = document.createElement("p")
@@ -185,12 +138,16 @@ export default function App() {
       .setLngLat(selected.coordinates)
       .setDOMContent(content)
       .addTo(instance)
+    photoRoot.render(
+      <OutingPhoto photo={selected.photo} onLoad={() => popup.setLngLat(selected.coordinates)} />,
+    )
     instance.easeTo({ center: selected.coordinates, duration: 500 })
     const closePopup = () => setSelected(null)
     popup.on("close", closePopup)
     return () => {
       popup.off("close", closePopup)
       popup.remove()
+      photoRoot.unmount()
     }
   }, [selected])
   useEffect(() => {
@@ -213,10 +170,6 @@ export default function App() {
       if (key === "t") setBase("Tamariu")
       if (key === "n") setMode("night")
       if (key === "d") setMode("day")
-      if (key === "/") {
-        event.preventDefault()
-        search.current?.focus()
-      }
       if (key === "?") setShortcuts(true)
       if (key === "j" || key === "k") {
         event.preventDefault()
@@ -247,14 +200,6 @@ export default function App() {
             <span>
               <IconMap size={21} /> Sortides
             </span>
-            <button
-              className="search-button"
-              aria-label="Focus search"
-              onClick={() => search.current?.focus()}
-            >
-              <IconSearch size={18} />
-              <kbd>/</kbd>
-            </button>
           </div>
           <div className="toggle" aria-label="Base">
             {(["Barcelona", "Tamariu"] as const).map((value, index) => (
@@ -289,16 +234,6 @@ export default function App() {
             ))}
           </div>
           <div className="desktop-filters">
-            <div className="search-wrap">
-              <IconSearch size={16} />
-              <input
-                ref={search}
-                value={query}
-                onChange={event => setQuery(event.target.value)}
-                placeholder="Search outings"
-                aria-label="Search outings"
-              />
-            </div>
             <div className="chips">
               {["Everything", ...kinds].map(value => (
                 <button
@@ -326,16 +261,9 @@ export default function App() {
             </span>
             <b>{expanded ? "Map" : "List"}</b>
           </button>
-          <div className="mobile-search">
-            <input
-              value={query}
-              onChange={event => setQuery(event.target.value)}
-              placeholder="Search outings"
-              aria-label="Search outings on phone"
-            />
-          </div>
           {selected && !expanded && (
             <div className="phone-detail">
+              <OutingPhoto photo={selected.photo} />
               <strong>{selected.title}</strong>
               <p>{selected.why}</p>
               {selected.context && <p>{selected.context}</p>}
@@ -385,7 +313,7 @@ export default function App() {
                   ))}
               </div>
             ))}
-            {visible.length === 0 && <p className="empty">No outings match your search.</p>}
+            {visible.length === 0 && <p className="empty">No outings in this category.</p>}
           </div>
           <div className="footer">
             <span>Sample outings</span>
@@ -393,9 +321,6 @@ export default function App() {
           </div>
         </section>
       </aside>
-      {mode === "day" && (
-        <div className="ring-note">Dashed rings show approximate distance, not driving time</div>
-      )}
       {shortcuts && (
         <div className="backdrop" onClick={() => setShortcuts(false)}>
           <div
@@ -419,7 +344,7 @@ export default function App() {
               <kbd>J</kbd> Next outing <kbd>K</kbd> Previous outing
             </p>
             <p>
-              <kbd>/</kbd> Search <kbd>Esc</kbd> Close
+              <kbd>Esc</kbd> Close
             </p>
           </div>
         </div>

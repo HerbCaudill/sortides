@@ -42,3 +42,35 @@ test("changes the map palette with the outing mode", async ({ page }, testInfo) 
   await expect(page.getByText("Directions ↗").locator("visible=true").first()).toBeVisible()
   await page.screenshot({ path: `test-results/${testInfo.project.name}-night.png` })
 })
+
+test("shows an available place photo and its credit", async ({ page }, testInfo) => {
+  await page.goto("/")
+  await page
+    .getByRole("button", { name: /Day trips/ })
+    .first()
+    .click()
+  await page.getByRole("button", { name: /Peratallada Peratallada/ }).click()
+  const photo = page
+    .getByAltText("Stone buildings in the fortified village of Peratallada")
+    .locator("visible=true")
+    .first()
+  await expect(photo).toBeVisible()
+  await expect
+    .poll(() => photo.evaluate((image: HTMLImageElement) => image.naturalWidth))
+    .toBeGreaterThan(0)
+  await expect(
+    page.getByRole("link", { name: "Ane76" }).locator("visible=true").first(),
+  ).toBeVisible()
+  if (testInfo.project.name === "desktop") {
+    await expect.poll(async () => {
+      const box = await page.locator(".maplibregl-popup-content").boundingBox()
+      return box !== null && box.y >= 0 && box.y + box.height <= page.viewportSize()!.height
+    }).toBe(true)
+  }
+  await page.screenshot({ path: `test-results/${testInfo.project.name}-photo.png` })
+  if (testInfo.project.name === "phone") {
+    await page.setViewportSize({ width: 320, height: 700 })
+    await expect(photo).toBeVisible()
+    await page.screenshot({ path: "test-results/narrow-phone-photo.png" })
+  }
+})
