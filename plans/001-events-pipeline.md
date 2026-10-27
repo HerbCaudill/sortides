@@ -6,6 +6,8 @@ Populate date nights and exhibitions automatically, the same way the `briefings`
 
 - **Scope:** Date nights are dated music and film events only; theater is out. Exhibitions are day outings and appear while they are open, whatever their end date. Restaurants and bars are not part of the site.
 - **Sources:** Open-data agendas as the backbone, plus calendars from a short list of key venues. Barcelona's cultural agenda is published as JSON on [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/en/dataset/agenda-cultural) (CC BY 4.0, no token); check its freshness and coverage first. The Generalitat mentions an open culture agenda ("Agenda Oberta") that would cover the Empordà, but its API is unconfirmed. Prefer structured data (JSON feeds, iCal, JSON-LD `Event` markup on venue pages) over scraping text.
+- **Key music calendars:** Jamboree, Harlem Jazz Club, Sala Apolo, Palau de la Música, L’Auditori, El Molino and Paral·lel 62 in Barcelona; Auditori de Girona and La Mirona in Girona; Teatre Municipal and La Bòbila in Palafrugell; and the Barcelona Jazz Festival.
+- **Links:** Every event must have a usable event or ticket URL in `links`. Label a ticket-selling page "Tickets" and an event page "Event page". Add the venue's site as a second link when useful. Drop candidates without a usable URL.
 - **Films:** Folded into this pipeline. Fetch English Cinema Barcelona, the Filmoteca de Catalunya and Cinema Truffaut in Girona from the scheduled job. The old `vose-flix` app broke because it fetched English Cinema Barcelona from the browser through public CORS proxies; a server-side job avoids that. Reuse its OMDb/TMDB rating logic to help the selection pass.
 - **Cadence:** Daily on the mini. The fetch runs every day; the LLM only sees candidates it has not judged before, so most runs are small. Ended events are removed daily.
 - **Lookahead:** Dated events (concerts, screenings) within the next four weeks.
@@ -25,5 +27,4 @@ Populate date nights and exhibitions automatically, the same way the `briefings`
 
 ## Open questions
 
-- Which venues make the key-venue list (for example Jamboree, Harlem Jazz Club, Sala Apolo, Palau de la Música, L'Auditori, and Palafrugell and Girona venues for Tamariu)?
 - How do Herb and Lynne reject a pick or tune the criteria – by telling an agent, with the change recorded in this file?
