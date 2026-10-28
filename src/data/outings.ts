@@ -1,5 +1,6 @@
 import { z } from "zod"
 import data from "./outings.json"
+import { todayInCatalonia } from "../lib/todayInCatalonia"
 
 /** The base used to organize an outing. */
 export const baseSchema = z.enum(["Barcelona", "Tamariu"])
@@ -24,6 +25,8 @@ export const outingSchema = z
     why: z.string().min(1),
     context: z.string().min(1).optional(),
     date: z.iso.date().optional(),
+    startsOn: z.iso.date().optional(),
+    endsOn: z.iso.date().optional(),
     sourceList: z.string().min(1).optional(),
     mapsUrl: z.url().optional(),
     photo: z
@@ -41,6 +44,14 @@ export const outingSchema = z
   .superRefine((item, ctx) => {
     if (item.mode === "night" && (!item.date || !["Music", "Movies"].includes(item.kind)))
       ctx.addIssue({ code: "custom", message: "Date nights must be dated music or films." })
+    if (
+      item.kind === "Exhibitions" &&
+      (!item.startsOn || !item.endsOn || item.startsOn > item.endsOn)
+    )
+      ctx.addIssue({
+        code: "custom",
+        message: "Exhibitions must have an ordered opening and closing date.",
+      })
   })
 /** A validated outing. */
 export type Outing = z.infer<typeof outingSchema>
@@ -48,14 +59,29 @@ export type Outing = z.infer<typeof outingSchema>
 export type Base = z.infer<typeof baseSchema>
 /** All locally maintained outings. */
 export const outings = z.array(outingSchema).parse(data)
+/** Show an exhibition’s closing date without duplicating it in display copy. */
+export function exhibitionClosingDate(item: Outing) {
+  if (item.kind !== "Exhibitions" || !item.endsOn) return undefined
+  return `Until ${new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).format(new Date(`${item.endsOn}T12:00:00Z`))}`
+}
 /** Get the recorded drive time for a base. */
 export function driveMinutes(item: Outing, base: Base) {
   return item.bases.find(entry => entry.base === base)?.driveMinutes
 }
 /** Return a base’s day trips in ascending drive-time order. */
-export function dayTripsForBase(items: Outing[], base: Base) {
+export function dayTripsForBase(
+  /** Validated places and exhibitions. */
+  items: Outing[],
+  /** Base to calculate eligibility and drive time from. */
+  base: Base,
+  /** Current date in Catalonia, overridable for deterministic checks. */
+  today = todayInCatalonia(),
+) {
   return items
     .filter(item => item.mode === "day" && driveMinutes(item, base) !== undefined)
+    .filter(
+      item => item.kind !== "Exhibitions" || (item.startsOn! <= today && item.endsOn! >= today),
+    )
     .sort((a, b) => driveMinutes(a, base)! - driveMinutes(b, base)!)
 }
 /** Links to show for an outing: its own links, then directions and its Google Maps page. */

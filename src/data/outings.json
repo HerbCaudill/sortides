@@ -3,7 +3,10 @@
     "title": "Marta Roig Quartet",
     "kind": "Music",
     "mode": "night",
-    "coordinates": [2.175, 41.38],
+    "coordinates": [
+      2.175,
+      41.38
+    ],
     "venue": "Jamboree, Plaça Reial",
     "when": "Fri 21:00",
     "price": "€18",
@@ -22,7 +25,10 @@
     "title": "In the Mood for Love",
     "kind": "Movies",
     "mode": "night",
-    "coordinates": [2.17, 41.379],
+    "coordinates": [
+      2.17,
+      41.379
+    ],
     "venue": "Filmoteca de Catalunya, Raval",
     "when": "Sat 18:00",
     "price": "€4",
@@ -41,7 +47,10 @@
     "title": "Trio Carioca",
     "kind": "Music",
     "mode": "night",
-    "coordinates": [2.177, 41.383],
+    "coordinates": [
+      2.177,
+      41.383
+    ],
     "venue": "Harlem Jazz Club, Gòtic",
     "when": "Sat 31 Oct · 22:00",
     "price": "€12",
@@ -60,7 +69,10 @@
     "title": "Orquesta La Clave",
     "kind": "Music",
     "mode": "night",
-    "coordinates": [2.17, 41.374],
+    "coordinates": [
+      2.17,
+      41.374
+    ],
     "venue": "Sala Apolo, Poble-sec",
     "when": "Thu 5 Nov",
     "price": "€22",
@@ -79,7 +91,10 @@
     "title": "The Quiet Season",
     "kind": "Movies",
     "mode": "night",
-    "coordinates": [2.156, 41.404],
+    "coordinates": [
+      2.156,
+      41.404
+    ],
     "venue": "Cinemes Verdi, Gràcia",
     "when": "Sat 31 Oct",
     "price": "€9.50",
@@ -98,7 +113,10 @@
     "title": "Laia Serra Trio",
     "kind": "Music",
     "mode": "night",
-    "coordinates": [3.162, 41.918],
+    "coordinates": [
+      3.162,
+      41.918
+    ],
     "venue": "Teatre Municipal, Palafrugell",
     "when": "Sat 31 Oct · 21:00",
     "price": "€14",
@@ -117,7 +135,10 @@
     "title": "Nit de bossa nova",
     "kind": "Music",
     "mode": "night",
-    "coordinates": [3.16, 41.916],
+    "coordinates": [
+      3.16,
+      41.916
+    ],
     "venue": "Mas de les Vinyes, Palafrugell",
     "when": "Sat 7 Nov",
     "price": "€15",
@@ -136,7 +157,10 @@
     "title": "The Quiet Season",
     "kind": "Movies",
     "mode": "night",
-    "coordinates": [2.825, 41.984],
+    "coordinates": [
+      2.825,
+      41.984
+    ],
     "venue": "Cinema Truffaut, Girona",
     "when": "Sat 31 Oct",
     "price": "€7",
@@ -161,7 +185,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.6829786, 42.082746799999995],
+    "coordinates": [
+      0.6829786,
+      42.082746799999995
+    ],
     "venue": "Sant Esteve de la Sarga",
     "when": "Any day",
     "price": "Free",
@@ -190,7 +217,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.0798346999999997, 42.005927],
+    "coordinates": [
+      3.0798346999999997,
+      42.005927
+    ],
     "venue": "Ullastret",
     "when": "Check opening hours",
     "price": "Varies",
@@ -219,7 +249,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.2086094, 41.9545481],
+    "coordinates": [
+      3.2086094,
+      41.9545481
+    ],
     "venue": "Begur",
     "when": "Check opening hours",
     "price": "Varies",
@@ -248,7 +281,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.1085756, 41.8804857],
+    "coordinates": [
+      3.1085756,
+      41.8804857
+    ],
     "venue": "Palamós i Sant Joan",
     "when": "Check opening hours",
     "price": "Varies",
@@ -277,7 +313,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.928273, 42.423241999999995],
+    "coordinates": [
+      2.928273,
+      42.423241999999995
+    ],
     "venue": "Cantallops",
     "when": "Check opening hours",
     "price": "Varies",
@@ -302,7 +341,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.1885961, 42.3154112],
+    "coordinates": [
+      3.1885961,
+      42.3154112
+    ],
     "venue": "La Selva de Mar",
     "when": "Check opening hours",
     "price": "Varies",
@@ -331,7 +373,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.9239189999999997, 42.3746669],
+    "coordinates": [
+      2.9239189999999997,
+      42.3746669
+    ],
     "venue": "Capmany",
     "when": "Check opening hours",
     "price": "Varies",
@@ -356,7 +401,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.9156078, 42.4456659],
+    "coordinates": [
+      2.9156078,
+      42.4456659
+    ],
     "venue": "Cantallops",
     "when": "Any day",
     "price": "Free",
@@ -385,7 +433,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.0442362999999997, 41.958689799999995],
+    "coordinates": [
+      3.0442362999999997,
+      41.958689799999995
+    ],
     "venue": "La Bisbal d'Empordà",
     "when": "Check opening hours",
     "price": "Varies",
@@ -414,7 +465,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.8047632, 41.839208299999996],
+    "coordinates": [
+      2.8047632,
+      41.839208299999996
+    ],
     "venue": "Caldes de Malavella",
     "when": "Check opening hours",
     "price": "Varies",
@@ -443,7 +497,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.905575, 42.2603302],
+    "coordinates": [
+      2.905575,
+      42.2603302
+    ],
     "venue": "Avinyonet de Puigventós",
     "when": "Check opening hours",
     "price": "Varies",
@@ -472,7 +529,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.5009641, 42.194858499999995],
+    "coordinates": [
+      2.5009641,
+      42.194858499999995
+    ],
     "venue": "Olot",
     "when": "Check opening hours",
     "price": "Varies",
@@ -497,7 +557,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.4031951, 42.3666067],
+    "coordinates": [
+      1.4031951,
+      42.3666067
+    ],
     "venue": "Aravell",
     "when": "Check opening hours",
     "price": "Varies",
@@ -522,7 +585,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.9556874999999998, 42.1254588],
+    "coordinates": [
+      0.9556874999999998,
+      42.1254588
+    ],
     "venue": "25655",
     "when": "Check opening hours",
     "price": "Varies",
@@ -551,7 +617,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.5066194, 42.2360153],
+    "coordinates": [
+      2.5066194,
+      42.2360153
+    ],
     "venue": "Castellar de la Muntanya",
     "when": "Check opening hours",
     "price": "Varies",
@@ -580,7 +649,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.3645817, 42.3108329],
+    "coordinates": [
+      2.3645817,
+      42.3108329
+    ],
     "venue": "Camprodon",
     "when": "Check opening hours",
     "price": "Varies",
@@ -609,7 +681,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.3706389, 42.3131203],
+    "coordinates": [
+      2.3706389,
+      42.3131203
+    ],
     "venue": "Camprodon",
     "when": "Check opening hours",
     "price": "Varies",
@@ -638,7 +713,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.376902, 42.3110466],
+    "coordinates": [
+      2.376902,
+      42.3110466
+    ],
     "venue": "Camprodon",
     "when": "Check opening hours",
     "price": "Varies",
@@ -663,7 +741,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.7810686000000002, 42.363025799999996],
+    "coordinates": [
+      1.7810686000000002,
+      42.363025799999996
+    ],
     "venue": "Bellver de Cerdanya",
     "when": "Check opening hours",
     "price": "Varies",
@@ -688,7 +769,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.4814401, 42.320704],
+    "coordinates": [
+      2.4814401,
+      42.320704
+    ],
     "venue": "Beget",
     "when": "Check opening hours",
     "price": "Varies",
@@ -717,7 +801,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.1843334, 41.3768473],
+    "coordinates": [
+      2.1843334,
+      41.3768473
+    ],
     "venue": "Barcelona",
     "when": "Check opening hours",
     "price": "Varies",
@@ -746,7 +833,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.3651424999999997, 42.313669399999995],
+    "coordinates": [
+      2.3651424999999997,
+      42.313669399999995
+    ],
     "venue": "Camprodon",
     "when": "Any day",
     "price": "Free",
@@ -779,7 +869,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.7029240999999997, 42.620225999999995],
+    "coordinates": [
+      2.7029240999999997,
+      42.620225999999995
+    ],
     "venue": "Castellnou dels Aspres",
     "when": "Any day",
     "price": "Free",
@@ -808,7 +901,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.8641519, 41.629103199999996],
+    "coordinates": [
+      1.8641519,
+      41.629103199999996
+    ],
     "venue": "Castellbell i el Vilar",
     "when": "Any day",
     "price": "Free",
@@ -833,7 +929,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.4273114, 41.6903449],
+    "coordinates": [
+      1.4273114,
+      41.6903449
+    ],
     "venue": "L'Astor",
     "when": "Any day",
     "price": "Free",
@@ -862,7 +961,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.7246856, 41.757700199999995],
+    "coordinates": [
+      1.7246856,
+      41.757700199999995
+    ],
     "venue": "08259",
     "when": "Any day",
     "price": "Free",
@@ -887,7 +989,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.4531355000000001, 41.6020116],
+    "coordinates": [
+      1.4531355000000001,
+      41.6020116
+    ],
     "venue": "08717",
     "when": "Any day",
     "price": "Free",
@@ -912,7 +1017,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.738673, 42.378856],
+    "coordinates": [
+      1.738673,
+      42.378856
+    ],
     "venue": "Prullans",
     "when": "Any day",
     "price": "Free",
@@ -937,7 +1045,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.5156684999999999, 41.9932468],
+    "coordinates": [
+      1.5156684999999999,
+      41.9932468
+    ],
     "venue": "Solsona",
     "when": "Any day",
     "price": "Free",
@@ -962,7 +1073,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.977755, 41.7368442],
+    "coordinates": [
+      1.977755,
+      41.7368442
+    ],
     "venue": "Talamanca",
     "when": "Any day",
     "price": "Free",
@@ -991,7 +1105,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.0176494, 41.367781099999995],
+    "coordinates": [
+      2.0176494,
+      41.367781099999995
+    ],
     "venue": "Santa Coloma de Cervelló",
     "when": "Any day",
     "price": "Free",
@@ -1020,7 +1137,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.0634559, 41.7303656],
+    "coordinates": [
+      2.0634559,
+      41.7303656
+    ],
     "venue": "Granera",
     "when": "Any day",
     "price": "Free",
@@ -1045,7 +1165,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.8114184999999998, 41.310246299999996],
+    "coordinates": [
+      1.8114184999999998,
+      41.310246299999996
+    ],
     "venue": "Olivella",
     "when": "Any day",
     "price": "Free",
@@ -1074,7 +1197,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.7885625999999997, 42.3225318],
+    "coordinates": [
+      2.7885625999999997,
+      42.3225318
+    ],
     "venue": "Sant Llorenç de la Muga",
     "when": "Any day",
     "price": "Free",
@@ -1099,7 +1225,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.5214423, 40.8125777],
+    "coordinates": [
+      0.5214423,
+      40.8125777
+    ],
     "venue": "Tortosa",
     "when": "Any day",
     "price": "Free",
@@ -1132,7 +1261,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.5169218999999999, 40.9733072],
+    "coordinates": [
+      0.5169218999999999,
+      40.9733072
+    ],
     "venue": "Benifallet",
     "when": "Any day",
     "price": "Free",
@@ -1157,7 +1289,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.3776888999999999, 41.140858699999995],
+    "coordinates": [
+      1.3776888999999999,
+      41.140858699999995
+    ],
     "venue": "Altafulla",
     "when": "Any day",
     "price": "Free",
@@ -1182,7 +1317,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.7630852, 41.2202707],
+    "coordinates": [
+      0.7630852,
+      41.2202707
+    ],
     "venue": "La Vilella Baixa",
     "when": "Any day",
     "price": "Free",
@@ -1207,7 +1345,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.1628298999999997, 42.3495303],
+    "coordinates": [
+      2.1628298999999997,
+      42.3495303
+    ],
     "venue": "Queralbs",
     "when": "Any day",
     "price": "Free",
@@ -1244,7 +1385,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.4177834, 41.995266699999995],
+    "coordinates": [
+      2.4177834,
+      41.995266699999995
+    ],
     "venue": "Tavertet",
     "when": "Any day",
     "price": "Free",
@@ -1273,7 +1417,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.9988680999999997, 41.9754009],
+    "coordinates": [
+      2.9988680999999997,
+      41.9754009
+    ],
     "venue": "Monells",
     "when": "Any day",
     "price": "Free",
@@ -1298,7 +1445,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.8959727000000001, 42.2495543],
+    "coordinates": [
+      0.8959727000000001,
+      42.2495543
+    ],
     "venue": "Rivert",
     "when": "Any day",
     "price": "Free",
@@ -1323,7 +1473,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.5112607, 40.907504599999996],
+    "coordinates": [
+      0.5112607,
+      40.907504599999996
+    ],
     "venue": "43511",
     "when": "Any day",
     "price": "Free",
@@ -1348,7 +1501,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.8487501, 42.519937],
+    "coordinates": [
+      0.8487501,
+      42.519937
+    ],
     "venue": "Taüll",
     "when": "Any day",
     "price": "Free",
@@ -1381,7 +1537,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.4811265, 42.3206558],
+    "coordinates": [
+      2.4811265,
+      42.3206558
+    ],
     "venue": "Beget",
     "when": "Any day",
     "price": "Free",
@@ -1406,7 +1565,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.9886394999999999, 41.309872399999996],
+    "coordinates": [
+      0.9886394999999999,
+      41.309872399999996
+    ],
     "venue": "Prades",
     "when": "Any day",
     "price": "Free",
@@ -1431,7 +1593,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.022565, 41.8867305],
+    "coordinates": [
+      1.022565,
+      41.8867305
+    ],
     "venue": "Montsonís",
     "when": "Any day",
     "price": "Free",
@@ -1460,7 +1625,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.4655228000000005, 42.024504199999996],
+    "coordinates": [
+      2.4655228000000005,
+      42.024504199999996
+    ],
     "venue": "Rupit",
     "when": "Any day",
     "price": "Free",
@@ -1493,7 +1661,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.0172181, 42.2829512],
+    "coordinates": [
+      2.0172181,
+      42.2829512
+    ],
     "venue": "Castellar de n'Hug",
     "when": "Any day",
     "price": "Free",
@@ -1522,7 +1693,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.5703053000000002, 42.147188199999995],
+    "coordinates": [
+      2.5703053000000002,
+      42.147188199999995
+    ],
     "venue": "Santa Pau",
     "when": "Any day",
     "price": "Free",
@@ -1559,7 +1733,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.5488918, 42.219731],
+    "coordinates": [
+      2.5488918,
+      42.219731
+    ],
     "venue": "Castellfollit de la Roca",
     "when": "Any day",
     "price": "Free",
@@ -1588,7 +1765,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.0094404, 42.308352299999996],
+    "coordinates": [
+      3.0094404,
+      42.308352299999996
+    ],
     "venue": "Peralada",
     "when": "Any day",
     "price": "Free",
@@ -1621,7 +1801,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.7330858, 41.0408609],
+    "coordinates": [
+      0.7330858,
+      41.0408609
+    ],
     "venue": "Tivissa",
     "when": "Any day",
     "price": "Free",
@@ -1650,7 +1833,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.9301806, 41.7223958],
+    "coordinates": [
+      2.9301806,
+      41.7223958
+    ],
     "venue": "Tossa de Mar",
     "when": "Any day",
     "price": "Free",
@@ -1687,7 +1873,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.2025607999999997, 41.9535511],
+    "coordinates": [
+      3.2025607999999997,
+      41.9535511
+    ],
     "venue": "Begur",
     "when": "Any day",
     "price": "Free",
@@ -1716,7 +1905,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.6953824, 42.200191000000004],
+    "coordinates": [
+      2.6953824,
+      42.200191000000004
+    ],
     "venue": "Besalú",
     "when": "Any day",
     "price": "Free",
@@ -1749,7 +1941,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.9768377, 41.6998359],
+    "coordinates": [
+      1.9768377,
+      41.6998359
+    ],
     "venue": "Mura",
     "when": "Any day",
     "price": "Free",
@@ -1778,7 +1973,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [3.0908105000000003, 41.975453099999996],
+    "coordinates": [
+      3.0908105000000003,
+      41.975453099999996
+    ],
     "venue": "Peratallada",
     "when": "Any day",
     "price": "Free",
@@ -1811,7 +2009,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.6596733, 42.237224],
+    "coordinates": [
+      1.6596733,
+      42.237224
+    ],
     "venue": "Gósol",
     "when": "Any day",
     "price": "Free",
@@ -1844,7 +2045,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [0.9155032999999999, 42.718932099999996],
+    "coordinates": [
+      0.9155032999999999,
+      42.718932099999996
+    ],
     "venue": "Bagergue",
     "when": "Any day",
     "price": "Free",
@@ -1869,7 +2073,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [1.6746177999999998, 41.906663099999996],
+    "coordinates": [
+      1.6746177999999998,
+      41.906663099999996
+    ],
     "venue": "Cardona",
     "when": "Guided tours; book ahead",
     "price": "Varies",
@@ -1882,314 +2089,6 @@
         "url": "https://www.cardonaturisme.cat/visita-cardona/muntanya-de-sal/"
       }
     ]
-  },
-  {
-    "title": "MNAC – Museu Nacional d’Art de Catalunya",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 110
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.15331, 41.36833],
-    "venue": "Barcelona · Montjuïc",
-    "when": "Tue–Sun",
-    "price": "€12",
-    "why": "Romanesque church frescoes, Catalan modernism and rooftop views in one visit.",
-    "context": "The permanent collection spans medieval to modern Catalan art. The general ticket covers the collection, temporary exhibitions and rooftop viewpoint; check the museum’s seasonal hours.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MNAC%20%E2%80%93%20Museu%20Nacional%20d%E2%80%99Art%20de%20Catalunya%20Barcelona%20%C2%B7%20Montju%C3%AFc",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.museunacional.cat/en/opening-hours-and-prices"
-      }
-    ],
-    "photo": {
-      "url": "/photos/mnac-museu-nacional-d-art-de-catalunya.webp",
-      "alt": "View of MNAC – Museu Nacional d’Art de Catalunya",
-      "credit": "MARIA ROSA FERRE ✿ from Vilafranca del penedes, Catalunya",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLM14ES_-_Palau_Nacional_i_seu_del_MNAC_de_Barcelona_-_MARIA_ROSA_FERRE.jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
-    }
-  },
-  {
-    "title": "Museu Picasso",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.180893, 41.385216],
-    "venue": "Barcelona · El Born",
-    "when": "Tue–Sun",
-    "price": "From €12",
-    "why": "Picasso’s early work and Las Meninas series inside the old palaces of El Born.",
-    "context": "Choose a collection-only ticket or one including temporary exhibitions. Book a timed entry; free sessions also require a reservation.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20Picasso%20Barcelona%20%C2%B7%20El%20Born",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://museupicassobcn.cat/en/plan-your-visit"
-      }
-    ],
-    "photo": {
-      "url": "/photos/museu-picasso.webp",
-      "alt": "View of Museu Picasso",
-      "credit": "Pere López",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Berenguer_d%27Aguilar.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-    }
-  },
-  {
-    "title": "Fundació Joan Miró",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 110
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.16, 41.368611],
-    "venue": "Barcelona · Montjuïc",
-    "when": "Tue–Sun",
-    "price": "See tickets",
-    "why": "Miró’s paintings, sculpture and bright Mediterranean architecture on Montjuïc.",
-    "context": "Josep Lluís Sert designed the building around courtyards and natural light. Check the current exhibition programme and ticket arrangements before visiting.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3%20Joan%20Mir%C3%B3%20Barcelona%20%C2%B7%20Montju%C3%AFc",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.fmirobcn.org/en/"
-      }
-    ],
-    "photo": {
-      "url": "/photos/fundacio-joan-miro.webp",
-      "alt": "View of Fundació Joan Miró",
-      "credit": "Canaan",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3_Mir%C3%B3.JPG",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-    }
-  },
-  {
-    "title": "MACBA",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.166944, 41.383333],
-    "venue": "Barcelona · El Raval",
-    "when": "Closed Tue",
-    "price": "€13.50 online",
-    "why": "Contemporary art and changing exhibitions in Richard Meier’s white Raval building.",
-    "context": "The general ticket gives repeat access to current exhibitions and the collection for a month after activation. Closed Tuesdays; check Sunday and holiday hours.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MACBA%20Barcelona%20%C2%B7%20El%20Raval",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.macba.cat/en/plan-your-visit/"
-      }
-    ]
-  },
-  {
-    "title": "CCCB",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.166667, 41.383611],
-    "venue": "Barcelona · El Raval",
-    "when": "Tue–Sun 10–20",
-    "price": "From €8 online",
-    "why": "Exhibitions connecting art, cities, science and contemporary life.",
-    "context": "The programme changes through the year, so check the current exhibitions. Sunday afternoons are free with an advance reservation.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CCCB%20Barcelona%20%C2%B7%20El%20Raval",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.cccb.org/en/visit"
-      }
-    ]
-  },
-  {
-    "title": "Recinte Modernista de Sant Pau",
-    "kind": "Architecture",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 95
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.1744, 41.4128],
-    "venue": "Barcelona · Guinardó",
-    "when": "Daily from 09:30",
-    "price": "€17–18",
-    "why": "Modernista hospital pavilions, tiled interiors and gardens designed as a place of care.",
-    "context": "Explore Domènech i Montaner’s former hospital on a self-guided or guided visit. Closing time changes with the season; Barcelona residents can get reduced admission.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Recinte%20Modernista%20de%20Sant%20Pau%20Barcelona%20%C2%B7%20Guinard%C3%B3",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://santpaubarcelona.org/en/prepara-la-teva-visita/"
-      }
-    ],
-    "photo": {
-      "url": "/photos/recinte-modernista-de-sant-pau.webp",
-      "alt": "View of Recinte Modernista de Sant Pau",
-      "credit": "C messier",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF_%CE%A3%CE%B1%CE%BD%CF%84_%CE%A0%CE%AC%CE%BF%CF%85_3421.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-    }
-  },
-  {
-    "title": "Monestir de Pedralbes",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 105
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.1122, 41.3956],
-    "venue": "Barcelona · Pedralbes",
-    "when": "Tue–Sun",
-    "price": "€5.20",
-    "why": "A quiet Gothic cloister, medieval murals and the daily life of the enclosed community.",
-    "context": "Visit the monastery’s historic rooms, art and medicinal garden. Winter weekday hours are shorter; Sunday afternoons and the first Sunday of the month offer free entry.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monestir%20de%20Pedralbes%20Barcelona%20%C2%B7%20Pedralbes",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.monestirpedralbes.barcelona/en/visit/opening-times-and-admission-fees"
-      }
-    ],
-    "photo": {
-      "url": "/photos/monestir-de-pedralbes.webp",
-      "alt": "View of Monestir de Pedralbes",
-      "credit": "Enric",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:090_Monestir_de_Santa_Maria_de_Pedralbes_(Barcelona),_galeria_nord_del_claustre.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-    }
-  },
-  {
-    "title": "Museu d’Art de Girona",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 90
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 55
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.8267, 41.9872],
-    "venue": "Girona · Barri Vell",
-    "when": "Tue–Sun",
-    "price": "€7",
-    "why": "Catalan art from Romanesque to the twentieth century inside the old episcopal palace.",
-    "context": "Allow about an hour for the permanent collection, with more time for temporary exhibitions. Near the cathedral; Sundays have shorter hours.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Art%20de%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://museuart.cat/en/frequently-asked-questions/"
-      }
-    ],
-    "photo": {
-      "url": "/photos/museu-d-art-de-girona.webp",
-      "alt": "View of Museu d’Art de Girona",
-      "credit": "Eboix",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_Palau_Episcopal._Museu_d%27Art.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-    }
-  },
-  {
-    "title": "Museu d’Història dels Jueus",
-    "kind": "Museum",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 90
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 55
-      }
-    ],
-    "mode": "day",
-    "coordinates": [2.8255, 41.9861],
-    "venue": "Girona · Barri Vell",
-    "when": "Daily from 10:00",
-    "price": "€6",
-    "why": "Everyday life, culture and history of Catalonia’s medieval Jewish communities.",
-    "context": "Eleven galleries use Girona’s own material heritage to explore family, work, religion and persecution. Mondays and Sundays close earlier; the first Sunday of each month is free.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Hist%C3%B2ria%20dels%20Jueus%20Girona%20%C2%B7%20Barri%20Vell",
-    "links": [
-      {
-        "label": "Hours and tickets",
-        "url": "https://www.girona.cat/call/eng/info.php"
-      }
-    ],
-    "photo": {
-      "url": "/photos/museu-d-historia-dels-jueus.webp",
-      "alt": "View of Museu d’Història dels Jueus",
-      "credit": "Kippelboy",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_d%27Hist%C3%B2ria_dels_Jueus_(Girona)-entrada_(2).JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-    }
   },
   {
     "title": "Museu del Cinema",
@@ -2205,7 +2104,10 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.82236, 41.98367],
+    "coordinates": [
+      2.82236,
+      41.98367
+    ],
     "venue": "Girona · Mercadal",
     "when": "Tue–Sun; summer Mon",
     "price": "€7",
@@ -2228,44 +2130,136 @@
     }
   },
   {
-    "title": "Sant Pere de Galligants – MAC Girona",
-    "kind": "Museum",
+    "title": "The Cult of Beauty",
+    "kind": "Exhibitions",
     "bases": [
       {
         "base": "Barcelona",
-        "driveMinutes": 90
+        "driveMinutes": 15
       },
       {
         "base": "Tamariu",
-        "driveMinutes": 55
+        "driveMinutes": 100
       }
     ],
     "mode": "day",
-    "coordinates": [2.8264, 41.9889],
-    "venue": "Girona · Barri Vell",
-    "when": "Tue–Sun",
-    "price": "€6",
-    "why": "A Romanesque monastery and cloister housing Girona’s archaeology museum.",
-    "context": "The ticket covers the monastery, exhibitions and a tablet guide. Winter weekdays close at 18:00, Sundays at 14:00; the first Sunday of each month is free.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sant%20Pere%20de%20Galligants%20%E2%80%93%20MAC%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
+    "coordinates": [
+      2.166667,
+      41.383611
+    ],
+    "venue": "CCCB, Barcelona",
+    "startsOn": "2026-05-21",
+    "endsOn": "2026-11-08",
+    "when": "Tue–Sun 10:00–20:00",
+    "price": "€8 online",
+    "why": "How beauty standards are made – through medicine, commerce, race and gender.",
+    "context": "A Wellcome Collection project adapted for Barcelona, bringing historical objects and contemporary art into a critical look at bodies and exclusion. Tue–Sun 10:00–20:00; free Sunday afternoons require booking.",
     "links": [
       {
-        "label": "Hours and tickets",
-        "url": "https://www.mac.cat/ca/Visita-ns-Portada/Girona-Portada-Seu/Planifica-la-visita-Girona"
+        "label": "Exhibition page",
+        "url": "https://www.cccb.org/en/w/exhibitions/the-cult-of-beauty"
       }
-    ],
-    "photo": {
-      "url": "/photos/sant-pere-de-galligants-mac-girona.webp",
-      "alt": "View of Sant Pere de Galligants – MAC Girona",
-      "credit": "Josep Renalias",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sant_Pere_de_Galligants.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-    }
+    ]
   },
   {
-    "title": "Museu d’Història de Girona",
-    "kind": "Museum",
+    "title": "Charlotte Perriand. Free to Rethink the World",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.16,
+      41.368611
+    ],
+    "venue": "Fundació Joan Miró, Barcelona",
+    "startsOn": "2026-10-09",
+    "endsOn": "2027-02-28",
+    "when": "Tue–Sun; check hours",
+    "price": "See tickets",
+    "why": "Furniture and exhibition design as a way to rethink everyday life, from a pioneering woman of modernism.",
+    "context": "The show follows Perriand’s own creative voice, her exhibition designs and her connections with Sert, Miró, Picasso, Léger and Calder. Check admission options; weekend guided tours are sold separately with museum admission.",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fmirobcn.org/es/exposiciones/7357/charlotte-perriand-la-libertad-de-repensar-el-mundo"
+      }
+    ]
+  },
+  {
+    "title": "Anselm Kiefer. The Secret Life of Plants",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1619,
+      41.3954
+    ],
+    "venue": "La Pedrera, Barcelona",
+    "startsOn": "2026-10-02",
+    "endsOn": "2027-01-24",
+    "when": "Daily 10:00–19:30",
+    "price": "€16",
+    "why": "Memory, mythology and science explored through lead, roots, books and monumental vitrines.",
+    "context": "The Grothe Collection exhibition brings together Kiefer’s paintings, sculptures and artist’s books, including the Opus Magnum vitrines. Daily 10:00–19:30; closed 25 December.",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.lapedrera.com/en/exhibitions/anselm-kiefer/"
+      }
+    ]
+  },
+  {
+    "title": "Dana Lixenberg. American Images",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1986,
+      41.3867
+    ],
+    "venue": "KBr Fundación MAPFRE, Barcelona",
+    "startsOn": "2026-10-01",
+    "endsOn": "2027-01-17",
+    "when": "Tue–Sun 11:00–19:00",
+    "price": "€5",
+    "why": "Patient documentary portraits of American communities, beyond celebrity and familiar stereotypes.",
+    "context": "Includes the long-running Imperial Courts project in Los Angeles, homelessness in Indiana and an Iñupiaq community in Alaska. Tue–Sun 11:00–19:00; non-holiday Tuesdays are free.",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/centro-fotografia-kbr/exposicion-dana-lixenberg-american-images/"
+      }
+    ]
+  },
+  {
+    "title": "Concha Ibáñez. The Evocation of Landscape",
+    "kind": "Exhibitions",
     "bases": [
       {
         "base": "Barcelona",
@@ -2277,26 +2271,54 @@
       }
     ],
     "mode": "day",
-    "coordinates": [2.825083, 41.986972],
-    "venue": "Girona · Barri Vell",
-    "when": "Tue–Sun",
-    "price": "See tickets",
-    "why": "The city’s story from Roman Gerunda through medieval life and the twentieth century.",
-    "context": "The museum occupies a former Capuchin convent on Carrer de la Força. Check current gallery access, temporary exhibitions and admission before visiting.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museu%20d%E2%80%99Hist%C3%B2ria%20de%20Girona%20Girona%20%C2%B7%20Barri%20Vell",
+    "coordinates": [
+      2.8267,
+      41.9872
+    ],
+    "venue": "Museu d’Art de Girona",
+    "startsOn": "2026-06-18",
+    "endsOn": "2027-01-10",
+    "when": "Tue–Sun; shorter Sundays",
+    "price": "€7",
+    "why": "Landscapes reconstructed from travel and memory, with a different restrained palette for each place.",
+    "context": "Curated by Elina Norandi for the centenary of Ibáñez’s birth. Her studio paintings grew from travel sketches and photographs rather than painting outdoors. Included with museum admission; closed Mondays.",
     "links": [
       {
-        "label": "Hours and tickets",
-        "url": "https://web2.girona.cat/museuhistoria/eng/index.php"
+        "label": "Exhibition page",
+        "url": "https://museuart.cat/en/exposicions/concha-ibanez-the-evocation-of-landscape/"
+      }
+    ]
+  },
+  {
+    "title": "Instruments of the Soul",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 90
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
       }
     ],
-    "photo": {
-      "url": "/photos/museu-d-historia-de-girona.webp",
-      "alt": "View of Museu d’Història de Girona",
-      "credit": "Enfo",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:251_Casa_Cartell%C3%A0,_Museu_d%27Hist%C3%B2ria_de_Girona,_c._For%C3%A7a_27.JPG",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-    }
+    "mode": "day",
+    "coordinates": [
+      2.8267,
+      41.9872
+    ],
+    "venue": "Museu d’Art de Girona",
+    "startsOn": "2026-10-23",
+    "endsOn": "2027-03-29",
+    "when": "Tue–Sun; shorter Sundays",
+    "price": "€7",
+    "why": "Medieval objects as mediators between everyday life and the sacred – an archaeology and anthropology crossover.",
+    "context": "Matter and Spirit in Medieval Catalonia follows relics, textiles, sculpture, parchment and rock crystal through their original spiritual functions. Included with museum admission; closed Mondays.",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://museuart.cat/exposicions/instruments-de-lanima-materia-i-esperit-a-la-catalunya-medieval/"
+      }
+    ]
   }
 ]

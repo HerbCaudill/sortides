@@ -4,6 +4,8 @@ A static collection of outings. Run `pnpm install` and `pnpm dev` to start the s
 
 Edit `src/data/outings.json` to change the outings. `src/data/outings.ts` validates the data at startup. The list combines saved places, researched city visits and illustrative sample events. Museum visitor information was checked against the linked official pages on 28 October 2026; follow those links for current hours, prices and exhibition access. Coordinates are approximate.
 
+Exhibitions are specific temporary shows, with `startsOn` and `endsOn` dates and an exhibition-page link. The day-trip list shows them only during their run, using the current date in Catalonia, and displays their closing dates. General museum permanent collections are not standing recommendations; distinctive specialist museums can be. Exhibition picks were checked on 28 October 2026. New picks still require a manual update until the planned daily pipeline is connected and scheduled.
+
 Run `pnpm test`, `pnpm build`, and `pnpm exec playwright test` to check the app. Install the Playwright browsers with `pnpm exec playwright install chromium webkit` if needed.
 
 For each day trip, `bases` lists the eligible bases and an estimated `driveMinutes` from each. Include both bases when both are within 120 minutes. If neither is within 120 minutes, include only the nearer base. Drive times are approximate; replace estimates with researched values when available. Date nights must have a date and a Music or Movies kind. `sourceList` and `mapsUrl` are optional fields for future saved-list imports.

@@ -22,7 +22,7 @@ Populate date nights and exhibitions automatically, the same way the `briefings`
 ## Selection criteria
 
 - **Music:** Look for live music in Barcelona and the Costa Brava that Herb and Lynne might enjoy together, with particular attention to jazz, Brazilian music, salsa, and other Cuban and Latin dance music. Also consider soul, funk, blues, singer-songwriters, Americana, alternative and classic rock, and Spanish and Latin American song. Use Herb's Spotify playlists as a starting point for judging artists and styles, and include smaller acts and distinctive interpretations. Be selective: a genre match alone is not enough; choose performances that seem compelling as a night out for both of them.
-- **Exhibitions:** Broad interests – history, art, archaeology, design. Prefer temporary exhibitions over permanent collections.
+- **Exhibitions:** Select specific temporary exhibitions in history, art, archaeology and design. Each pick needs the exhibition title, venue, opening and closing dates, a link to that exhibition, and a concrete reason it might interest Herb and Lynne. General museums and their permanent collections are sources to monitor, rather than outing recommendations. Distinctive specialist museums, such as a typewriter museum, can still be standing day outings.
 - **Films:** Original-version (VOSE) screenings only. Favor well-reviewed new releases and notable repertory screenings.
 
 ## Open questions

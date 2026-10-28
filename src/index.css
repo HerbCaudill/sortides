@@ -7,3 +7,4 @@
 .outing-photo{margin:0 0 12px}.outing-photo img{display:block;width:100%;max-height:180px;object-fit:cover;border-radius:7px}.outing-photo figcaption{font-size:10px;color:#667385;margin-top:4px;line-height:1.4}.maplibregl-popup-content .outing-photo a{font-weight:400}.phone-detail .outing-photo img{max-height:180px}.phone-detail .outing-photo figcaption{font-size:11px}.maplibregl-popup-content{max-height:min(440px,calc(50dvh - 32px));overflow:auto}
 @media(max-width:700px){.maplibregl-popup{display:none}}
 
+.outing-text .exhibition-dates{white-space:normal;color:#7048e8;margin-top:2px}.phone-detail .exhibition-dates,.maplibregl-popup-content .exhibition-dates{color:#7048e8;font-weight:500}

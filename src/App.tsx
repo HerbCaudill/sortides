@@ -21,11 +21,13 @@ import {
   driveMinutes,
   driveGroup,
   outingLinks,
+  exhibitionClosingDate,
   formatDriveTime,
   type Outing,
 } from "./data/outings"
 import { UpdateNotice } from "./components/UpdateNotice"
 import { OutingPhoto } from "./components/OutingPhoto"
+import { useTodayInCatalonia } from "./lib/useTodayInCatalonia"
 
 /** The outings map and its responsive list. */
 export default function App() {
@@ -35,6 +37,7 @@ export default function App() {
   const [selected, setSelected] = useState<Outing | null>(null)
   const [shortcuts, setShortcuts] = useState(false)
   const [expanded, setExpanded] = useState(true)
+  const today = useTodayInCatalonia()
   const mapNode = useRef<HTMLDivElement>(null)
   const map = useRef<maplibregl.Map | null>(null)
   const mapMode = useRef<"night" | "day">("night")
@@ -42,11 +45,11 @@ export default function App() {
   const available = useMemo(
     () =>
       mode === "day"
-        ? dayTripsForBase(outings, base)
+        ? dayTripsForBase(outings, base, today)
         : outings
             .filter(item => item.mode === "night" && item.bases.some(entry => entry.base === base))
             .sort((a, b) => a.date!.localeCompare(b.date!)),
-    [base, mode],
+    [base, mode, today],
   )
   const visible = useMemo(
     () => available.filter(item => kind === "Everything" || item.kind === kind),
@@ -132,6 +135,13 @@ export default function App() {
       actions.append(anchor)
     })
     content.append(heading, detail, venue, why)
+    const closingDate = exhibitionClosingDate(selected)
+    if (closingDate) {
+      const dates = document.createElement("p")
+      dates.className = "exhibition-dates"
+      dates.textContent = closingDate
+      heading.after(dates)
+    }
     if (selected.context) content.append(context)
     content.append(actions)
     const popup = new maplibregl.Popup({ offset: 22 })
@@ -265,6 +275,9 @@ export default function App() {
             <div className="phone-detail">
               <OutingPhoto photo={selected.photo} />
               <strong>{selected.title}</strong>
+              {exhibitionClosingDate(selected) && (
+                <p className="exhibition-dates">{exhibitionClosingDate(selected)}</p>
+              )}
               <p>{selected.why}</p>
               {selected.context && <p>{selected.context}</p>}
               <p>
@@ -303,6 +316,9 @@ export default function App() {
                         <small>
                           {item.venue} · {item.price}
                         </small>
+                        {exhibitionClosingDate(item) && (
+                          <small className="exhibition-dates">{exhibitionClosingDate(item)}</small>
+                        )}
                       </span>
                       <span className="when">
                         {item.mode === "day"
