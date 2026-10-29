@@ -2320,5 +2320,91 @@
         "url": "https://museuart.cat/exposicions/instruments-de-lanima-materia-i-esperit-a-la-catalunya-medieval/"
       }
     ]
+  },
+  {
+    "title": "Ray Cuza & Quinteto Sazonando de Cuba",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.177,
+      41.383
+    ],
+    "venue": "Harlem Jazz Club, Gòtic",
+    "when": "Fri 30 Oct · 23:00",
+    "price": "€15",
+    "why": "Classic Cuban son and bolero with voice, trumpet, piano, bass and percussion, in a concert the venue explicitly invites you to dance to.",
+    "context": "Doors open at 20:00; the concert starts at 23:00. Seats and tables are first come, first served.",
+    "date": "2026-10-30",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-quinteto-sazonando-de-cuba-musica-cubana-son-chachacha-bolero-15e-12/"
+      }
+    ]
+  },
+  {
+    "title": "Chino Swingslide & The Sharps + Lu Cicchitelli",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.177,
+      41.383
+    ],
+    "venue": "Harlem Jazz Club, Gòtic",
+    "when": "Sat 31 Oct · 23:00",
+    "price": "€15",
+    "why": "Slide guitar and two saxophones in a danceable swing and rhythm-and-blues programme with guest Lu Cicchitelli.",
+    "context": "The venue lists a 23:00 concert start, with doors at 20:00. Tickets do not reserve a seat or table.",
+    "date": "2026-10-31",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-the-sharps-lu-cicchitellli-concierto-exclusivo-en-bcn-swing-swing-swing-15e/"
+      }
+    ]
+  },
+  {
+    "title": "KBr Flama’26",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1986,
+      41.3867
+    ],
+    "venue": "KBr Fundación MAPFRE, Barcelona",
+    "when": "Tue–Sun 11:00–19:00",
+    "price": "€5",
+    "why": "Four emerging photographers explore identity, family memory and archaeology through personal projects.",
+    "context": "The sixth edition brings together Sara Bravo, Elena Bulet i Llopis, Meghan Mathews and Luca Gaetano Pira. The general ticket covers both current exhibitions; non-holiday Tuesdays are free.",
+    "startsOn": "2026-10-01",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/centro-fotografia-kbr/exposicion-kbr-flama-2026/"
+      }
+    ]
   }
 ]
