@@ -2406,5 +2406,328 @@
         "url": "https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/centro-fotografia-kbr/exposicion-kbr-flama-2026/"
       }
     ]
+  },
+  {
+    "title": "Los Rebeldes + Jodie Cash",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "venue": "La Mirona",
+    "when": "07 Nov · 20:45",
+    "price": "€28 advance; €35 at the door",
+    "why": "A double bill of Spanish rockabilly and Jodie Cash’s country and Southern rock makes a varied roots-music night.",
+    "date": "2026-11-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://lamirona.cat/2026/11/07/los-rebeldes/"
+      }
+    ]
+  },
+  {
+    "title": "The Funk Power Station",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "venue": "La Mirona",
+    "when": "13 Nov · 21:30",
+    "price": "€15 advance; €18 at the door",
+    "why": "A twelve-piece Girona band plays danceable funk and soul, drawing on James Brown, Stevie Wonder and Earth, Wind & Fire.",
+    "date": "2026-11-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://lamirona.cat/2026/11/13/the-funk-power-station/"
+      }
+    ]
+  },
+  {
+    "title": "Sidonie",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "venue": "La Mirona",
+    "when": "27 Nov · 21:30",
+    "price": "€20 advance; €25 at the door",
+    "why": "The Barcelona trio brings its Catalan-language Catalan Graffiti songs about memory, love and growing older to La Mirona’s smaller room.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://lamirona.cat/2026/11/27/sidonie/"
+      }
+    ]
+  },
+  {
+    "title": "Phantom Thread",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Tue 3 Nov · 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Daniel Day-Lewis and Vicky Krieps in a darkly funny study of desire, control and creative obsession.",
+    "context": "Rotten Tomatoes critics: 91% as checked on 30 October 2026.",
+    "date": "2026-11-03",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/phantom-thread"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/phantom_thread"
+      }
+    ]
+  },
+  {
+    "title": "A Woman Under the Influence",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Sat 31 Oct · 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Gena Rowlands anchors Cassavetes’s intense portrait of motherhood, marriage and the pressure to fit social expectations.",
+    "context": "Rotten Tomatoes critics: 88% as checked on 30 October 2026.",
+    "date": "2026-10-31",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/woman_under_the_influence"
+      }
+    ]
+  },
+  {
+    "title": "One Battle After Another",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Fri 6 Nov · 20:00 · original version, Spanish subtitles",
+    "price": "See tickets",
+    "why": "Paul Thomas Anderson mixes political satire, a fugitive father’s past and family drama in an energetic thriller.",
+    "context": "Rotten Tomatoes critics: 94% as checked on 30 October 2026.",
+    "date": "2026-11-06",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/one-battle-after-another"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/one_battle_after_another"
+      }
+    ]
+  },
+  {
+    "title": "Licorice Pizza",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Sat 31 Oct · 20:45 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "A warm, restless portrait of first love in 1970s Los Angeles, with Alana Haim and Cooper Hoffman.",
+    "context": "Rotten Tomatoes critics: 90% as checked on 30 October 2026.",
+    "date": "2026-10-31",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/licorice_pizza"
+      }
+    ]
+  },
+  {
+    "title": "Una fuerza del pasado",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.149575,
+      41.371308
+    ],
+    "venue": "CaixaForum Barcelona",
+    "when": "Daily 10:00–20:00",
+    "price": "€6",
+    "why": "Contemporary artists revisit inherited images and traditions through quotation, homage and criticism – a show about how cultural memory shapes the present.",
+    "startsOn": "2026-09-23",
+    "endsOn": "2027-01-10",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://caixaforum.org/es/barcelona/p/una-fuerza-del-pasado-barcelona"
+      }
+    ]
+  },
+  {
+    "title": "Sim: Acquisition, Drawing and War",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1535699999999998,
+      41.3684399
+    ],
+    "venue": "MNAC",
+    "when": "Open until 8 November",
+    "price": "See tickets",
+    "why": "José Luis Rey Vila’s drawings made during the Spanish Civil War capture soldiers, bombing and civilian flight with the immediacy of eyewitness notes.",
+    "startsOn": "2026-05-07",
+    "endsOn": "2026-11-08",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.museunacional.cat/en/sim-acquisition-drawing-and-war"
+      }
+    ]
+  },
+  {
+    "title": "Wounded Militiaman: The Recovery of an Irredeemable Painting",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1535699999999998,
+      41.3684399
+    ],
+    "venue": "MNAC",
+    "when": "Open until 31 December",
+    "price": "See tickets",
+    "why": "A damaged Civil War painting by Francisco Mateos opens questions about political memory, irreversible decay and the limits of restoration.",
+    "startsOn": "2026-05-07",
+    "endsOn": "2026-12-31",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.museunacional.cat/en/wounded-militiaman-recovery-irredeemable-painting"
+      }
+    ]
   }
 ]

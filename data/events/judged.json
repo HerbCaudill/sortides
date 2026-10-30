@@ -995,5 +995,75 @@
   "https://www.fundacionmapfre.org/arte-y-cultura/exposiciones/centro-fotografia-kbr/exposicion-kbr-flama-2026/#2026-10-01": {
     "judgedOn": "2026-10-29",
     "accepted": true
+  },
+  "https://lamirona.cat/2026/11/07/los-rebeldes/#2026-11-07": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://lamirona.cat/2026/11/13/the-funk-power-station/#2026-11-13": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://lamirona.cat/2026/11/27/sidonie/#2026-11-27": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/phantom-thread#2026-11-03": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi#2026-10-31": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/one-battle-after-another#2026-11-06": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/licorice-pizza#2026-10-31": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://caixaforum.org/es/barcelona/p/una-fuerza-del-pasado-barcelona#2026-09-23": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.museunacional.cat/en/sim-acquisition-drawing-and-war#2026-05-07": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://www.museunacional.cat/en/wounded-militiaman-recovery-irredeemable-painting#2026-05-07": {
+    "judgedOn": "2026-10-30",
+    "accepted": true
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/joc-criatures#2026-03-13": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Exhibition ended 2026-09-06; not open on 30 October 2026."
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/aqui-mateix#2026-03-13": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Exhibition ended 2026-09-06; not open on 30 October 2026."
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/maladaptative-daydreaming#2026-03-13": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Exhibition ended 2026-09-06; not open on 30 October 2026."
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/slime-llim-llot-i-fang#2026-05-29": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Exhibition ended 2026-06-21; not open on 30 October 2026."
+  },
+  "https://lamirona.cat/2026/11/24/creedence-clearwater-revival/#2026-11-24": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Tribute concert page does not identify the performing band clearly; insufficient detail to recommend this over the named live acts selected at La Mirona."
+  },
+  "https://caixaforum.org/es/girona/p/miradas-orbitales.-el-planeta-a-vista-de-satelite-girona#2026-10-08": {
+    "judgedOn": "2026-10-30",
+    "accepted": false,
+    "reason": "Earth-observation science exhibition rather than the requested history, art, archaeology or design focus."
   }
 }

@@ -1,0 +1,187 @@
+{
+  "Filmoteca": {
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "verifiedAt": "2026-10-30T07:05:35.255Z",
+    "placeId": "ChIJJysg51iipBIRSso7Q1Y9nd4",
+    "address": "Plaça de Salvador Seguí, 1, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.filmoteca.cat/web/ca/agenda",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12,
+        "distanceMeters": 2116
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93,
+        "distanceMeters": 129233
+      }
+    ]
+  },
+  "La Mirona": {
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "verifiedAt": "2026-10-30T07:05:35.733Z",
+    "placeId": "ChIJva4ohv7duhIR9lxjErxlPMo",
+    "address": "Carrer d'Amnistia Internacional, 17, 17190 Salt, Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=14572634352700841206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://lamirona.cat/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70,
+        "distanceMeters": 98490
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50,
+        "distanceMeters": 56943
+      }
+    ]
+  },
+  "MNAC": {
+    "coordinates": [
+      2.1535699999999998,
+      41.3684399
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "verifiedAt": "2026-10-30T07:05:36.159Z",
+    "placeId": "ChIJMU59xHGipBIRkdwlcgUWAYY",
+    "address": "Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=9656023288704785553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.museunacional.cat/en/exhibitions",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15,
+        "distanceMeters": 3943
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98,
+        "distanceMeters": 130193
+      }
+    ]
+  },
+  "CaixaForum Barcelona": {
+    "coordinates": [
+      2.149575,
+      41.371308
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "verifiedAt": "2026-10-30T07:05:36.601Z",
+    "placeId": "ChIJJVQ6VneipBIRIV6uqvMfBI0",
+    "address": "Av. de Francesc Ferrer i Guàrdia, 6-8, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=10161281790655749665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://caixaforum.org/es/barcelona",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 3360
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100,
+        "distanceMeters": 140293
+      }
+    ]
+  },
+  "CaixaForum Girona": {
+    "coordinates": [
+      2.8254946,
+      41.98436950000001
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 78
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "verifiedAt": "2026-10-30T07:05:36.964Z",
+    "placeId": "ChIJBUbkg-fmuhIROBtf0dRIBWY",
+    "address": "Carrer dels Ciutadans, 19, 17004 Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=7351362045635140408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://caixaforum.org/es/girona",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 78,
+        "distanceMeters": 101992
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52,
+        "distanceMeters": 55447
+      }
+    ]
+  }
+}
