@@ -2562,5 +2562,69 @@
         "url": "https://web.girona.cat/bolit/exposicions/2026/sara-ouhaddou"
       }
     ]
+  },
+  {
+    "title": "Solés anchovy factory",
+    "kind": "Factory",
+    "bases": [
+      {
+        "base": "Tamariu",
+        "driveMinutes": 35
+      },
+      {
+        "base": "Barcelona",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      3.12473,
+      42.122203
+    ],
+    "venue": "L’Escala",
+    "when": "Check the booking calendar",
+    "price": "See tickets",
+    "why": "A family anchovy-salting business in L’Escala, with a museum room and a tasting.",
+    "context": "Solés opened this museum room for its 130th anniversary. Audio guides in seven languages cover the family’s history and how the anchovies are made, and ticket listings include a small tasting.",
+    "links": [
+      {
+        "label": "Visit page",
+        "url": "https://www.anxoves-soles.com/fabrica-museu-anxoves-soles"
+      },
+      {
+        "label": "Book a visit",
+        "url": "https://www.anxoves-soles.com/comprar-anxoves/visitans-lescala/reserves/reserva-visita"
+      }
+    ]
+  },
+  {
+    "title": "Estrella Damm brewery",
+    "kind": "Factory",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 23
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.0792399,
+      41.3195857
+    ],
+    "venue": "El Prat de Llobregat",
+    "when": "Book a tour",
+    "price": "From €15",
+    "why": "A guided tour of Estrella Damm’s brewery in El Prat, ending with a tasting.",
+    "context": "The tour lasts about 90 minutes and ends with a tasting. It’s at the El Prat plant, not the old brewery in Barcelona, which has its own tour.",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://thisisbarcelona.com/tickets/visita-guiada-a-la-fabrica-estrella-damm-del-prat-de-llobregat/"
+      }
+    ]
   }
 ]

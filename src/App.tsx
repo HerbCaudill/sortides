@@ -10,6 +10,7 @@ import {
   IconMovie,
   IconTrees,
   IconBuilding,
+  IconBuildingFactory2,
   IconWalk,
   IconX,
 } from "@tabler/icons-react"
@@ -414,6 +415,8 @@ function icon(kind: string) {
     <IconMovie size={16} />
   ) : ["Exhibitions", "Museum", "Architecture"].includes(kind) ? (
     <IconBuilding size={16} />
+  ) : kind === "Factory" ? (
+    <IconBuildingFactory2 size={16} />
   ) : kind === "Walks" || kind === "Hikes" ? (
     <IconWalk size={16} />
   ) : (
