@@ -183,5 +183,190 @@
         "distanceMeters": 55447
       }
     ]
+  },
+  "Sala Apolo": {
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "verifiedAt": "2026-10-31T07:02:44.961Z",
+    "placeId": "ChIJO8-idVyipBIRprMh0nqXWP4",
+    "address": "Carrer Nou de la Rambla, 113, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=18327565237351461798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://sala-apolo.com/es/agenda",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16,
+        "distanceMeters": 3950
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96,
+        "distanceMeters": 128981
+      }
+    ]
+  },
+  "MACBA": {
+    "coordinates": [
+      2.1668667999999998,
+      41.3831913
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "verifiedAt": "2026-10-31T07:02:45.588Z",
+    "placeId": "ChIJ0V6MrPWipBIRKnssXv0o_Y4",
+    "address": "Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=10303436591165373226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.macba.cat/en/exhibitions/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10,
+        "distanceMeters": 1868
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99,
+        "distanceMeters": 127699
+      }
+    ]
+  },
+  "Bòlit La Rambla": {
+    "coordinates": [
+      2.8238037,
+      41.983234599999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 80
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "verifiedAt": "2026-10-31T07:02:46.191Z",
+    "placeId": "ChIJo3P2693muhIR6LBzKBKL16Q",
+    "address": "Rambla de la Llibertat, 1, 17004 Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=11878115452317315304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://web.girona.cat/bolit/exposicions/2026/enficoses",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 80,
+        "distanceMeters": 102321
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55,
+        "distanceMeters": 55776
+      }
+    ]
+  },
+  "Bòlit Pou Rodó": {
+    "coordinates": [
+      2.824861,
+      41.9886883
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 75
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 54
+      }
+    ],
+    "verifiedAt": "2026-10-31T07:02:46.751Z",
+    "placeId": "ChIJjRVPhObmuhIRRkhcpxJXndc",
+    "address": "Carrer del Pou Rodó, 7-9, 17004 Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15536670027126949958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://web.girona.cat/bolit/exposicions/2026/anatomiadunafabulacio",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 75,
+        "distanceMeters": 102950
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 54,
+        "distanceMeters": 40803
+      }
+    ]
+  },
+  "Bòlit Sant Nicolau": {
+    "coordinates": [
+      2.8264114,
+      41.9890794
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 76
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "verifiedAt": "2026-10-31T07:02:47.284Z",
+    "placeId": "ChIJN8V2AufnuhIRhOq7gOH8TnQ",
+    "address": "Plaça de Santa Llucía, 1, 17007 Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=8380914002040711812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://web.girona.cat/bolit/exposicions/2026/sara-ouhaddou",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 76,
+        "distanceMeters": 103403
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55,
+        "distanceMeters": 41251
+      }
+    ]
   }
 }

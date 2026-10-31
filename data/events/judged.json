@@ -1065,5 +1065,116 @@
     "judgedOn": "2026-10-30",
     "accepted": false,
     "reason": "Earth-observation science exhibition rather than the requested history, art, archaeology or design focus."
+  },
+  "bcn:99400781050": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/nijushi-no-hitomi#2026-11-01": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/dong-fu-ren#2026-11-01": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "bcn:99400760238": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "bcn:99400771627": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "bcn:99400771628": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/enficoses#2026-10-02": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/anatomiadunafabulacio#2026-10-02": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/sara-ouhaddou#2026-10-02": {
+    "judgedOn": "2026-10-31",
+    "accepted": true
+  },
+  "bcn:99400727308": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The feed links only to the artist homepage, without a specific exhibition page or ticket URL; cannot publish a usable exhibition link."
+  },
+  "bcn:99400740323": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The feed supplies only the project name, artist and award, and a venue homepage; insufficient exhibition detail and no specific exhibition URL."
+  },
+  "bcn:99400713445": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "An orchestral film-score programme with narration and choir; lower priority than the distinctive jazz, soul and Latin live acts sought for this selection."
+  },
+  "bcn:99400758565": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "Fauré choral and orchestral repertoire is outside the main musical preferences for this selective batch."
+  },
+  "bcn:99400760193": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "A reed quintet playing Gershwin, Bizet and Satie arrangements; less aligned with the live jazz, roots and dance music priorities."
+  },
+  "bcn:99400759093": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The feed states that the programme is still to be determined; insufficient repertoire detail to make a compelling recommendation."
+  },
+  "bcn:99400758638": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "Closes today and supplies only the booking portal homepage; no verified specific exhibition page for a practical recommendation."
+  },
+  "bcn:99400759113": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "A contemporary choral programme by Whitacre; lower priority than the selected live jazz and soul performance."
+  },
+  "bcn:99400760839": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The description gives no clear repertoire or substantial account of the act beyond a promotional tagline, and only a booking homepage."
+  },
+  "bcn:99400760845": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "A documentary projection and discussion, not a live concert; the source does not confirm an original-version screening."
+  },
+  "bcn:99400762869": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "Conflicting opening information: feed start 29 October but description says inauguration 18 November. Current opening cannot be verified; reconsider if source details are corrected."
+  },
+  "bcn:99400713458": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "Contemporary percussion and vocal repertoire; less aligned with the jazz, roots and Latin priorities for this batch."
+  },
+  "bcn:99400731521": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The source offers a wordplay description of the title and a venue homepage without enough concrete exhibition content or a specific exhibition URL."
+  },
+  "bcn:99400720880": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "A participatory morning music activity for families with children aged 0–3, rather than an adult live-music night out."
+  },
+  "https://www.filmoteca.cat/web/ca/film/inherent-vice#2026-10-30": {
+    "judgedOn": "2026-10-31",
+    "accepted": false,
+    "reason": "The last listed performance was 30 October 2026, before today; no performance in the current 28-day window."
   }
 }

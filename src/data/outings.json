@@ -1,27 +1,5 @@
 [
   {
-    "title": "Marta Roig Quartet",
-    "kind": "Music",
-    "mode": "night",
-    "coordinates": [
-      2.175,
-      41.38
-    ],
-    "venue": "Jamboree, Plaça Reial",
-    "when": "Fri 21:00",
-    "price": "€18",
-    "group": "This weekend",
-    "why": "Explore Marta Roig Quartet at Jamboree, Plaça Reial.",
-    "links": [],
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      }
-    ],
-    "date": "2026-10-30"
-  },
-  {
     "title": "In the Mood for Love",
     "kind": "Movies",
     "mode": "night",
@@ -2322,33 +2300,6 @@
     ]
   },
   {
-    "title": "Ray Cuza & Quinteto Sazonando de Cuba",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.177,
-      41.383
-    ],
-    "venue": "Harlem Jazz Club, Gòtic",
-    "when": "Fri 30 Oct · 23:00",
-    "price": "€15",
-    "why": "Classic Cuban son and bolero with voice, trumpet, piano, bass and percussion, in a concert the venue explicitly invites you to dance to.",
-    "context": "Doors open at 20:00; the concert starts at 23:00. Seats and tables are first come, first served.",
-    "date": "2026-10-30",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-quinteto-sazonando-de-cuba-musica-cubana-son-chachacha-bolero-15e-12/"
-      }
-    ]
-  },
-  {
     "title": "Chino Swingslide & The Sharps + Lu Cicchitelli",
     "kind": "Music",
     "bases": [
@@ -2727,6 +2678,290 @@
       {
         "label": "Exhibition page",
         "url": "https://www.museunacional.cat/en/wounded-militiaman-recovery-irredeemable-painting"
+      }
+    ]
+  },
+  {
+    "title": "Nate Smith",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Mon 2 Nov · 20:30 (doors 19:30)",
+    "price": "€35 advance plus booking fees",
+    "why": "Jazz, funk and soul from a quartet built around Nate Smith’s drums, with J3PO on keys, CARRTOONS on bass and Hailey Niswanger on saxophone.",
+    "date": "2026-11-02",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://sala-apolo.com/es/evento/festival-de-jazz-de-barcelona-nate-smith-7309"
+      }
+    ]
+  },
+  {
+    "title": "Twenty-Four Eyes",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Sun 1 Nov · 20:00 · original version, Spanish subtitles",
+    "price": "See tickets",
+    "why": "A teacher and her twelve pupils face the upheavals of wartime Japan in Kinoshita’s moving portrait of care, education and loss.",
+    "date": "2026-11-01",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/nijushi-no-hitomi"
+      },
+      {
+        "label": "Review",
+        "url": "https://www.criterion.com/current/posts/582-twenty-four-eyes-growing-pains"
+      }
+    ]
+  },
+  {
+    "title": "The Arch",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Sun 1 Nov · 21:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Tang Shu Shuen’s restored drama follows a widow caught between desire and social duty, with striking black-and-white photography and experimental editing.",
+    "date": "2026-11-01",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/dong-fu-ren"
+      },
+      {
+        "label": "Review",
+        "url": "https://bfidatadigipres.github.io/too%20much%3Cbr%3Emelodrama%20on%20film/2025/11/09/arch/"
+      }
+    ]
+  },
+  {
+    "title": "Feminismes fílmics: 1976–2026",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Tue–Fri 10:00–14:00 and 16:00–21:00; weekends 16:00–21:00",
+    "price": "Free",
+    "why": "Films, video art and television archives trace fifty years of Catalan feminism through work, family, sexuality and the politics of representation.",
+    "startsOn": "2026-07-09",
+    "endsOn": "2026-11-29",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/exposicio/feminismes-filmics-1976-2026"
+      }
+    ]
+  },
+  {
+    "title": "Anna Moreno. The Third Twist",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1668667999999998,
+      41.3831913
+    ],
+    "venue": "MACBA",
+    "when": "Check museum opening hours",
+    "price": "See tickets",
+    "why": "A film about Ricardo Bofill’s unfinished Saharan settlement connects utopian architecture, speculative fiction and the legacies of colonialism.",
+    "startsOn": "2026-02-05",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.macba.cat/en/exhibitions/anna-moreno-the-third-twist/"
+      }
+    ]
+  },
+  {
+    "title": "Basel Abbas and Ruanne Abou-Rahme. Prisoners of Love: Until the Sun of Freedom",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1668667999999998,
+      41.3831913
+    ],
+    "venue": "MACBA",
+    "when": "Check museum opening hours",
+    "price": "See tickets",
+    "why": "Layered sound, images, song and poetry explore Palestinian memory and the resilience of former prisoners.",
+    "startsOn": "2026-02-14",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.macba.cat/en/exhibitions/basel-abbas-and-ruanne-abou-rahme/"
+      }
+    ]
+  },
+  {
+    "title": "En fi, coses",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 80
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.8238037,
+      41.983234599999996
+    ],
+    "venue": "Bòlit La Rambla",
+    "when": "Check venue opening hours",
+    "price": "See tickets",
+    "why": "Irena Visa uses archaeology, everyday possessions and vampire imagery to reflect with humour on ageing and the wish to leave something behind.",
+    "startsOn": "2026-10-02",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://web.girona.cat/bolit/exposicions/2026/enficoses"
+      }
+    ]
+  },
+  {
+    "title": "Diuen que soc. Anatomia d’una fabulació",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 75
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 54
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.824861,
+      41.9886883
+    ],
+    "venue": "Bòlit Pou Rodó",
+    "when": "Check venue opening hours",
+    "price": "See tickets",
+    "why": "Archives, testimony and dance revisit the display and repatriation of the man known as the Negre de Banyoles, opening questions about colonial memory and museums.",
+    "startsOn": "2026-10-02",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://web.girona.cat/bolit/exposicions/2026/anatomiadunafabulacio"
+      }
+    ]
+  },
+  {
+    "title": "Sara Ouhaddou. No tot el que es diu troba qui ho vol escoltar; no tot el que troba qui ho vol escoltar es diu en el moment oportú",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 76
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 55
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.8264114,
+      41.9890794
+    ],
+    "venue": "Bòlit Sant Nicolau",
+    "when": "Check venue opening hours",
+    "price": "See tickets",
+    "why": "Carved calligraphy and black pottery replicas of Andalusi objects explore Girona’s Muslim past and the selective memory of cultural heritage.",
+    "startsOn": "2026-10-02",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://web.girona.cat/bolit/exposicions/2026/sara-ouhaddou"
       }
     ]
   }
