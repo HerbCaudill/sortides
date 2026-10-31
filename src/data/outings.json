@@ -1572,46 +1572,6 @@
     ]
   },
   {
-    "title": "Besalú",
-    "kind": "Village",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 90
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 73
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.6953824,
-      42.200191000000004
-    ],
-    "venue": "Besalú",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Romanesque bridge and a medieval Jewish quarter.",
-    "context": "Besalú’s medieval bridge leads into an old town with a former Jewish quarter and ritual bath, or mikveh. Ask the tourism office about guided visits to the Jewish heritage sites.",
-    "sourceList": "Pobles amb encant",
-    "mapsUrl": "https://www.google.com/maps/place/Besal%C3%BA/data=!4m2!3m1!1s0x12bac7547751518d:0x334cb5899dfbf86b",
-    "links": [
-      {
-        "label": "Tourism office",
-        "url": "https://patrimoni.gencat.cat/ca/silesparetsparlessin/episodi-13-pont-de-besalu"
-      }
-    ],
-    "photo": {
-      "url": "/photos/besalu.webp",
-      "alt": "The medieval bridge over the Fluvià at Besalú",
-      "credit": "Mikipons",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_Besal%C3%BA_1.jpg",
-      "license": "CC BY-SA 3.0 es",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en"
-    }
-  },
-  {
     "title": "Mura",
     "kind": "Village",
     "bases": [
