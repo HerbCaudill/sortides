@@ -30,12 +30,30 @@ import { UpdateNotice } from "./components/UpdateNotice"
 import { OutingPhoto } from "./components/OutingPhoto"
 import { nightMapStyle } from "./lib/nightMapStyle"
 import { useTodayInCatalonia } from "./lib/useTodayInCatalonia"
+import {
+  readBrowsingPreferences,
+  saveBrowsingPreferences,
+  type BrowsingPreferences,
+} from "./lib/browsingPreferences"
 
 /** The outings map and its responsive list. */
 export default function App() {
-  const [base, setBase] = useState<"Barcelona" | "Tamariu">("Barcelona")
-  const [mode, setMode] = useState<"night" | "day">("night")
-  const [kind, setKind] = useState("Everything")
+  const [preferences, setPreferences] = useState(readBrowsingPreferences)
+  const { base, mode } = preferences
+  /** Changing the base starts a fresh category selection. */
+  const setBase = (value: BrowsingPreferences["base"]) => {
+    setPreferences(current =>
+      current.base === value ? current : { ...current, base: value, kind: "Everything" },
+    )
+  }
+  /** Changing the mode starts a fresh category selection. */
+  const setMode = (value: BrowsingPreferences["mode"]) => {
+    setPreferences(current =>
+      current.mode === value ? current : { ...current, mode: value, kind: "Everything" },
+    )
+  }
+  /** Select a category in the current view. */
+  const setKind = (kind: string) => setPreferences(current => ({ ...current, kind }))
   const [selected, setSelected] = useState<Outing | null>(null)
   const [shortcuts, setShortcuts] = useState(false)
   const [expanded, setExpanded] = useState(true)
@@ -54,11 +72,12 @@ export default function App() {
             .sort((a, b) => a.date!.localeCompare(b.date!)),
     [base, mode, today],
   )
+  const kinds = Array.from(new Set(available.map(item => item.kind)))
+  const kind = kinds.includes(preferences.kind) ? preferences.kind : "Everything"
   const visible = useMemo(
     () => available.filter(item => kind === "Everything" || item.kind === kind),
     [available, kind],
   )
-  const kinds = Array.from(new Set(available.map(item => item.kind)))
   const groupFor = (item: Outing) =>
     item.mode === "day" ? driveGroup(driveMinutes(item, base)!) : eventGroup(item.date!, today)
   const groups = Array.from(new Set(visible.map(groupFor)))
@@ -203,9 +222,11 @@ export default function App() {
     return () => window.removeEventListener("keydown", handler)
   }, [visible, selected])
   useEffect(() => {
-    setKind("Everything")
     setSelected(null)
   }, [base, mode])
+  useEffect(() => {
+    saveBrowsingPreferences({ base, mode, kind })
+  }, [base, mode, kind])
 
   return (
     <div className="app">
