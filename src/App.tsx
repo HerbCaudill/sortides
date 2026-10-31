@@ -332,7 +332,7 @@ export default function App() {
             {visible.length === 0 && <p className="empty">No outings in this category.</p>}
           </div>
           <div className="footer">
-            <span>Sample outings</span>
+            <span>Outings</span>
             <button onClick={() => setShortcuts(true)}> ? &nbsp; Shortcuts</button>
           </div>
         </section>
