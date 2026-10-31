@@ -152,34 +152,6 @@
     ]
   },
   {
-    "title": "Douglas DC-6 memorial",
-    "kind": "Landmark",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.9156078,
-      42.4456659
-    ],
-    "venue": "Cantallops",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Memorial to a Douglas DC-6 that crashed near Cantallops in 1986.",
-    "context": "The remains and a plaque commemorate four crew members who died when a French firefighting aircraft crashed in the Albera in 1986.",
-    "sourceList": "Want to go",
-    "mapsUrl": "https://www.google.com/maps/place/AVI%C3%93+DOUGLAS+DC6+1986/data=!4m2!3m1!1s0x12ba9c99d17876bf:0x579b542a6b237389",
-    "links": [
-      {
-        "label": "Walking guide",
-        "url": "https://masiaserra.com/wp-content/uploads/2022/02/FULLETO-EXPERIENCIES_VISITES-INTERES_RUTES.cat_.Rev2022.pdf"
-      }
-    ]
-  },
-  {
     "title": "Terracotta ceramics museum",
     "kind": "Museum",
     "bases": [
