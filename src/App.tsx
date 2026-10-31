@@ -28,6 +28,7 @@ import {
 } from "./data/outings"
 import { UpdateNotice } from "./components/UpdateNotice"
 import { OutingPhoto } from "./components/OutingPhoto"
+import { nightMapStyle } from "./lib/nightMapStyle"
 import { useTodayInCatalonia } from "./lib/useTodayInCatalonia"
 
 /** The outings map and its responsive list. */
@@ -66,9 +67,11 @@ export default function App() {
     if (!mapNode.current) return
     const instance = new maplibregl.Map({
       container: mapNode.current,
-      style: "https://tiles.openfreemap.org/styles/dark",
       center: [2.166, 41.392],
       zoom: 13.5,
+    })
+    instance.setStyle("https://tiles.openfreemap.org/styles/dark", {
+      transformStyle: (_previous, next) => nightMapStyle(next),
     })
     instance.addControl(new maplibregl.NavigationControl(), "bottom-right")
     map.current = instance
@@ -83,6 +86,7 @@ export default function App() {
     if (mapMode.current !== mode) {
       instance.setStyle(
         `https://tiles.openfreemap.org/styles/${mode === "night" ? "dark" : "liberty"}`,
+        { transformStyle: (_previous, next) => (mode === "night" ? nightMapStyle(next) : next) },
       )
       mapMode.current = mode
     }
