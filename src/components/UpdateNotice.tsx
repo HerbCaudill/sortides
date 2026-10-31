@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from "react"
 import { registerSW } from "virtual:pwa-register"
 import { IconRefresh } from "@tabler/icons-react"
 
-
 /** Offer an explicit update without reloading unsaved work or other open windows. */
 export function UpdateNotice(
   /** No external configuration. */
@@ -65,12 +64,18 @@ export function UpdateNotice(
   return waiting ? (
     <aside
       aria-label="App update"
-      className="bg-white fixed bottom-[max(1rem,env(safe-area-inset-bottom))] left-4 z-40 max-w-[calc(100vw-2rem)] rounded-lg border p-3 text-sm shadow-lg"
+      className="fixed bottom-[max(1rem,env(safe-area-inset-bottom))] left-4 z-40 max-w-[calc(100vw-2rem)] rounded-lg border border-[#e2e6eb] bg-white p-3 text-sm shadow-lg"
     >
-      <div className="flex items-center gap-3">
-        <p role="status">An update is ready.</p>
-        <button disabled={updating} onClick={() => void installUpdate()}>
-          <IconRefresh aria-hidden="true" />
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+        <p role="status" className="m-0">
+          An update is ready.
+        </p>
+        <button
+          className="inline-flex min-h-11 shrink-0 items-center justify-center gap-2 rounded-md border border-transparent bg-[#1f4e79] px-3 py-2 font-semibold whitespace-nowrap text-white hover:bg-[#183e61] disabled:cursor-wait disabled:bg-[#526f89]"
+          disabled={updating}
+          onClick={() => void installUpdate()}
+        >
+          <IconRefresh aria-hidden="true" size={18} className="shrink-0" />
           {updating ? "Updating…" : "Update now"}
         </button>
       </div>
@@ -84,4 +89,3 @@ export function UpdateNotice(
 }
 
 type Props = Record<string, never>
-
