@@ -1480,38 +1480,6 @@
     }
   },
   {
-    "title": "Castellfollit de la Roca",
-    "kind": "Village",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 82
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 99
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.5488918,
-      42.219731
-    ],
-    "venue": "Castellfollit de la Roca",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Village perched on the edge of a basalt cliff.",
-    "context": "The old village stands on a basalt cliff formed by overlapping lava flows. A marked circular walk descends to the Fluvià for a view back up at the cliff and returns through the old streets.",
-    "sourceList": "Pobles amb encant",
-    "mapsUrl": "https://www.google.com/maps/place/Castellfollit+de+la+Roca/data=!4m2!3m1!1s0x12bab610273f1959:0x7e80806747f40500",
-    "links": [
-      {
-        "label": "Tourism office",
-        "url": "https://parcsnaturals.gencat.cat/ca/xarxa-de-parcs/garrotxa/gaudeix-del-parc/equipaments-i-itineraris/itineraris/num13/index.html"
-      }
-    ]
-  },
-  {
     "title": "Tivissa",
     "kind": "Village",
     "bases": [
