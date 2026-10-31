@@ -1612,46 +1612,6 @@
     ]
   },
   {
-    "title": "Tossa de Mar",
-    "kind": "Town",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 52
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 77
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.9301806,
-      41.7223958
-    ],
-    "venue": "Tossa de Mar",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Walled old town on a headland above the beach.",
-    "context": "The Vila Vella’s fortified walls and towers stand above Tossa’s beach. Walk through the gateway and old streets, and check for any access changes during restoration work.",
-    "sourceList": "Pobles amb encant",
-    "mapsUrl": "https://www.google.com/maps/place/Tossa+de+Mar/data=!4m2!3m1!1s0x12bb11cbe13ee55f:0x298d02ee8b95c047",
-    "links": [
-      {
-        "label": "Tourism office",
-        "url": "https://visittossa.com/es/patrimonio-cultural/tossa-a-traves-del-tiempo/el-recinto-amurallado-de-la-vila-vella/"
-      }
-    ],
-    "photo": {
-      "url": "/photos/tossa-de-mar.webp",
-      "alt": "View of Tossa de Mar",
-      "credit": "Sylvestre",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tossa_de_Mar_-_center.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-    }
-  },
-  {
     "title": "Besalú",
     "kind": "Village",
     "bases": [
