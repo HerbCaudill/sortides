@@ -92,38 +92,6 @@
     ]
   },
   {
-    "title": "Bell-lloc winery",
-    "kind": "Winery",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 24
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 88
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      3.1085756,
-      41.8804857
-    ],
-    "venue": "Palamós i Sant Joan",
-    "when": "Check opening hours",
-    "price": "Varies",
-    "why": "Underground winery designed by RCR Arquitectes, with tastings among the vines.",
-    "context": "RCR Arquitectes set this cellar into the landscape of a working estate near Palamós. Arrange a visit for a tour and tasting of the estate’s wines and other produce.",
-    "sourceList": "Want to go",
-    "mapsUrl": "https://www.google.com/maps/place/Bell-Lloc+Winery/data=!4m2!3m1!1s0x12ba554d9c7441a3:0x5815ee5ca4d6c9a1",
-    "links": [
-      {
-        "label": "Website",
-        "url": "https://brugarol.com/finca-bell-lloc/"
-      }
-    ]
-  },
-  {
     "title": "Masia Serra",
     "kind": "Winery",
     "bases": [
