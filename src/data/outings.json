@@ -1544,46 +1544,6 @@
     ]
   },
   {
-    "title": "Peralada",
-    "kind": "Village",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 64
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 98
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      3.0094404,
-      42.308352299999996
-    ],
-    "venue": "Peralada",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Castle town known for its wine cellars and summer music festival.",
-    "context": "Peralada combines a historic centre with a castle, a wine tradition and a summer music festival. Check the festival programme or cellar visit times before planning a trip.",
-    "sourceList": "Pobles amb encant",
-    "mapsUrl": "https://www.google.com/maps/place/Peralada/data=!4m2!3m1!1s0x12ba8ed0c2ae038d:0x4c157bc397b1e7db",
-    "links": [
-      {
-        "label": "Tourism office",
-        "url": "https://www.catalunya.com/es/continguts/experiencies-turistiques/oficina-de-turismo-de-peralada-20-2-69"
-      }
-    ],
-    "photo": {
-      "url": "/photos/peralada.webp",
-      "alt": "View of Peralada",
-      "credit": "Josep Renalias Lohen11",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peralada_-_Pla%C3%A7a_major.JPG",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
-    }
-  },
-  {
     "title": "Tivissa",
     "kind": "Village",
     "bases": [
