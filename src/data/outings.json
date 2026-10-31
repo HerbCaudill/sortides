@@ -92,38 +92,6 @@
     ]
   },
   {
-    "title": "Masia Serra",
-    "kind": "Winery",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 82
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 109
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.928273,
-      42.423241999999995
-    ],
-    "venue": "Cantallops",
-    "when": "Check opening hours",
-    "price": "Varies",
-    "why": "Family winery in the Albera hills above Cantallops.",
-    "context": "This family winery sits among vines and olive trees in the Albera and makes Empordà wines. Book ahead for a tasting, with options that include food or a picnic among the vines.",
-    "sourceList": "Want to go",
-    "mapsUrl": "https://www.google.com/maps/place/Masia+Serra/data=!4m2!3m1!1s0x12ba9b4f80ee0063:0xa65b5ad4783b006f",
-    "links": [
-      {
-        "label": "Website",
-        "url": "http://masiaserra.com/"
-      }
-    ]
-  },
-  {
     "title": "Mas Estela",
     "kind": "Winery",
     "bases": [
@@ -201,7 +169,7 @@
     "when": "Any day",
     "price": "Free",
     "why": "Memorial to a Douglas DC-6 that crashed near Cantallops in 1986.",
-    "context": "The remains and a plaque commemorate four crew members who died when a French firefighting aircraft crashed in the Albera in 1986. Masia Serra, also on this list, is in Cantallops and can make a second stop in the area.",
+    "context": "The remains and a plaque commemorate four crew members who died when a French firefighting aircraft crashed in the Albera in 1986.",
     "sourceList": "Want to go",
     "mapsUrl": "https://www.google.com/maps/place/AVI%C3%93+DOUGLAS+DC6+1986/data=!4m2!3m1!1s0x12ba9c99d17876bf:0x579b542a6b237389",
     "links": [
