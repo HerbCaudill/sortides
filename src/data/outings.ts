@@ -21,7 +21,6 @@ export const outingSchema = z
     venue: z.string().min(1),
     when: z.string().min(1),
     price: z.string().min(1),
-    group: z.string().optional(),
     why: z.string().min(1),
     context: z.string().min(1).optional(),
     date: z.iso.date().optional(),
@@ -95,6 +94,21 @@ export function outingLinks(item: Outing) {
     },
     ...(item.mapsUrl ? [{ label: "Google Maps", url: item.mapsUrl }] : []),
   ]
+}
+/** Group a dated event by how soon it happens, with weeks running Monday to Sunday. */
+export function eventGroup(
+  /** Date of the event. */
+  date: string,
+  /** Current date in Catalonia. */
+  today: string,
+) {
+  const eventDay = new Date(`${date}T12:00:00Z`)
+  const todayDay = new Date(`${today}T12:00:00Z`)
+  const daysAway = Math.round((eventDay.getTime() - todayDay.getTime()) / 86_400_000)
+  const daysLeftInWeek = (7 - todayDay.getUTCDay()) % 7
+  if (daysAway > daysLeftInWeek + 7) return "Upcoming"
+  if (daysAway > daysLeftInWeek) return "Next week"
+  return [0, 5, 6].includes(eventDay.getUTCDay()) ? "This weekend" : "This week"
 }
 /** Group a drive time into useful ranges. */
 export function driveGroup(minutes: number) {

@@ -20,6 +20,7 @@ import {
   dayTripsForBase,
   driveMinutes,
   driveGroup,
+  eventGroup,
   outingLinks,
   exhibitionClosingDate,
   formatDriveTime,
@@ -48,6 +49,7 @@ export default function App() {
         ? dayTripsForBase(outings, base, today)
         : outings
             .filter(item => item.mode === "night" && item.bases.some(entry => entry.base === base))
+            .filter(item => item.date! >= today)
             .sort((a, b) => a.date!.localeCompare(b.date!)),
     [base, mode, today],
   )
@@ -57,7 +59,7 @@ export default function App() {
   )
   const kinds = Array.from(new Set(available.map(item => item.kind)))
   const groupFor = (item: Outing) =>
-    item.mode === "day" ? driveGroup(driveMinutes(item, base)!) : (item.group ?? "Upcoming")
+    item.mode === "day" ? driveGroup(driveMinutes(item, base)!) : eventGroup(item.date!, today)
   const groups = Array.from(new Set(visible.map(groupFor)))
 
   useEffect(() => {

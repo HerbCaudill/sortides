@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import { outingSchema, outings, dayTripsForBase, outingLinks } from "./outings"
+import { outingSchema, outings, dayTripsForBase, eventGroup, outingLinks } from "./outings"
 
 describe("outings", () => {
   it("preserves optional context for an outing", () => {
@@ -33,6 +33,21 @@ describe("outings", () => {
     expect(
       outings.filter(item => item.title.startsWith("Sunset")).every(item => item.mode === "day"),
     ).toBe(true)
+  })
+  it("groups a dated event by how soon it happens", () => {
+    // Saturday: today and tomorrow are the weekend, and the following Monday starts next week
+    expect(eventGroup("2026-10-31", "2026-10-31")).toBe("This weekend")
+    expect(eventGroup("2026-11-01", "2026-10-31")).toBe("This weekend")
+    expect(eventGroup("2026-11-02", "2026-10-31")).toBe("Next week")
+    expect(eventGroup("2026-11-08", "2026-10-31")).toBe("Next week")
+    expect(eventGroup("2026-11-09", "2026-10-31")).toBe("Upcoming")
+    // Tuesday: weekdays come before the weekend of the same week
+    expect(eventGroup("2026-10-29", "2026-10-27")).toBe("This week")
+    expect(eventGroup("2026-10-30", "2026-10-27")).toBe("This weekend")
+    expect(eventGroup("2026-11-02", "2026-10-27")).toBe("Next week")
+    // Sunday: the week ends today
+    expect(eventGroup("2026-11-01", "2026-11-01")).toBe("This weekend")
+    expect(eventGroup("2026-11-02", "2026-11-01")).toBe("Next week")
   })
   it("lists an outing's own links before directions and its Google Maps page", () => {
     const item = outingSchema.parse({
