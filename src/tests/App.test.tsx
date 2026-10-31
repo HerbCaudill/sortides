@@ -1,3 +1,4 @@
+import { StrictMode } from "react"
 import { cleanup, fireEvent, render, screen } from "@testing-library/react"
 import { afterEach, beforeEach, expect, it, vi } from "vitest"
 import App from "../App"
@@ -153,4 +154,10 @@ it("keeps browsing usable when browser storage is blocked", () => {
     read.mockRestore()
     write.mockRestore()
   }
+})
+
+it("restores the daylight map when StrictMode recreates it", () => {
+  localStorage.setItem("sortides.browsing-preferences", JSON.stringify({base: "Tamariu", mode: "day", kind: "Everything"}))
+  render(<StrictMode><App /></StrictMode>)
+  expect(map.setStyle).toHaveBeenLastCalledWith("https://tiles.openfreemap.org/styles/liberty", expect.any(Object))
 })

@@ -89,6 +89,7 @@ export default function App() {
       center: [2.166, 41.392],
       zoom: 13.5,
     })
+    mapMode.current = "night"
     instance.setStyle("https://tiles.openfreemap.org/styles/dark", {
       transformStyle: (_previous, next) => nightMapStyle(next),
     })
