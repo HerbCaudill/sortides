@@ -244,7 +244,7 @@ export default function App() {
                 onClick={() => setMode(value)}
               >
                 {value === "night" ? <IconMoon size={16} /> : <IconSun size={16} />}{" "}
-                {value === "night" ? "Date nights" : "Day trips"}
+                {value === "night" ? "Date nights" : "Activities"}
                 <kbd>{value === "night" ? "N" : "D"}</kbd>
               </button>
             ))}
@@ -273,7 +273,7 @@ export default function App() {
           >
             <span className="handle" />
             <span>
-              {visible.length} {mode === "night" ? "date nights" : "day trips"} from {base}
+              {visible.length} {mode === "night" ? "date nights" : "activities"} from {base}
             </span>
             <b>{expanded ? "Map" : "List"}</b>
           </button>
@@ -359,7 +359,7 @@ export default function App() {
               <kbd>B</kbd> Barcelona <kbd>T</kbd> Tamariu
             </p>
             <p>
-              <kbd>N</kbd> Date nights <kbd>D</kbd> Day trips
+              <kbd>N</kbd> Date nights <kbd>D</kbd> Activities
             </p>
             <p>
               <kbd>J</kbd> Next outing <kbd>K</kbd> Previous outing

@@ -7,7 +7,7 @@ test("switches views and selects an outing", async ({ page }, testInfo) => {
     .first()
     .click()
   await page
-    .getByRole("button", { name: /Day trips/ })
+    .getByRole("button", { name: /Activities/ })
     .first()
     .click()
   await page.locator(".outing").first().click()
@@ -25,7 +25,7 @@ test("changes the map palette with the outing mode", async ({ page }, testInfo) 
     response => response.url() === "https://tiles.openfreemap.org/styles/liberty",
   )
   await page
-    .getByRole("button", { name: /Day trips/ })
+    .getByRole("button", { name: /Activities/ })
     .first()
     .click()
   await dayStyle
@@ -46,7 +46,7 @@ test("changes the map palette with the outing mode", async ({ page }, testInfo) 
 test("shows an available place photo and its credit", async ({ page }, testInfo) => {
   await page.goto("/")
   await page
-    .getByRole("button", { name: /Day trips/ })
+    .getByRole("button", { name: /Activities/ })
     .first()
     .click()
   await page.getByRole("button", { name: /Peratallada Peratallada/ }).click()
