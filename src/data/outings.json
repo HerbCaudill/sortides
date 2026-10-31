@@ -1684,38 +1684,6 @@
     }
   },
   {
-    "title": "Begur",
-    "kind": "Village",
-    "bases": [
-      {
-        "base": "Tamariu",
-        "driveMinutes": 16
-      },
-      {
-        "base": "Barcelona",
-        "driveMinutes": 91
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      3.2025607999999997,
-      41.9535511
-    ],
-    "venue": "Begur",
-    "when": "Any day",
-    "price": "Free",
-    "why": "Hilltop town with a castle, indiano houses and coves below.",
-    "context": "A castle overlooks Begur’s old streets and the coves below. Pair a walk through town with the Indians interpretation centre and its audio-guided route past indiano houses.",
-    "sourceList": "Pobles amb encant",
-    "mapsUrl": "https://www.google.com/maps/place/Begur/data=!4m2!3m1!1s0x12ba53d81794d96f:0x1fb9238b71186c25",
-    "links": [
-      {
-        "label": "Tourism office",
-        "url": "https://begur.cat/serveis/cultura/centre-dinterpretacio-indians/"
-      }
-    ]
-  },
-  {
     "title": "Besalú",
     "kind": "Village",
     "bases": [
