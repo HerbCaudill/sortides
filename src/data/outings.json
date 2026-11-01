@@ -1870,33 +1870,6 @@
     ]
   },
   {
-    "title": "Chino Swingslide & The Sharps + Lu Cicchitelli",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 20
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.177,
-      41.383
-    ],
-    "venue": "Harlem Jazz Club, Gòtic",
-    "when": "Sat 31 Oct · 23:00",
-    "price": "€15",
-    "why": "Slide guitar and two saxophones in a danceable swing and rhythm-and-blues programme with guest Lu Cicchitelli.",
-    "context": "The venue lists a 23:00 concert start, with doors at 20:00. Tickets do not reserve a seat or table.",
-    "date": "2026-10-31",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-the-sharps-lu-cicchitellli-concierto-exclusivo-en-bcn-swing-swing-swing-15e/"
-      }
-    ]
-  },
-  {
     "title": "KBr Flama’26",
     "kind": "Exhibitions",
     "bases": [
@@ -2054,41 +2027,6 @@
     ]
   },
   {
-    "title": "A Woman Under the Influence",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Sat 31 Oct · 20:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Gena Rowlands anchors Cassavetes’s intense portrait of motherhood, marriage and the pressure to fit social expectations.",
-    "context": "Rotten Tomatoes critics: 88% as checked on 30 October 2026.",
-    "date": "2026-10-31",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/woman_under_the_influence"
-      }
-    ]
-  },
-  {
     "title": "One Battle After Another",
     "kind": "Movies",
     "bases": [
@@ -2120,41 +2058,6 @@
       {
         "label": "Reviews",
         "url": "https://www.rottentomatoes.com/m/one_battle_after_another"
-      }
-    ]
-  },
-  {
-    "title": "Licorice Pizza",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Sat 31 Oct · 20:45 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "A warm, restless portrait of first love in 1970s Los Angeles, with Alana Haim and Cooper Hoffman.",
-    "context": "Rotten Tomatoes critics: 90% as checked on 30 October 2026.",
-    "date": "2026-10-31",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/licorice_pizza"
       }
     ]
   },
@@ -2596,6 +2499,161 @@
       {
         "label": "Tickets",
         "url": "https://thisisbarcelona.com/tickets/visita-guiada-a-la-fabrica-estrella-damm-del-prat-de-llobregat/"
+      }
+    ]
+  },
+  {
+    "title": "Julien Chanal & Slalom Gipsy Trio with Pere Nolasc Plana Turu",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sun 1 Nov · 21:30",
+    "price": "€15",
+    "why": "Two guitars, double bass and guest violin bring Mediterranean warmth to a manouche-jazz set.",
+    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
+    "date": "2026-11-01",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2130h-julien-chanal-slalom-gipsy-trio-pere-nolasc-plana-turu-gipsy-jazz-jazz-manouche-world-music-15e/"
+      }
+    ]
+  },
+  {
+    "title": "Clara Cantore – Regreso",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Wed 4 Nov · 21:30",
+    "price": "€12–15",
+    "why": "Voice and electric bass connect Argentine and Galician traditions through songs about migration and belonging.",
+    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
+    "date": "2026-11-04",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2130h-clara-cantore-cantautora-12e-15e/"
+      }
+    ]
+  },
+  {
+    "title": "Chino Swingslide Quartet",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Fri 6 Nov · 23:00",
+    "price": "€15",
+    "why": "Original blues and swing with slide guitar, harmonica and double bass, from the winners of the 2026 Volotea Blues Challenge.",
+    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
+    "date": "2026-11-06",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-quartet-blues-swing-roots-15e-2/"
+      }
+    ]
+  },
+  {
+    "title": "Ray Cuza & Quinteto Sazonando de Cuba",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sat 7 Nov · 23:00",
+    "price": "€15",
+    "why": "A Cuban quintet playing classic son, guaracha and bolero, with trumpet, piano and congas for a dancing night out.",
+    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
+    "date": "2026-11-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-quinteto-sazonando-de-cuba-musica-cubana-son-chachacha-bolero-latin-jazz-15e/"
+      }
+    ]
+  },
+  {
+    "title": "Instrumental Baschet. La utopia ressonant",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.185384,
+      41.398695
+    ],
+    "venue": "Museu de la Música",
+    "when": "17 Apr 2026 – 31 Jan 2027 · Museum hours",
+    "price": "See tickets",
+    "why": "Sound sculptures made from steel, cardboard and inflatable cushions connect instrument design, art and acoustic invention.",
+    "startsOn": "2026-04-17",
+    "endsOn": "2027-01-31",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://ajuntament.barcelona.cat/museumusica/ca/exposicions/instrumental-baschet-la-utopia-ressonant"
       }
     ]
   }

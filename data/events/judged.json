@@ -1176,5 +1176,80 @@
     "judgedOn": "2026-10-31",
     "accepted": false,
     "reason": "The last listed performance was 30 October 2026, before today; no performance in the current 28-day window."
+  },
+  "bcn:99400686086": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Elvis tribute listing has no description or identified vocalist; insufficient detail to distinguish the performance."
+  },
+  "bcn:99400728732": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Only a civic-centre homepage is supplied; no verified specific concert or ticket page."
+  },
+  "bcn:99400731259": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "The source describes an intimate vocal project without identifying the repertoire and links only a venue homepage."
+  },
+  "bcn:99400744134": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Mozart mass and sacred choral repertoire are lower priority than the selected jazz, Cuban and roots performances."
+  },
+  "bcn:99400737605": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "No programme description in the feed; insufficient evidence for a selective arena-rock recommendation."
+  },
+  "bcn:99400744206": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "A Mozart piano-sonata recital is less aligned with the jazz, Latin and roots priorities."
+  },
+  "bcn:99400739271": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "A community painting and ceramics exhibition with only a civic-centre homepage; no verified specific exhibition URL."
+  },
+  "bcn:99400744247": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Contemporary flute-quartet programme is lower priority than the selected jazz, Cuban and roots performances."
+  },
+  "bcn:99400717548": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Local-history display supplies a festival homepage rather than a verified specific exhibition page."
+  },
+  "https://www.harlemjazzclub.es/events/2130h-julien-chanal-slalom-gipsy-trio-pere-nolasc-plana-turu-gipsy-jazz-jazz-manouche-world-music-15e/#2026-11-01": {
+    "judgedOn": "2026-11-01",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2130h-clara-cantore-cantautora-12e-15e/#2026-11-04": {
+    "judgedOn": "2026-11-01",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-quartet-blues-swing-roots-15e-2/#2026-11-06": {
+    "judgedOn": "2026-11-01",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2300h-ray-cuza-quinteto-sazonando-de-cuba-musica-cubana-son-chachacha-bolero-latin-jazz-15e/#2026-11-07": {
+    "judgedOn": "2026-11-01",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-56/#2026-11-03": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Open-ended jam session; prioritising the named concert programmes at the same venue this week."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-54/#2026-11-05": {
+    "judgedOn": "2026-11-01",
+    "accepted": false,
+    "reason": "Open-ended jam session; prioritising the named concert programmes at the same venue this week."
+  },
+  "bcn:99400748950": {
+    "judgedOn": "2026-11-01",
+    "accepted": true
   }
 }

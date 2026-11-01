@@ -368,5 +368,79 @@
         "distanceMeters": 41251
       }
     ]
+  },
+  "Harlem Jazz Club": {
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "verifiedAt": "2026-11-01T07:01:50.662Z",
+    "placeId": "ChIJU_0Go_iipBIRCtBkKxvbpMg",
+    "address": "Carrer de la Comtessa de Sobradiel, 8, Ciutat Vella, 08002 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=14457921613504761866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.harlemjazzclub.es/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18,
+        "distanceMeters": 3732
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94,
+        "distanceMeters": 127653
+      }
+    ]
+  },
+  "Museu de la Música": {
+    "coordinates": [
+      2.185384,
+      41.398695
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "verifiedAt": "2026-11-01T07:01:51.301Z",
+    "placeId": "ChIJAf77yB-jpBIRZ1_I-azNYdU",
+    "address": "Carrer de Lepant, 150, Eixample, 08013 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15375796745628311399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://ajuntament.barcelona.cat/museumusica/ca/exposicions/instrumental-baschet-la-utopia-ressonant",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9,
+        "distanceMeters": 2444
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88,
+        "distanceMeters": 124583
+      }
+    ]
   }
 }
