@@ -1251,5 +1251,71 @@
   "bcn:99400748950": {
     "judgedOn": "2026-11-01",
     "accepted": true
+  },
+  "bcn:99400399862": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Photography competition with future submission dates, not a currently open temporary exhibition."
+  },
+  "bcn:99400744251": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Shostakovich string quartets are lower priority than the jazz, Latin and roots performances sought for this selection."
+  },
+  "bcn:99400745256": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Community music-and-dance showcase rather than a distinctive named adult concert programme."
+  },
+  "bcn:99400766277": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Family festival aimed at children, rather than an adult live-music night out."
+  },
+  "bcn:99400764123": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "City-wide architecture programme, not a specific temporary exhibition at one venue."
+  },
+  "bcn:99400744163": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Programme remains undetermined and the source supplies only the Palau homepage."
+  },
+  "bcn:99400744166": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Baroque recital is lower priority than the jazz, Latin and roots performances sought for this selection."
+  },
+  "bcn:99400749673": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Only a civic-centre homepage is supplied, without a verified specific exhibition URL."
+  },
+  "bcn:99400755683": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Not currently open: listed opening is 4 November 2026."
+  },
+  "bcn:99400751590": {
+    "judgedOn": "2026-11-02",
+    "accepted": false,
+    "reason": "Movement performance for infants aged six months to three years, outside adult music, film and exhibition scope."
+  },
+  "https://www.harlemjazzclub.es/events/2130h-barcelona-world-music-ensemble-presenta-latinoamerica-cuban-son-samba-bossa-nova-tango-milonga-cumbia-latin-jazz-13e/#2026-11-08": {
+    "judgedOn": "2026-11-02",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi#2026-11-04": {
+    "judgedOn": "2026-11-02",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/licorice-pizza#2026-11-05": {
+    "judgedOn": "2026-11-02",
+    "accepted": true
+  },
+  "bcn:99400737751": {
+    "judgedOn": "2026-11-02",
+    "accepted": true
   }
 }

@@ -442,5 +442,42 @@
         "distanceMeters": 124583
       }
     ]
+  },
+  "Museu d’Història de Catalunya": {
+    "coordinates": [
+      2.185873,
+      41.380804
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 86
+      }
+    ],
+    "verifiedAt": "2026-11-02T07:01:53.632Z",
+    "placeId": "ChIJBTfBbwCjpBIRK-jjm940utc",
+    "address": "Pça. de Pau Vila, 3, Ciutat Vella, 08039 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15544795194525476907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.mhcat.cat/exposicions/exposicions_en_curs/50_anys_dels_concerts_de_la_transicio_barcelona_palau_d_esports",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13,
+        "distanceMeters": 2680
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 86,
+        "distanceMeters": 126586
+      }
+    ]
   }
 }
