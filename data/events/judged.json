@@ -1317,5 +1317,101 @@
   "bcn:99400737751": {
     "judgedOn": "2026-11-02",
     "accepted": true
+  },
+  "bcn:99400256880": {
+    "judgedOn": "2026-11-03",
+    "accepted": true
+  },
+  "bcn:99400753945": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Feed links to a general museum exhibitions index rather than a verified specific exhibition page; no independently confirmed closing date."
+  },
+  "bcn:99400753946": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Feed links to a general museum exhibitions index rather than a verified specific exhibition page; no independently confirmed closing date."
+  },
+  "bcn:99400761430": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Only a neighbourhood-centre homepage is supplied, without a verified specific exhibition URL."
+  },
+  "bcn:99400760081": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Wind-orchestra concert of Gulda, Sparke and de Meij is lower priority than the jazz, Latin and roots performances sought for this selection."
+  },
+  "bcn:99400760082": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Symphonic wind-band programme is lower priority than the jazz, Latin and roots performances sought for this selection."
+  },
+  "bcn:99400760747": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Source URL has an invalid hostname and no verified specific exhibition page is available."
+  },
+  "bcn:99400762120": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Classical chamber programme with narration, linked only to the civic-centre homepage; lower priority than the selected live jazz and Latin programme."
+  },
+  "bcn:99400743808": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Handel opera is lower priority than the jazz, Latin and roots performances sought for this selection."
+  },
+  "bcn:99400745047": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Neighbourhood festival listing supplies only an association homepage rather than a specific concert or ticket page."
+  },
+  "bcn:99400745090": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Punk bill is outside the main musical preferences for this selective batch and supplies only an association homepage."
+  },
+  "bcn:99400745095": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Vinyl sound-system and craft showcase rather than a named live adult concert; only an association homepage is supplied."
+  },
+  "bcn:99400745111": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Music-school student fundraiser rather than a distinctive professional adult concert programme."
+  },
+  "bcn:99400761655": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Only a district homepage is supplied, without a verified specific temporary-exhibition URL."
+  },
+  "bcn:99400765407": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Official Disseny Hub page confirms opening 18 November 2026, not 2025 as in the feed; not currently open."
+  },
+  "bcn:99400760166": {
+    "judgedOn": "2026-11-03",
+    "accepted": true
+  },
+  "https://jamboreejazz.com/evento/julieta-rada/#2026-11-05": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Specific official event page marks the performance Sold out; no verified bookable availability."
+  },
+  "https://jamboreejazz.com/evento/bossa-nova-revisited/#2026-11-06": {
+    "judgedOn": "2026-11-03",
+    "accepted": false,
+    "reason": "Specific official event page marks the performance Sold out; no verified bookable availability."
+  },
+  "https://www.filmoteca.cat/web/ca/film/sekishuncho#2026-11-04": {
+    "judgedOn": "2026-11-03",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/fuefukigawa#2026-11-05": {
+    "judgedOn": "2026-11-03",
+    "accepted": true
   }
 }

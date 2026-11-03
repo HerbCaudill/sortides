@@ -479,5 +479,79 @@
         "distanceMeters": 126586
       }
     ]
+  },
+  "Biblioteca Jaume Fuster": {
+    "coordinates": [
+      2.14926,
+      41.407419999999995
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "verifiedAt": "2026-11-03T07:04:01.421Z",
+    "placeId": "ChIJ6TYzHqSipBIRRk9jQ_ezSME",
+    "address": "Pl. de Lesseps, 20, Gràcia, 08023 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=13927579722212134726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://ajuntament.barcelona.cat/biblioteques/ca/bibjaumefuster",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17,
+        "distanceMeters": 3593
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91,
+        "distanceMeters": 125230
+      }
+    ]
+  },
+  "Paral·lel 62": {
+    "coordinates": [
+      2.1695907,
+      41.375198499999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-03T07:04:01.805Z",
+    "placeId": "ChIJ4RME-FuipBIRpdEHgHUlz_0",
+    "address": "Avinguda del Paral·lel, 62, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=18288877798364271013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://paral-lel62.cat/programacio/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 4238
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 128488
+      }
+    ]
   }
 }
