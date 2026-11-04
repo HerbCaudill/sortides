@@ -1413,5 +1413,130 @@
   "https://www.filmoteca.cat/web/ca/film/fuefukigawa#2026-11-05": {
     "judgedOn": "2026-11-03",
     "accepted": true
+  },
+  "bcn:99400745301": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Local competition-winner showcase without named performers or repertoire; not enough detail for a selective concert recommendation."
+  },
+  "bcn:99400745318": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Neighbourhood parade with a street band, rather than an adult concert night out."
+  },
+  "bcn:99400745336": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Daytime festival parade with giants, schools and percussion, outside the dated concert scope."
+  },
+  "bcn:99400745339": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Community lunch with an afternoon performance and no specific concert page; not an evening concert pick."
+  },
+  "bcn:99400763776": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The venue homepage confirms 20 November at 19:00, but a working specific event or ticket URL was not established."
+  },
+  "bcn:99400765053": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The supplied URL is the community-centre homepage; no verified specific concert or ticket URL."
+  },
+  "bcn:99400759040": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Symphonic classical programme is lower priority than the selected Cuban song and jazz concerts."
+  },
+  "bcn:99400757753": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The specific official exhibition page fails both server retrieval and web retrieval, preventing independent verification of dates."
+  },
+  "bcn:99400757756": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Natural-history and biodiversity exhibition is outside the current history, art, archaeology and design selection priorities."
+  },
+  "bcn:99400763852": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The gallery homepage confirms the exhibition dates, but a working specific exhibition URL was not established in this batch."
+  },
+  "bcn:99400749051": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Ongoing immersive introduction to Catalan heritage rather than a verified temporary exhibition with a firm closing date."
+  },
+  "bcn:99400765075": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The theater homepage confirms the concert date, but its specific event page has not been verified in this batch."
+  },
+  "bcn:99400760310": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Rachmaninov and Smetana symphonic programme is lower priority than the selected jazz and Cuban song concerts."
+  },
+  "bcn:99400765105": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Duplicate of the existing Sim exhibition; the official MNAC page closes it on 8 November, contradicting the feed closing date of 31 December."
+  },
+  "bcn:99400766051": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Primary-school collaborative art display is lower priority than the selected exhibition on visual memory and cultural survival."
+  },
+  "bcn:99400766268": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The specific event page returns HTTP 500; the feed does not identify the two competing musical acts."
+  },
+  "bcn:99400761327": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Physical and documentary theater production, outside the music, film and exhibition scope."
+  },
+  "bcn:99400766052": {
+    "judgedOn": "2026-11-04",
+    "accepted": true
+  },
+  "bcn:99400766055": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Multi-venue photography festival with different component dates, rather than one specific exhibition at the listed venue."
+  },
+  "bcn:99400766281": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "The neighbourhood festival homepage does not provide a verified specific concert or ticket URL."
+  },
+  "https://jazz.barcelona/concert/haydee-milanes-javier-colina/#2026-11-16": {
+    "judgedOn": "2026-11-04",
+    "accepted": true
+  },
+  "https://jazz.barcelona/concert/omar-sosa-marcelo-woloski-focus-quartet/#2026-11-30": {
+    "judgedOn": "2026-11-04",
+    "accepted": true
+  },
+  "https://jazz.barcelona/concert/kurt-rosenwinkel-the-remedy/#2026-11-05": {
+    "judgedOn": "2026-11-04",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/cotton-queen#2026-11-05": {
+    "judgedOn": "2026-11-04",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/diary-mad-housewife-le-menage-dranem#2026-11-05": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Dated screening confirmed, but the official film page does not establish its original-version or subtitle format; cannot recommend under the screening-language rule."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-57/#2026-11-10": {
+    "judgedOn": "2026-11-04",
+    "accepted": false,
+    "reason": "Open-ended blues jam session; prioritising the named concert programmes already selected at Harlem and the jazz festival."
   }
 }

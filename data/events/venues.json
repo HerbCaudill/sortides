@@ -553,5 +553,79 @@
         "distanceMeters": 128488
       }
     ]
+  },
+  "La Capella": {
+    "coordinates": [
+      2.1707178,
+      41.3805769
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "verifiedAt": "2026-11-04T07:03:08.995Z",
+    "placeId": "ChIJRY16pliipBIRSzYaT7NgJRk",
+    "address": "Carrer de l'Hospital, 56, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=1811960748329023051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.lacapella.barcelona/ca/programacio/concentric/el-que-sesborra-no-es-pot-esborrar",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11,
+        "distanceMeters": 1938
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98,
+        "distanceMeters": 130195
+      }
+    ]
+  },
+  "Conservatori Liceu": {
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "verifiedAt": "2026-11-04T07:03:09.477Z",
+    "placeId": "ChIJhUb3YFmipBIRwIXL27-05gU",
+    "address": "Carrer Nou de la Rambla, 88, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://jazz.barcelona/concert/haydee-milanes-javier-colina/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15,
+        "distanceMeters": 4347
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94,
+        "distanceMeters": 128398
+      }
+    ]
   }
 }

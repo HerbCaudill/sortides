@@ -1992,41 +1992,6 @@
     ]
   },
   {
-    "title": "Phantom Thread",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Tue 3 Nov · 20:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Daniel Day-Lewis and Vicky Krieps in a darkly funny study of desire, control and creative obsession.",
-    "context": "Rotten Tomatoes critics: 91% as checked on 30 October 2026.",
-    "date": "2026-11-03",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/phantom-thread"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/phantom_thread"
-      }
-    ]
-  },
-  {
     "title": "One Battle After Another",
     "kind": "Movies",
     "bases": [
@@ -2793,6 +2758,166 @@
       {
         "label": "Film notes",
         "url": "https://www.filmlinc.org/films/the-river-fuefuki/"
+      }
+    ]
+  },
+  {
+    "title": "El que s’esborra no es pot esborrar",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1707178,
+      41.3805769
+    ],
+    "venue": "La Capella, Barcelona",
+    "when": "Tue–Sat 12:00–20:00; Sun and holidays 11:00–14:00",
+    "price": "Free",
+    "why": "Palestinian painting, photography, video and installation explore how cultural memory survives displacement and the loss of archives.",
+    "startsOn": "2026-10-22",
+    "endsOn": "2026-12-08",
+    "mapsUrl": "https://maps.google.com/?cid=1811960748329023051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.lacapella.barcelona/ca/programacio/concentric/el-que-sesborra-no-es-pot-esborrar"
+      }
+    ]
+  },
+  {
+    "title": "Haydée Milanés & Javier Colina: A mi manera",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu, Barcelona",
+    "when": "20:30",
+    "price": "See tickets",
+    "why": "Cuban bolero and trova meet jazz improvisation, with Luis Guerra on piano and songs by Marta Valdés, Sindo Garay and Pablo Milanés.",
+    "date": "2026-11-16",
+    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/haydee-milanes-javier-colina/"
+      }
+    ]
+  },
+  {
+    "title": "Omar Sosa, Marcelo Woloski & Focus Quartet",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu, Barcelona",
+    "when": "20:30",
+    "price": "See tickets",
+    "why": "Cuban piano, Argentine percussion and a string quartet explore Barcelona through a new festival commission inspired by the city’s past and present.",
+    "date": "2026-11-30",
+    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/omar-sosa-marcelo-woloski-focus-quartet/"
+      }
+    ]
+  },
+  {
+    "title": "Kurt Rosenwinkel: The Remedy",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu, Barcelona",
+    "when": "20:30",
+    "price": "See tickets",
+    "why": "Rosenwinkel revisits the jazz compositions of his Village Vanguard album with a quintet featuring Seamus Blake, Aaron Goldberg, Joe Martin and Kendrick Scott.",
+    "date": "2026-11-05",
+    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/kurt-rosenwinkel-the-remedy/"
+      }
+    ]
+  },
+  {
+    "title": "Cotton Queen",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "20:00 · original version with Catalan subtitles (VOSC)",
+    "price": "See tickets",
+    "why": "A Sudanese coming-of-age story about women’s choices, village traditions and the legacy of colonialism, followed by a discussion with director Suzannah Mirghani.",
+    "date": "2026-11-05",
+    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/cotton-queen"
+      },
+      {
+        "label": "Review: Screen",
+        "url": "https://www.screendaily.com/reviews/cotton-queen-review-thessaloniki-winner-is-assured-debut-from-sudanese-filmmaker-suzannah-mirghani/5210886.article"
       }
     ]
   }
