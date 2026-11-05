@@ -627,5 +627,79 @@
         "distanceMeters": 128398
       }
     ]
+  },
+  "Museu Marítim de Barcelona": {
+    "coordinates": [
+      2.1767282999999997,
+      41.3755604
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "verifiedAt": "2026-11-05T07:02:23.853Z",
+    "placeId": "ChIJOyoByVCipBIR-mZapSxPHY8",
+    "address": "Av. de les Drassanes, s/n, Ciutat Vella, 08001 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=10312485774919624442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.mmb.cat/exposicions/viatge-en-el-temps-per-les-drassanes-reials-de-barcelona/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15,
+        "distanceMeters": 3280
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90,
+        "distanceMeters": 127546
+      }
+    ]
+  },
+  "Can Framis": {
+    "coordinates": [
+      2.1949848000000003,
+      41.4028922
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "verifiedAt": "2026-11-05T07:02:24.374Z",
+    "placeId": "ChIJD14Qe2NUuhIR6_sQ49_Z9N8",
+    "address": "Carrer de Roc Boronat, 116, 126, Sant Martí, 08018 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=16137762920385805291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.fundaciovilacasas.com/ca/exposicio/elisava-el-mar-sempre-el-mar",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13,
+        "distanceMeters": 3362
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88,
+        "distanceMeters": 123352
+      }
+    ]
   }
 }

@@ -2370,37 +2370,6 @@
     ]
   },
   {
-    "title": "Clara Cantore – Regreso",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Wed 4 Nov · 21:30",
-    "price": "€12–15",
-    "why": "Voice and electric bass connect Argentine and Galician traditions through songs about migration and belonging.",
-    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
-    "date": "2026-11-04",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2130h-clara-cantore-cantautora-12e-15e/"
-      }
-    ]
-  },
-  {
     "title": "Chino Swingslide Quartet",
     "kind": "Music",
     "bases": [
@@ -2521,42 +2490,6 @@
       {
         "label": "Event page",
         "url": "https://www.harlemjazzclub.es/events/2130h-barcelona-world-music-ensemble-presenta-latinoamerica-cuban-son-samba-bossa-nova-tango-milonga-cumbia-latin-jazz-13e/"
-      }
-    ]
-  },
-  {
-    "title": "A Woman Under the Influence",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Wed 4 Nov · 18:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Gena Rowlands and Peter Falk in Cassavetes’s searching portrait of marriage, care and the pressures of family roles.",
-    "context": "Rotten Tomatoes critics: 88% as checked on 2 November 2026.",
-    "date": "2026-11-04",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/woman_under_the_influence"
       }
     ]
   },
@@ -2688,41 +2621,6 @@
       {
         "label": "Event page",
         "url": "https://ajuntament.barcelona.cat/biblioteques/ca/bibjaumefuster/noticies/bali-mon-gamelan-un-viatge-al-cor-de-la-musica-i-la-dansa-balinesa-40936"
-      }
-    ]
-  },
-  {
-    "title": "Farewell to Spring",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Wed 4 Nov · 20:00 · original version, Spanish subtitles",
-    "price": "See tickets",
-    "why": "Kinoshita follows five childhood friends whose reunion exposes the pressures and compromises of adult life in postwar Japan.",
-    "date": "2026-11-04",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/sekishuncho"
-      },
-      {
-        "label": "Film notes",
-        "url": "https://www.tcm.com/articles/1383816/farewell-to-spring"
       }
     ]
   },
@@ -2918,6 +2816,164 @@
       {
         "label": "Review: Screen",
         "url": "https://www.screendaily.com/reviews/cotton-queen-review-thessaloniki-winner-is-assured-debut-from-sudanese-filmmaker-suzannah-mirghani/5210886.article"
+      }
+    ]
+  },
+  {
+    "title": "A journey through the Royal Shipyards of Barcelona",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1767282999999997,
+      41.3755604
+    ],
+    "venue": "Museu Marítim de Barcelona",
+    "when": "Daily, 10:00–20:00",
+    "price": "Free",
+    "why": "Trace the changing uses of Barcelona’s medieval shipyards through a focused exhibition inside the historic building.",
+    "startsOn": "2026-07-09",
+    "endsOn": "2027-03-31",
+    "links": [
+      {
+        "label": "Exhibition",
+        "url": "https://www.mmb.cat/exposicions/viatge-en-el-temps-per-les-drassanes-reials-de-barcelona/"
+      }
+    ]
+  },
+  {
+    "title": "ELISAVA: The sea, always the sea",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1949848000000003,
+      41.4028922
+    ],
+    "venue": "Can Framis, Barcelona",
+    "when": "During museum opening hours",
+    "price": "See tickets",
+    "why": "Photographs of Poblenou’s waterfront explore who shares the beach, from everyday leisure to tourism and social inequality.",
+    "startsOn": "2026-06-04",
+    "endsOn": "2027-05-31",
+    "links": [
+      {
+        "label": "Exhibition",
+        "url": "https://www.fundaciovilacasas.com/ca/exposicio/elisava-el-mar-sempre-el-mar"
+      }
+    ]
+  },
+  {
+    "title": "Vijay Iyer: Solo",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu, Barcelona",
+    "when": "Friday 6 November, 20:30",
+    "price": "See tickets",
+    "why": "A solo-piano evening gives Iyer room to move between his own music and the jazz and pop traditions behind his playing.",
+    "date": "2026-11-06",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/vijay-iyer/"
+      }
+    ]
+  },
+  {
+    "title": "The Arch (Dong fu ren)",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Wednesday 11 November, 21:00 · original version with Catalan subtitles",
+    "price": "See tickets",
+    "why": "T’ang Shushuen’s restored 1968 film follows a widow caught between desire and the demands of traditional womanhood.",
+    "context": "Restored by M+, the film was an early independent Hong Kong production. Its story of a widow and her daughter brings questions of gender, duty and desire into a period setting.",
+    "date": "2026-11-11",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/dong-fu-ren"
+      },
+      {
+        "label": "Film notes",
+        "url": "https://www.mplus.org.hk/en/press/mplus-hosts-conversation-featuring-actress-tilda-swinton-and-film-director-tang-shushuen/"
+      }
+    ]
+  },
+  {
+    "title": "Aurèlia Muñoz. Beings",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1668667999999998,
+      41.3831913
+    ],
+    "venue": "MACBA",
+    "when": "During museum opening hours",
+    "price": "See tickets",
+    "why": "A fifty-year survey connects textile craft and sculpture through macramé structures, birds-kites and handmade-paper installations.",
+    "startsOn": "2026-11-05",
+    "endsOn": "2027-05-02",
+    "links": [
+      {
+        "label": "Exhibition",
+        "url": "https://www.macba.cat/en/exhibitions/aurelia-munoz-beings/"
       }
     ]
   }

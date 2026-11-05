@@ -1538,5 +1538,120 @@
     "judgedOn": "2026-11-04",
     "accepted": false,
     "reason": "Open-ended blues jam session; prioritising the named concert programmes already selected at Harlem and the jazz festival."
+  },
+  "bcn:99400713097": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Programme still undetermined and only the Palau homepage supplied; no verified specific concert URL."
+  },
+  "bcn:99400713114": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Solo classical piano recital is lower priority than the named jazz and Latin programmes selected for this batch."
+  },
+  "bcn:99400744060": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Compelling blues programme, but the retrieved Farinera homepage did not establish a working specific concert URL; defer until independently verified."
+  },
+  "bcn:99400747522": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Local painting-group display links only to the neighbourhood festival homepage, without a verified specific exhibition page or independently confirmed dates."
+  },
+  "bcn:99400744151": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Mozart and Bruckner symphonic programme is lower priority than the named jazz and Latin programmes selected for this batch."
+  },
+  "bcn:99400744241": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Carles Santos theatrical choral tribute is lower priority than the jazz and roots priorities; no specific performance URL established."
+  },
+  "bcn:99400682658": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Only the civic-centre homepage is supplied; no verified specific Kiki Morente concert or ticket URL."
+  },
+  "bcn:99400679202": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Guided heritage visit rather than a specific currently open temporary exhibition."
+  },
+  "bcn:99400679264": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Music-school student showcase rather than a distinctive named professional concert for an adult night out."
+  },
+  "bcn:99400679295": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Neighbourhood book sale and signings, outside the music, original-version film and temporary exhibition scope."
+  },
+  "bcn:99400548655": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Sound-art cycle opens 17 November and is not currently open; the specific page describes a programme rather than a single verified open exhibition."
+  },
+  "bcn:99400783355": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Relaxed family wind-band and theatre programme is lower priority than the selected jazz performances; no specific event URL verified."
+  },
+  "bcn:99400784952": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Concert explicitly aimed at babies aged zero to three and their families, outside the adult night-out selection."
+  },
+  "bcn:99400784960": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Travelling neighbourhood display changes location every fortnight; no single venue and visit dates established for a complete outing."
+  },
+  "bcn:99400784964": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "AC/DC tribute is lower priority than the distinctive original jazz performances available in this batch."
+  },
+  "bcn:99400784973": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Official linked page lists an ended July–September run, with a separate October–December related listing; feed dates do not establish the current run at a verified specific page."
+  },
+  "bcn:99400782681": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Ticket page describes a rave-pop show; lower priority than the jazz, Latin and roots performances sought for these nights out."
+  },
+  "bcn:99400782685": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Ukrainian anniversary rock tour is lower priority than the distinctive jazz and roots programmes selected for this batch."
+  },
+  "bcn:99400784333": {
+    "judgedOn": "2026-11-05",
+    "accepted": true
+  },
+  "bcn:99400784523": {
+    "judgedOn": "2026-11-05",
+    "accepted": true
+  },
+  "https://jazz.barcelona/concert/vijay-iyer/#2026-11-06": {
+    "judgedOn": "2026-11-05",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/dong-fu-ren#2026-11-11": {
+    "judgedOn": "2026-11-05",
+    "accepted": true
+  },
+  "https://www.macba.cat/en/exhibitions/aurelia-munoz-beings/#2026-11-05": {
+    "judgedOn": "2026-11-05",
+    "accepted": true
+  },
+  "https://www.macba.cat/en/exhibitions/stan-douglas/#2027-07-22": {
+    "judgedOn": "2026-11-05",
+    "accepted": false,
+    "reason": "Official specific page gives 22 July 2027–27 February 2028; not currently open."
   }
 }
