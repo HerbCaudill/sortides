@@ -2494,42 +2494,6 @@
     ]
   },
   {
-    "title": "Licorice Pizza",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Thu 5 Nov · 17:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Paul Thomas Anderson’s restless coming-of-age romance captures the music and atmosphere of Los Angeles in 1973.",
-    "context": "Rotten Tomatoes critics: 90% as checked on 2 November 2026.",
-    "date": "2026-11-05",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/licorice-pizza"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/licorice_pizza"
-      }
-    ]
-  },
-  {
     "title": "Fifty years of the Transition concerts",
     "kind": "Exhibitions",
     "bases": [
@@ -2625,41 +2589,6 @@
     ]
   },
   {
-    "title": "The River Fuefuki",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Thu 5 Nov · 21:00 · original version, Spanish subtitles",
-    "price": "See tickets",
-    "why": "A farming family caught in feudal warfare, filmed by Kinoshita with colour effects inspired by Japanese scroll paintings.",
-    "date": "2026-11-05",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/fuefukigawa"
-      },
-      {
-        "label": "Film notes",
-        "url": "https://www.filmlinc.org/films/the-river-fuefuki/"
-      }
-    ]
-  },
-  {
     "title": "El que s’esborra no es pot esborrar",
     "kind": "Exhibitions",
     "bases": [
@@ -2750,72 +2679,6 @@
       {
         "label": "Event page",
         "url": "https://jazz.barcelona/concert/omar-sosa-marcelo-woloski-focus-quartet/"
-      }
-    ]
-  },
-  {
-    "title": "Kurt Rosenwinkel: The Remedy",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu, Barcelona",
-    "when": "20:30",
-    "price": "See tickets",
-    "why": "Rosenwinkel revisits the jazz compositions of his Village Vanguard album with a quintet featuring Seamus Blake, Aaron Goldberg, Joe Martin and Kendrick Scott.",
-    "date": "2026-11-05",
-    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/kurt-rosenwinkel-the-remedy/"
-      }
-    ]
-  },
-  {
-    "title": "Cotton Queen",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "20:00 · original version with Catalan subtitles (VOSC)",
-    "price": "See tickets",
-    "why": "A Sudanese coming-of-age story about women’s choices, village traditions and the legacy of colonialism, followed by a discussion with director Suzannah Mirghani.",
-    "date": "2026-11-05",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/cotton-queen"
-      },
-      {
-        "label": "Review: Screen",
-        "url": "https://www.screendaily.com/reviews/cotton-queen-review-thessaloniki-winner-is-assured-debut-from-sudanese-filmmaker-suzannah-mirghani/5210886.article"
       }
     ]
   },
@@ -2974,6 +2837,127 @@
       {
         "label": "Exhibition",
         "url": "https://www.macba.cat/en/exhibitions/aurelia-munoz-beings/"
+      }
+    ]
+  },
+  {
+    "title": "Professor Adrian Cunningham Soul Trio",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Friday 13 November, 23:00",
+    "price": "€13",
+    "why": "Saxophone, Hammond organ and drums bring a danceable mix of soul, blues and jazz, with songs associated with Ray Charles, Marvin Gaye and James Brown.",
+    "date": "2026-11-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-professor-adrian-cunningham-soul-trio-soul-jazz-blues-13e-3/"
+      }
+    ]
+  },
+  {
+    "title": "Chris Potter Trio",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu",
+    "when": "Tuesday 17 November, 20:30",
+    "price": "See tickets",
+    "why": "Potter joins bassist Matt Brewer and drummer Kendrick Scott for a saxophone-led trio set built around new music and material from Alive With Ghosts Today.",
+    "date": "2026-11-17",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/chris-potter-trio/"
+      }
+    ]
+  },
+  {
+    "title": "The River Fuefuki",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Sunday 8 November, 20:00 · original version with Spanish subtitles",
+    "price": "See tickets",
+    "why": "Kinoshita’s anti-war family saga sets peasant lives against feudal conflict, using colour inspired by Japanese painted scrolls.",
+    "date": "2026-11-08",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/fuefukigawa"
+      }
+    ]
+  },
+  {
+    "title": "World Press Photo 2026",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.166667,
+      41.383611
+    ],
+    "venue": "CCCB, Barcelona",
+    "when": "Tue–Thu 11:00–20:00; Fri 11:00–21:00; Sat 10:00–21:00; Sun 10:00–20:00",
+    "price": "€9 online / €10 at the door",
+    "why": "Award-winning photojournalism opens conversations about migration, gender, conflict and the climate crisis through stories from around the world.",
+    "startsOn": "2026-11-06",
+    "endsOn": "2026-12-13",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026"
       }
     ]
   }

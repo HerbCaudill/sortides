@@ -1653,5 +1653,96 @@
     "judgedOn": "2026-11-05",
     "accepted": false,
     "reason": "Official specific page gives 22 July 2027–27 February 2028; not currently open."
+  },
+  "bcn:99400094695": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Photography forum starts 24 November; not a currently open temporary exhibition."
+  },
+  "bcn:99400752467": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Participatory sound and wellbeing workshop, rather than a live concert."
+  },
+  "bcn:99400750980": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Exhibition opens 9 November; not currently open."
+  },
+  "bcn:99400762344": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Current exhibition dates confirmed on the venue homepage, but specific exhibition page and venue routes remain unresolved; deferred."
+  },
+  "bcn:99400760343": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Science-inspired competition final has no named acts in the retrieved programme; less compelling than the named professional jazz concerts."
+  },
+  "bcn:99400763344": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Dragon parade and community fire-run, rather than a dated adult concert."
+  },
+  "bcn:99400766400": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Year-long multi-venue Gaudí commemoration, rather than a specific temporary exhibition."
+  },
+  "bcn:99400764889": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Official exhibition dates confirmed, but coordinates and drive times for Biblioteca Arús have not been verified in this batch; deferred."
+  },
+  "bcn:99400777193": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Official page says only until the end of 2026; exact closing date is not established independently of the feed."
+  },
+  "bcn:99400781176": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Multidisciplinary project across venues, performances, talks and films; not a single currently open exhibition at Museu Tàpies, which is closed for works."
+  },
+  "bcn:99400781193": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Homepage confirms date but no specific Mocedades y Los Panchos event URL verified in this batch; deferred."
+  },
+  "bcn:99400781810": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Spanish sixties pop anniversary show is lower priority than the distinctive jazz and soul programmes selected."
+  },
+  "bcn:99400781826": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Classical Mozart and Tchaikovsky programme is lower priority than the selected jazz performances."
+  },
+  "bcn:99400780413": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Specific URL redirects to the Aurèlia Muñoz exhibition already present, with official dates 5 November 2026–2 May 2027; duplicate with conflicting feed dates."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-professor-adrian-cunningham-soul-trio-soul-jazz-blues-13e-3/#2026-11-13": {
+    "judgedOn": "2026-11-06",
+    "accepted": true
+  },
+  "bcn:99400783134": {
+    "judgedOn": "2026-11-06",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/fuefukigawa#2026-11-08": {
+    "judgedOn": "2026-11-06",
+    "accepted": true
+  },
+  "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026#2026-11-06": {
+    "judgedOn": "2026-11-06",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-55/#2026-11-12": {
+    "judgedOn": "2026-11-06",
+    "accepted": false,
+    "reason": "Open-ended guest jam session; prioritising the named Cunningham organ-trio programme at the same venue."
   }
 }
