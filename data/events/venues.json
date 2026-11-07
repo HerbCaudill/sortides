@@ -701,5 +701,42 @@
         "distanceMeters": 123352
       }
     ]
+  },
+  "Museu de les Arts Escèniques": {
+    "coordinates": [
+      2.1571745,
+      41.371694399999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "verifiedAt": "2026-11-07T07:02:24.303Z",
+    "placeId": "ChIJEavefWWipBIRn_ZKsKrvEKo",
+    "address": "Plaça Margarida Xirgu, s/n Institut del Teatre de, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=12254558102456301215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.cdmae.cat/senyores-i-senyors-dones-a-escena-amb-els-pantalons-ben-posats/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13,
+        "distanceMeters": 3167
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98,
+        "distanceMeters": 129859
+      }
+    ]
   }
 }

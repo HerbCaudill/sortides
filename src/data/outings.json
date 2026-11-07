@@ -1992,41 +1992,6 @@
     ]
   },
   {
-    "title": "One Battle After Another",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Fri 6 Nov · 20:00 · original version, Spanish subtitles",
-    "price": "See tickets",
-    "why": "Paul Thomas Anderson mixes political satire, a fugitive father’s past and family drama in an energetic thriller.",
-    "context": "Rotten Tomatoes critics: 94% as checked on 30 October 2026.",
-    "date": "2026-11-06",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/one-battle-after-another"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/one_battle_after_another"
-      }
-    ]
-  },
-  {
     "title": "Una fuerza del pasado",
     "kind": "Exhibitions",
     "bases": [
@@ -2366,37 +2331,6 @@
       {
         "label": "Tickets",
         "url": "https://thisisbarcelona.com/tickets/visita-guiada-a-la-fabrica-estrella-damm-del-prat-de-llobregat/"
-      }
-    ]
-  },
-  {
-    "title": "Chino Swingslide Quartet",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Fri 6 Nov · 23:00",
-    "price": "€15",
-    "why": "Original blues and swing with slide guitar, harmonica and double bass, from the winners of the 2026 Volotea Blues Challenge.",
-    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
-    "date": "2026-11-06",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-quartet-blues-swing-roots-15e-2/"
       }
     ]
   },
@@ -2745,36 +2679,6 @@
     ]
   },
   {
-    "title": "Vijay Iyer: Solo",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu, Barcelona",
-    "when": "Friday 6 November, 20:30",
-    "price": "See tickets",
-    "why": "A solo-piano evening gives Iyer room to move between his own music and the jazz and pop traditions behind his playing.",
-    "date": "2026-11-06",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/vijay-iyer/"
-      }
-    ]
-  },
-  {
     "title": "The Arch (Dong fu ren)",
     "kind": "Movies",
     "bases": [
@@ -2958,6 +2862,101 @@
       {
         "label": "Exhibition page",
         "url": "https://www.cccb.org/ca/w/exposicions/world-press-photo-2026"
+      }
+    ]
+  },
+  {
+    "title": "Kyle Eastwood: Eastwood by Eastwood",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695907,
+      41.375198499999996
+    ],
+    "venue": "Paral·lel 62",
+    "when": "Tuesday 10 November, 20:30",
+    "price": "See tickets",
+    "why": "A jazz quintet pairs Kyle Eastwood’s originals with film music associated with Clint Eastwood, including themes by Morricone, Schifrin and John Williams.",
+    "date": "2026-11-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/kyle-eastwood/"
+      }
+    ]
+  },
+  {
+    "title": "Senyores i Senyors: Women in trousers on stage",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1571745,
+      41.371694399999996
+    ],
+    "venue": "Museu de les Arts Escèniques",
+    "when": "Mon–Fri 09:00–20:00; weekends during theatre box-office and performance hours",
+    "price": "Free",
+    "why": "Photographs, postcards and archival documents trace four centuries of actresses playing men, connecting theatrical costume with women’s autonomy and changing gender roles.",
+    "startsOn": "2026-11-05",
+    "endsOn": "2027-04-25",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.cdmae.cat/senyores-i-senyors-dones-a-escena-amb-els-pantalons-ben-posats/"
+      }
+    ]
+  },
+  {
+    "title": "The Bestiary of Jean Painlevé",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Sunday 8 November, 21:00 · original version with Catalan subtitles; silent sections with Catalan intertitles",
+    "price": "See tickets",
+    "why": "Six short films turn octopuses, seahorses and other natural subjects into poetic cinema, blending scientific observation with unusual images.",
+    "date": "2026-11-08",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/el-bestiari-de-jean-painleve"
+      },
+      {
+        "label": "Critical essay",
+        "url": "https://www.criterion.com/current/posts/1098-jean-painlev-going-beneath-the-surface"
       }
     ]
   }

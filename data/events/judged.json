@@ -1744,5 +1744,137 @@
     "judgedOn": "2026-11-06",
     "accepted": false,
     "reason": "Open-ended guest jam session; prioritising the named Cunningham organ-trio programme at the same venue."
+  },
+  "bcn:99400773691": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Official page gives 15 October rather than feed 7 October opening; venue drive times are not verified, so defer this design exhibition."
+  },
+  "bcn:99400775376": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Only the civic-centre homepage was established; no specific exhibition page with independently verified dates."
+  },
+  "bcn:99400774934": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Rock per xics is a family show aimed at introducing children to rock, rather than an adult night out."
+  },
+  "bcn:99400772024": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Duplicate of Charlotte Perriand already present; feed closing date conflicts with existing official-source dates, and the official page is blocked today."
+  },
+  "bcn:99400775401": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Rearrangement of the permanent Miró collection rather than a specific temporary exhibition; official page also blocks retrieval."
+  },
+  "bcn:99400777900": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Current industrial-history exhibition confirmed, but drives to the archive venue have not been verified; deferred."
+  },
+  "bcn:99400773940": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Guided visits to several exhibitions, rather than one specific temporary exhibition; supplied hostname is also invalid."
+  },
+  "bcn:99400777731": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Official Camilla Wills page returns HTTP 403; current opening and closing dates cannot be independently verified."
+  },
+  "bcn:99400774531": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Park Güell homepage alone does not establish a working specific exhibition page with both dates; deferred."
+  },
+  "bcn:99400749598": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Only the civic-centre homepage was verified; no working specific Glòria Ribera concert URL established."
+  },
+  "bcn:99400713222": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Family concert recommended from age six, lower priority for an adult night out than the selected jazz quintet."
+  },
+  "bcn:99400723794": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Neighbourhood feast, parade and fire-run with music, rather than a verified specific concert at a working event URL."
+  },
+  "bcn:99400766789": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Civic-centre and neighbourhood-association anniversary meeting rather than a named live concert."
+  },
+  "bcn:99400766365": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Festive Catalan pop-rock anniversary concert is lower priority than the selected jazz programme; retrieved festival homepage is not a specific event page."
+  },
+  "bcn:99400769722": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Year-long anniversary programme with multiple activities, rather than one specific currently open exhibition."
+  },
+  "bcn:99400767025": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Official Terra i univers page conflicts internally on closing date (27 versus 28 November); defer until exact dates are settled."
+  },
+  "bcn:99400767875": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Official Goethe exhibition page returns HTTP 403; current exhibition dates cannot be independently verified."
+  },
+  "bcn:99400768910": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Temporary exhibition verified, but Centre Martorell coordinates and drives have not been verified; deferred."
+  },
+  "bcn:99400765820": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Official page confirms the October opening but does not establish the closing date in its retrieved text; deferred."
+  },
+  "bcn:99400782437": {
+    "judgedOn": "2026-11-07",
+    "accepted": true
+  },
+  "bcn:99400766318": {
+    "judgedOn": "2026-11-07",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/el-bestiari-de-jean-painleve#2026-11-08": {
+    "judgedOn": "2026-11-07",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/le-corset#2026-11-07": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "FilmoXica family screening recommended from age ten; prioritising adult repertory cinema."
+  },
+  "https://www.filmoteca.cat/web/ca/film/infancies-fora-de-camp-sessio-de-curtmetratges#2026-11-08": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "FilmoXica family shorts recommended from age nine; prioritising adult repertory cinema."
+  },
+  "https://www.filmoteca.cat/web/ca/film/kaanna-lam-takun#2026-11-07": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Original-version date confirmed, but no independent review or rating established in this batch; defer in favour of critically documented repertory."
+  },
+  "https://www.filmoteca.cat/web/ca/film/akal#2026-11-08": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Original-version screening confirmed, but no independent critical assessment established in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/al-makhduun-flowers-stand-silently-witnessing#2026-11-19": {
+    "judgedOn": "2026-11-07",
+    "accepted": false,
+    "reason": "Original-version double bill confirmed; independent critical review remains unverified in this batch, so deferred."
   }
 }
