@@ -1902,36 +1902,6 @@
     ]
   },
   {
-    "title": "Los Rebeldes + Jodie Cash",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 70
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 50
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.7734563999999997,
-      41.968405499999996
-    ],
-    "venue": "La Mirona",
-    "when": "07 Nov · 20:45",
-    "price": "€28 advance; €35 at the door",
-    "why": "A double bill of Spanish rockabilly and Jodie Cash’s country and Southern rock makes a varied roots-music night.",
-    "date": "2026-11-07",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://lamirona.cat/2026/11/07/los-rebeldes/"
-      }
-    ]
-  },
-  {
     "title": "The Funk Power Station",
     "kind": "Music",
     "bases": [
@@ -2331,37 +2301,6 @@
       {
         "label": "Tickets",
         "url": "https://thisisbarcelona.com/tickets/visita-guiada-a-la-fabrica-estrella-damm-del-prat-de-llobregat/"
-      }
-    ]
-  },
-  {
-    "title": "Ray Cuza & Quinteto Sazonando de Cuba",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sat 7 Nov · 23:00",
-    "price": "€15",
-    "why": "A Cuban quintet playing classic son, guaracha and bolero, with trumpet, piano and congas for a dancing night out.",
-    "context": "Tickets do not reserve a seat or table; available seats are taken in order of arrival.",
-    "date": "2026-11-07",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-quinteto-sazonando-de-cuba-musica-cubana-son-chachacha-bolero-latin-jazz-15e/"
       }
     ]
   },
@@ -2957,6 +2896,189 @@
       {
         "label": "Critical essay",
         "url": "https://www.criterion.com/current/posts/1098-jean-painlev-going-beneath-the-surface"
+      }
+    ]
+  },
+  {
+    "title": "Barcelona = (Diversity + Intensity) × Complexity",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1474789999999997,
+      41.3861795
+    ],
+    "venue": "Antiga Seu Editorial Gustavo Gili",
+    "when": "Open through 13 December",
+    "price": "Free",
+    "why": "An exhibition about who inhabits Barcelona and how community life and urban change shape the city, with exhibition design by Domestic Data Streamers.",
+    "startsOn": "2026-03-12",
+    "endsOn": "2026-12-13",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.barcelona.cat/capitalmundialarquitectura/ca/programa/barcelona-diversitat-intensitat-x-complexitat"
+      }
+    ]
+  },
+  {
+    "title": "Josep Maria de Sucre: Activist and visionary artist",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 5
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1752962,
+      41.390932
+    ],
+    "venue": "Espais Volart",
+    "when": "Open through 17 January",
+    "price": "See tickets",
+    "why": "Portraits, masks and works by Catalan postwar artists trace Sucre’s role in reconnecting the avant-garde after the Civil War.",
+    "startsOn": "2026-09-16",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fundaciovilacasas.com/ca/exposicio/josep-maria-de-sucre-activista-i-artista-visionari"
+      }
+    ]
+  },
+  {
+    "title": "SEAT: A factory of transformations",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1650636,
+      41.362959
+    ],
+    "venue": "Castell de Montjuïc",
+    "when": "Open through 28 February",
+    "price": "See tickets",
+    "why": "Archive photographs, objects and documents connect Barcelona’s car industry with neighbourhood change, labour struggles and the fight for democracy.",
+    "startsOn": "2026-06-05",
+    "endsOn": "2027-02-28",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://ajuntament.barcelona.cat/castelldemontjuic/ca/activitats/exposicions/la-seat-fabrica-de-transformacions"
+      }
+    ]
+  },
+  {
+    "title": "Vicente Amigo: Entre cuerdas y tiempo",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1753128,
+      41.3875752
+    ],
+    "venue": "Palau de la Música Catalana",
+    "when": "Friday 20 November, 21:00",
+    "price": "See tickets",
+    "why": "A 40-year career celebration with flamenco guitar, singing, percussion and palmas in the Palau.",
+    "date": "2026-11-20",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/vicente-amigo/"
+      }
+    ]
+  },
+  {
+    "title": "Bill McHenry & Ethan Iverson",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Friday 27 November, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "An intimate tenor-saxophone and piano conversation, pairing two distinctive jazz improvisers without a rhythm section.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/bill-mchenry-ethan-iverson/"
+      }
+    ]
+  },
+  {
+    "title": "Sara Lilu & Alesander Peña",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Saturday 5 December, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "Voice and guitar in a small-room jazz duo, with carefully shaped arrangements from the pair behind My Blue Heaven.",
+    "date": "2026-12-05",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/sara-lilu-alesander-pena/"
       }
     ]
   }

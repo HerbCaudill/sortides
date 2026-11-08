@@ -1876,5 +1876,99 @@
     "judgedOn": "2026-11-07",
     "accepted": false,
     "reason": "Original-version double bill confirmed; independent critical review remains unverified in this batch, so deferred."
+  },
+  "bcn:99400773165": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400772960": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "City model is intended to remain on permanent display beyond 2026; not a specific temporary exhibition."
+  },
+  "bcn:99400774005": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Feed links only to the general Entradas homepage; a working specific Bryan Adams performance or ticket URL was not established in this batch."
+  },
+  "bcn:99400772116": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Anselm Kiefer exhibition is already listed at La Pedrera; official specific page confirms the existing 2 October 2026–24 January 2027 dates."
+  },
+  "bcn:99400781091": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400780882": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Liceu chamber programme supplied only a general venue homepage; no working specific performance page and independently confirmed date were established in this batch."
+  },
+  "bcn:99400780884": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Liceu chamber programme supplied only a general venue homepage; no working specific performance page and independently confirmed date were established in this batch."
+  },
+  "bcn:99400780885": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Liceu chamber programme supplied only a general venue homepage; no working specific performance page and independently confirmed date were established in this batch."
+  },
+  "bcn:99400783211": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Official Auditori source could not be retrieved and the feed supplies only a venue homepage; specific performance URL and date remain unverified."
+  },
+  "bcn:99400783212": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Official Auditori source could not be retrieved and the feed supplies only a venue homepage; specific performance URL and date remain unverified."
+  },
+  "bcn:99400783213": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Official Auditori source could not be retrieved and the feed supplies only a venue homepage; specific performance URL and date remain unverified."
+  },
+  "bcn:99400782159": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400784687": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Official page describes a physically intense jazz-and-club-electronics show; prioritising the acoustic Iverson–McHenry duo and vocal jazz programme in this batch."
+  },
+  "bcn:99400784689": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400784691": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400784692": {
+    "judgedOn": "2026-11-08",
+    "accepted": true
+  },
+  "bcn:99400782190": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Castell homepage does not establish a working specific International Brigades exhibition page with both dates; deferred."
+  },
+  "bcn:99400781190": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Wounded Militiaman is already listed at MNAC; duplicate of the existing exhibition."
+  },
+  "bcn:99400783254": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Official page verifies 7 July–15 November exhibition dates, but coordinates and drive times for its precise Sant Pau display location were not verified in this batch; deferred."
+  },
+  "bcn:99400783259": {
+    "judgedOn": "2026-11-08",
+    "accepted": false,
+    "reason": "Auditori retrieval failed; no working specific Notwist event URL or independently verified performance date established."
   }
 }

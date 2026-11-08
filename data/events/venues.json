@@ -738,5 +738,190 @@
         "distanceMeters": 129859
       }
     ]
+  },
+  "Jamboree 3": {
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "verifiedAt": "2026-11-08T07:02:30.012Z",
+    "placeId": "ChIJjeBz7leipBIR2hJlrAvHBQY",
+    "address": "Pl. Reial, 17, Ciutat Vella, 08002 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=433971792061993690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://jamboreejazz.com/agenda/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17,
+        "distanceMeters": 3020
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92,
+        "distanceMeters": 127949
+      }
+    ]
+  },
+  "Palau de la Música Catalana": {
+    "coordinates": [
+      2.1753128,
+      41.3875752
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "verifiedAt": "2026-11-08T07:02:30.627Z",
+    "placeId": "ChIJQQSrd_qipBIRQ2xzarVkqn8",
+    "address": "C/ Palau de la Música, 4-6, Ciutat Vella, 08003 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=9199275919195466819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://jazz.barcelona/concert/vicente-amigo/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8,
+        "distanceMeters": 1272
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96,
+        "distanceMeters": 126257
+      }
+    ]
+  },
+  "Antiga Seu Editorial Gustavo Gili": {
+    "coordinates": [
+      2.1474789999999997,
+      41.3861795
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "verifiedAt": "2026-11-08T07:02:31.036Z",
+    "placeId": "ChIJU4tEKYKipBIR57OLkbyFF1Q",
+    "address": "Carrer del Rosselló, 87, Eixample, 08029 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=6059458868592489447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.barcelona.cat/capitalmundialarquitectura/ca/programa/barcelona-diversitat-intensitat-x-complexitat",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11,
+        "distanceMeters": 3152
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96,
+        "distanceMeters": 127788
+      }
+    ]
+  },
+  "Espais Volart": {
+    "coordinates": [
+      2.1752962,
+      41.390932
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 5
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "verifiedAt": "2026-11-08T07:02:31.497Z",
+    "placeId": "ChIJRQWxTeWipBIR5P4o31ua8is",
+    "address": "Carrer d'Ausiàs Marc, 22, Eixample, 08010 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=3166763207371587300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.fundaciovilacasas.com/ca/exposicio/josep-maria-de-sucre-activista-i-artista-visionari",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 5,
+        "distanceMeters": 1033
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91,
+        "distanceMeters": 125445
+      }
+    ]
+  },
+  "Castell de Montjuïc": {
+    "coordinates": [
+      2.1650636,
+      41.362959
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "verifiedAt": "2026-11-08T07:02:31.958Z",
+    "placeId": "ChIJN7FiCkGipBIR1PJn6ohejww",
+    "address": "Ctra. de Montjuïc, 66, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=905045992266003156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://ajuntament.barcelona.cat/castelldemontjuic/ca/activitats/exposicions/la-seat-fabrica-de-transformacions",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18,
+        "distanceMeters": 4885
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93,
+        "distanceMeters": 130224
+      }
+    ]
   }
 }
