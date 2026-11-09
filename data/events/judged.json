@@ -1970,5 +1970,123 @@
     "judgedOn": "2026-11-08",
     "accepted": false,
     "reason": "Auditori retrieval failed; no working specific Notwist event URL or independently verified performance date established."
+  },
+  "bcn:99400679361": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Community festival orchestra programme is broad popular entertainment; no specific compelling repertoire or working event-specific booking page verified."
+  },
+  "bcn:99400703250": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Local photo-and-microfiction contest display is a weaker destination choice than the verified temporary art and design exhibitions."
+  },
+  "bcn:99400717108": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Intimate vocal duo is plausible, but only a registration homepage was supplied; a specific dated event/ticket page was not verified."
+  },
+  "bcn:99400722655": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Multi-activity fantasy festival is not a single temporary exhibition; its component exhibition needs separate verification."
+  },
+  "bcn:99400765834": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Not currently open: exhibition opens 13 November 2026."
+  },
+  "bcn:99400765977": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Commerce and restaurant fair is outside music, original-version cinema and temporary-exhibition scope."
+  },
+  "bcn:99400766237": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Commercial Titanic virtual-reality attraction is not selected as a temporary museum exhibition; the distant feed closing date is not verified on the specific page."
+  },
+  "bcn:99400759103": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Only a venue homepage was supplied; a working specific performance page and current ticket details were not verified."
+  },
+  "bcn:99400757340": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Not currently open: exhibition opens 10 November 2026."
+  },
+  "bcn:99400760445": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Contemporary ensemble programme emphasises electronics and experimental commissions; weaker shared-night-out fit than selected jazz and song concerts."
+  },
+  "bcn:99400770416": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Fitness/agriculture performance-art project is a weaker destination choice than the selected design and historical exhibitions; specific exhibition page not established."
+  },
+  "bcn:99400771512": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Promising soul-influenced project, but source resolves to a civic-centre homepage rather than a verified specific dated concert page."
+  },
+  "bcn:99400771521": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Mediterranean folk duo is a plausible match, but a specific concert/ticket URL could not be verified from the registration homepage."
+  },
+  "bcn:99400772128": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Installation and performance-production research is a weaker shared-interest fit than the selected design and history exhibitions."
+  },
+  "bcn:99400773019": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Pop-rock show is a weaker match than the selected jazz and Brazilian-song programmes; supplied URL is a festival homepage."
+  },
+  "bcn:99400773040": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Folklore illustrations are interesting, but this short remaining library display is deferred because venue coordinates and both base routes have not been verified."
+  },
+  "bcn:99400773628": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "Sound installation is a weaker destination choice than selected temporary exhibitions; feed opening date also conflicts with its description."
+  },
+  "bcn:99400773471": {
+    "judgedOn": "2026-11-09",
+    "accepted": false,
+    "reason": "This is an ethnomusicology talk with audiovisual examples, rather than a live music performance."
+  },
+  "bcn:99400772411": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "bcn:99400770866": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "bcn:99400782439": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5693#2026-11-21": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5698#2026-11-27": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/stromboli-terra-di-dio#2026-11-10": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi#2026-11-11": {
+    "judgedOn": "2026-11-09",
+    "accepted": true
   }
 }

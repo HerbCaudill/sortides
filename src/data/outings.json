@@ -1678,38 +1678,6 @@
     }
   },
   {
-    "title": "The Cult of Beauty",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 100
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.166667,
-      41.383611
-    ],
-    "venue": "CCCB, Barcelona",
-    "startsOn": "2026-05-21",
-    "endsOn": "2026-11-08",
-    "when": "Tue–Sun 10:00–20:00",
-    "price": "€8 online",
-    "why": "How beauty standards are made – through medicine, commerce, race and gender.",
-    "context": "A Wellcome Collection project adapted for Barcelona, bringing historical objects and contemporary art into a critical look at bodies and exclusion. Tue–Sun 10:00–20:00; free Sunday afternoons require booking.",
-    "links": [
-      {
-        "label": "Exhibition page",
-        "url": "https://www.cccb.org/en/w/exhibitions/the-cult-of-beauty"
-      }
-    ]
-  },
-  {
     "title": "Charlotte Perriand. Free to Rethink the World",
     "kind": "Exhibitions",
     "bases": [
@@ -1989,37 +1957,6 @@
       {
         "label": "Exhibition page",
         "url": "https://caixaforum.org/es/barcelona/p/una-fuerza-del-pasado-barcelona"
-      }
-    ]
-  },
-  {
-    "title": "Sim: Acquisition, Drawing and War",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 98
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.1535699999999998,
-      41.3684399
-    ],
-    "venue": "MNAC",
-    "when": "Open until 8 November",
-    "price": "See tickets",
-    "why": "José Luis Rey Vila’s drawings made during the Spanish Civil War capture soldiers, bombing and civilian flight with the immediacy of eyewitness notes.",
-    "startsOn": "2026-05-07",
-    "endsOn": "2026-11-08",
-    "links": [
-      {
-        "label": "Exhibition page",
-        "url": "https://www.museunacional.cat/en/sim-acquisition-drawing-and-war"
       }
     ]
   },
@@ -2332,37 +2269,6 @@
       {
         "label": "Exhibition page",
         "url": "https://ajuntament.barcelona.cat/museumusica/ca/exposicions/instrumental-baschet-la-utopia-ressonant"
-      }
-    ]
-  },
-  {
-    "title": "Barcelona World Music Ensemble: Latinoamérica",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sun 8 Nov · 21:30",
-    "price": "€13",
-    "why": "Two voices, piano, cello, clarinet and percussion bring Cuban son, bossa nova, tango and cumbia together in original jazz arrangements.",
-    "date": "2026-11-08",
-    "mapsUrl": "https://maps.google.com/?cid=14457921613504761866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2130h-barcelona-world-music-ensemble-presenta-latinoamerica-cuban-son-samba-bossa-nova-tango-milonga-cumbia-latin-jazz-13e/"
       }
     ]
   },
@@ -2744,36 +2650,6 @@
     ]
   },
   {
-    "title": "The River Fuefuki",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sunday 8 November, 20:00 · original version with Spanish subtitles",
-    "price": "See tickets",
-    "why": "Kinoshita’s anti-war family saga sets peasant lives against feudal conflict, using colour inspired by Japanese painted scrolls.",
-    "date": "2026-11-08",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/fuefukigawa"
-      }
-    ]
-  },
-  {
     "title": "World Press Photo 2026",
     "kind": "Exhibitions",
     "bases": [
@@ -2862,40 +2738,6 @@
       {
         "label": "Exhibition page",
         "url": "https://www.cdmae.cat/senyores-i-senyors-dones-a-escena-amb-els-pantalons-ben-posats/"
-      }
-    ]
-  },
-  {
-    "title": "The Bestiary of Jean Painlevé",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sunday 8 November, 21:00 · original version with Catalan subtitles; silent sections with Catalan intertitles",
-    "price": "See tickets",
-    "why": "Six short films turn octopuses, seahorses and other natural subjects into poetic cinema, blending scientific observation with unusual images.",
-    "date": "2026-11-08",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/el-bestiari-de-jean-painleve"
-      },
-      {
-        "label": "Critical essay",
-        "url": "https://www.criterion.com/current/posts/1098-jean-painlev-going-beneath-the-surface"
       }
     ]
   },
@@ -3079,6 +2921,218 @@
       {
         "label": "Event page",
         "url": "https://jazz.barcelona/concert/sara-lilu-alesander-pena/"
+      }
+    ]
+  },
+  {
+    "title": "André Ricard: Design in use",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1880918,
+      41.402451
+    ],
+    "venue": "Disseny Hub Barcelona",
+    "when": "29 October 2026–14 March 2027",
+    "price": "€6.20",
+    "why": "Everyday objects reveal how an influential industrial designer approached usefulness, social responsibility and public life.",
+    "startsOn": "2026-10-29",
+    "endsOn": "2027-03-14",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.dissenyhub.barcelona/ca/exposicio/andre-ricard-disseny-en-us"
+      }
+    ]
+  },
+  {
+    "title": "Archive drops: We are the Shipyards",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1767282999999997,
+      41.3755604
+    ],
+    "venue": "Museu Marítim de Barcelona",
+    "when": "Daily, 10:00–19:00",
+    "price": "See tickets",
+    "why": "A small archive display traces Barcelona’s Royal Shipyards through documents about the building itself.",
+    "startsOn": "2026-03-20",
+    "endsOn": "2026-11-20",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.mmb.cat/exposicions/gotes-darxiu-som-les-drassanes/"
+      }
+    ]
+  },
+  {
+    "title": "Sofia Ribeiro: A um passo",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Thu 12 November, 19:00 or 20:30",
+    "price": "See tickets",
+    "why": "Voice, Portuguese and seven-string guitars, cello and violin bring together jazz harmony, Latin American rhythms and fado.",
+    "date": "2026-11-12",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/sofia-ribeiro/"
+      }
+    ]
+  },
+  {
+    "title": "Uri Caine & Girona Jazz Project",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.8115644,
+      41.9855598
+    ],
+    "venue": "Auditori de Girona",
+    "when": "Sat 21 November, 20:00",
+    "price": "€20",
+    "why": "Bach’s Goldberg Variations reimagined for big band, alongside Caine’s funk and groove compositions.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5693"
+      }
+    ]
+  },
+  {
+    "title": "Salvador Sobral: A Flor Do Recomeço",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.8115644,
+      41.9855598
+    ],
+    "venue": "Auditori de Girona",
+    "when": "Fri 27 November, 20:00",
+    "price": "€32",
+    "why": "A Portuguese singer returns to his Brazilian musical roots with new songs by writers including Chico César, Céu and Marcos Valle.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5698"
+      }
+    ]
+  },
+  {
+    "title": "Stromboli",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Tue 10 November, 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Ingrid Bergman plays a displaced woman whose escape into marriage becomes another confinement in Rossellini’s island drama.",
+    "date": "2026-11-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/stromboli-terra-di-dio"
+      }
+    ]
+  },
+  {
+    "title": "A Woman Under the Influence + Non! Tu ne sortiras pas sans moi!",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Wed 11 November, 18:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Gena Rowlands and Peter Falk in Cassavetes’ searching family drama, paired with a short silent comedy about domestic rebellion.",
+    "date": "2026-11-11",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
       }
     ]
   }

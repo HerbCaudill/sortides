@@ -923,5 +923,79 @@
         "distanceMeters": 130224
       }
     ]
+  },
+  "Disseny Hub Barcelona": {
+    "coordinates": [
+      2.1880918,
+      41.402451
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-09T07:02:30.430Z",
+    "placeId": "ChIJ12d3ZlmYpBIRStDXELkkdJE",
+    "address": "Plaça de les Glòries Catalanes, 38, c, Sant Martí, 08018 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=10481042610068115530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.dissenyhub.barcelona/ca/exposicio/andre-ricard-disseny-en-us",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10,
+        "distanceMeters": 2738
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 123731
+      }
+    ]
+  },
+  "Auditori de Girona": {
+    "coordinates": [
+      2.8115644,
+      41.9855598
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "verifiedAt": "2026-11-09T07:02:30.877Z",
+    "placeId": "ChIJR3_ZphjnuhIRnOeqgdfQCnE",
+    "address": "Passeig de la Devesa, 35, 17001 Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=8145552500064970652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5693",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71,
+        "distanceMeters": 102452
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52,
+        "distanceMeters": 56583
+      }
+    ]
   }
 }
