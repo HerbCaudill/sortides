@@ -2088,5 +2088,106 @@
   "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi#2026-11-11": {
     "judgedOn": "2026-11-09",
     "accepted": true
+  },
+  "bcn:99400781052": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400781058": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400781059": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400783140": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400783142": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400783143": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400782438": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400780840": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400790175": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/roma-citta-aperta#2026-11-13": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/paisa-0#2026-11-14": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400763503": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Two-piece civic-centre café display; weaker destination fit than the selected architecture and conceptual-art exhibitions. Supplied page is only a venue homepage."
+  },
+  "bcn:99400781053": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400781056": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Open-ended contemporary quartet improvisation is a weaker shared-night-out fit than the selected vocal jazz and bolero programmes."
+  },
+  "bcn:99400781060": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Specific festival page marks the Sant Andreu Dixie Band performance sold out (EXHAURIDES)."
+  },
+  "bcn:99400783135": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Exploratory quartet programme is a weaker shared-night-out fit than the selected vocal jazz, bolero and flamenco performances."
+  },
+  "bcn:99400783138": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400783139": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Already listed: Omar Sosa, Marcelo Woloski & Focus Quartet at Conservatori Liceu on 30 November."
+  },
+  "bcn:99400784195": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Camela electronic rumba-pop concert is a weaker match than the selected jazz and acoustic song programmes; ticket page also returns no usable event text."
+  },
+  "bcn:99400782959": {
+    "judgedOn": "2026-11-10",
+    "accepted": true
+  },
+  "bcn:99400782550": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Photographic survey of sporting facilities is a weaker shared-interest destination than the selected urban-design and art exhibitions."
+  },
+  "bcn:99400713142": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Feed supplies only the Palau homepage; no specific performance page verified for this symphonic pop-rock programme."
+  },
+  "bcn:99400772362": {
+    "judgedOn": "2026-11-10",
+    "accepted": false,
+    "reason": "Year-long local-commerce capital programme, rather than one temporary exhibition."
   }
 }

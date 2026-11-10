@@ -3135,5 +3135,428 @@
         "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
       }
     ]
+  },
+  {
+    "title": "Samara Joy",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1753128,
+      41.3875752
+    ],
+    "venue": "Palau de la Música Catalana",
+    "when": "Fri 13 Nov, 21:00",
+    "price": "See tickets",
+    "why": "A vocal-jazz evening built around Portrait, with arrangements drawing on Mingus, Sun Ra and Barry Harris.",
+    "date": "2026-11-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/samara-joy/"
+      }
+    ]
+  },
+  {
+    "title": "Lela Soto",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Tue 24 Nov, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "An intimate flamenco recital pairing Soto’s voice with Rubén Martínez’s guitar.",
+    "date": "2026-11-24",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/lela-soto/"
+      }
+    ]
+  },
+  {
+    "title": "María Marín: Las tres Marías",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Wed 25 Nov, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "Solo voice and guitar connect flamenco poetry with music by Tom Waits and Schubert.",
+    "date": "2026-11-25",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/maria-marin/"
+      }
+    ]
+  },
+  {
+    "title": "Antonio Serrano & Kaele Jiménez: Jazz caló",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu",
+    "when": "Tue 1 Dec, 20:30",
+    "price": "See tickets",
+    "why": "Chromatic harmonica and piano bring flamenco into conversation with Giant Steps and Take the A Train.",
+    "date": "2026-12-01",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/antonio-serrano-kaele-jimenez/"
+      }
+    ]
+  },
+  {
+    "title": "Ethan Iverson & Liceu Big Band: Barcelona Symphony",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu",
+    "when": "Wed 2 Dec, 20:30",
+    "price": "See tickets",
+    "why": "A festival commission brings Iverson’s piano and new music together with the Liceu Big Band.",
+    "date": "2026-12-02",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/ethan-iverson-liceu-big-band/"
+      }
+    ]
+  },
+  {
+    "title": "Belén Bandera & Carla Motis Quartet: Tea for Four",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Fri 4 Dec, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "Voice and guitar meet Horacio Fumero and David Xirgu in a quartet reworking traditional jazz.",
+    "date": "2026-12-04",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/belen-bandera-carla-motis-quartet/"
+      }
+    ]
+  },
+  {
+    "title": "Miguel Zenón & Luis Perdomo: El arte del bolero",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu",
+    "when": "Tue 10 Nov, 20:45",
+    "price": "See tickets",
+    "why": "Saxophone and piano explore the Afro-Cuban bolero tradition in an intimate duo. The organiser has moved this concert to 10 November.",
+    "date": "2026-11-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/miguel-zenon-luis-perdomo/"
+      }
+    ]
+  },
+  {
+    "title": "Barcelona 2035. A city to live in",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1474789999999997,
+      41.3861795
+    ],
+    "venue": "Antiga Seu Editorial Gustavo Gili",
+    "when": "Tue–Sat; check opening hours",
+    "price": "Free",
+    "why": "Maps, models and images explain the housing, transport and neighbourhood projects reshaping Barcelona.",
+    "startsOn": "2026-05-08",
+    "endsOn": "2026-12-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.barcelona.cat/capitalmundialarquitectura/ca/programa/barcelona-2035-una-ciutat-viure-hi"
+      }
+    ]
+  },
+  {
+    "title": "Robert Llimós: És que encara no hi ha prou ulls a la cara?",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1949848000000003,
+      41.4028922
+    ],
+    "venue": "Can Framis",
+    "when": "Opens 10 Nov; check museum hours",
+    "price": "See tickets",
+    "why": "Explore Llimós’s late-1960s and early-1970s conceptual work across painting, sculpture, action and language.",
+    "startsOn": "2026-11-10",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.fundaciovilacasas.com/ca/exposicio/es-que-encara-no-hi-ha-prou-ulls-a-la-cara"
+      }
+    ]
+  },
+  {
+    "title": "Rome Open City",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Fri 13 Nov, 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Rossellini’s landmark drama follows resistance under the Nazi occupation of Rome, with Anna Magnani and Aldo Fabrizi.",
+    "date": "2026-11-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/roma-citta-aperta"
+      }
+    ]
+  },
+  {
+    "title": "Paisà",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Sat 14 Nov, 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "A restored print of Rossellini’s six-part account of Italy’s liberation, tracing the war through ordinary lives.",
+    "date": "2026-11-14",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/paisa-0"
+      }
+    ]
+  },
+  {
+    "title": "Joan Chamorro presents Pau Garcia, Lola Peñaranda & Clàudia Rostey",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 87
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1852999,
+      41.3986326
+    ],
+    "venue": "L’Auditori Sala 2",
+    "when": "Wed 18 Nov, 20:00",
+    "price": "See tickets",
+    "why": "Three emerging soloists join the Sant Andreu Jazz Band to introduce their latest recordings.",
+    "date": "2026-11-18",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/joan-chamorro-presenta-pau-garcia-lola-penaranda-y-claudia-rostey/"
+      }
+    ]
+  },
+  {
+    "title": "Terraza, Wakenius & Boussaguet: With Respect to Oscar and Niels",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 87
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1852999,
+      41.3986326
+    ],
+    "venue": "L’Auditori Sala 2",
+    "when": "Thu 26 Nov, 20:00",
+    "price": "See tickets",
+    "why": "Piano, guitar and bass celebrate Oscar Peterson and Niels-Henning Ørsted Pedersen through standards and originals.",
+    "date": "2026-11-26",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/terraza-wakenius-boussaguet/"
+      }
+    ]
+  },
+  {
+    "title": "Infrarrealisme. La insurrecció permanent",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1569059999999998,
+      41.3948819
+    ],
+    "venue": "Casa Amèrica Catalunya",
+    "when": "Mon–Fri, 10:00–20:00",
+    "price": "Free",
+    "why": "Letters, poems and small-press publications trace the Latin American poetry movement associated with Roberto Bolaño.",
+    "startsOn": "2026-06-02",
+    "endsOn": "2026-12-11",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://americat.barcelona/ca/infrarealisme--la-insurreccio-permanent"
+      }
+    ]
   }
 ]
