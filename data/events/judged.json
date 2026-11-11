@@ -2189,5 +2189,124 @@
     "judgedOn": "2026-11-10",
     "accepted": false,
     "reason": "Year-long local-commerce capital programme, rather than one temporary exhibition."
+  },
+  "bcn:99400784630": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Feed supplies only the Palau homepage; specific 9 December Messiah performance page was not established in this batch."
+  },
+  "bcn:99400772371": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Immersive Gaudí attraction homepage does not verify an exhibition closing date; not accepted on feed dates alone."
+  },
+  "bcn:99400771979": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Official exhibition page corrects feed dates to 8 October 2026–7 February 2027. Deferred because this venue’s coordinates and both base routes have not been verified."
+  },
+  "bcn:99400785079": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Dire Straits tribute is a weaker choice than the selected original jazz and Latin American song programmes; feed links only to theatre homepage."
+  },
+  "bcn:99400783523": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Supplied MAC URL returns a soft 404 page; a working specific exhibition page was not established."
+  },
+  "bcn:99400784864": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "LUCE’s streetlamp and text installation is a weaker shared-interest destination than the selected design and history exhibitions."
+  },
+  "bcn:99400783772": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Collection-video umbrella presentation overlaps several separately described MACBA installations; prioritising the existing temporary-exhibition picks rather than adding the umbrella display."
+  },
+  "bcn:99400786154": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Feed venue is a civic centre although performance is at L’Auditori; official performance source unavailable, so exact dated event remains unverified."
+  },
+  "bcn:99400787075": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Feed provides only Fort Pienc homepage; no specific exhibition page with opening and closing dates verified."
+  },
+  "bcn:99400786836": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Specific official page says activity ended and gives 19 February–8 April, conflicting with feed July–December dates."
+  },
+  "bcn:99400788259": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Promising neighbourhood-history exhibition, but precise Nou Barris venue routes from both bases were not verified; deferred."
+  },
+  "bcn:99400785771": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Casa Groga is a separate site of the same neighbourhood-history exhibition; exact venue routes and specific site page not verified; deferred."
+  },
+  "bcn:99400789145": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Official temporary display verifies 16 July 2026–25 May 2027; deferred until Montjuïc ethnology museum coordinates and routes from both bases are verified."
+  },
+  "bcn:99400789156": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Feed supplies only La Model homepage; specific exhibition page and opening/closing dates were not verified."
+  },
+  "bcn:99400786000": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "No Fit is a mould-making workshop, outside the scope of temporary exhibitions, live concerts and original-version screenings."
+  },
+  "bcn:99400788964": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Specific Auditori exhibition page could not be retrieved; opening and closing dates not independently verified."
+  },
+  "bcn:99400787873": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Official page confirms 7 December at 20:00 and an eleven-musician Blues Brothers show, but Casino Aliança venue geometry and both routes were not verified; deferred."
+  },
+  "bcn:99400787875": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Official venue page gives 30 December, outside the 28-day window, rather than the feed’s 7 December."
+  },
+  "bcn:99400782442": {
+    "judgedOn": "2026-11-11",
+    "accepted": false,
+    "reason": "Already listed: Haydée Milanés and Javier Colina at Conservatori Liceu on 16 November."
+  },
+  "bcn:99400787813": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
+  },
+  "bcn:99400784695": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
+  },
+  "bcn:99400787747": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
+  },
+  "bcn:99400782441": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
+  },
+  "bcn:99400786570": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/christopher-strong#2026-11-12": {
+    "judgedOn": "2026-11-11",
+    "accepted": true
   }
 }
