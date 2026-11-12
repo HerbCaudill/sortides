@@ -2308,5 +2308,126 @@
   "https://www.filmoteca.cat/web/ca/film/christopher-strong#2026-11-12": {
     "judgedOn": "2026-11-11",
     "accepted": true
+  },
+  "bcn:99400744193": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Feed links only to the Palau homepage; the specific 10 December piano recital page was not established in this batch."
+  },
+  "bcn:99400281438": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Family toy-advice display opens 25 November and is not currently open; outside the selected art, history and design exhibition scope."
+  },
+  "bcn:99400787208": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "University alumni and collection dialogue is a weaker destination choice than the selected social-history exhibition."
+  },
+  "bcn:99400788834": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Verified 28 October–31 January digital-culture exhibition, but Santa Mònica coordinates and routes from both bases are not yet verified; deferred."
+  },
+  "bcn:99400788904": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Sparse concert information and no grounded shared-interest case for this band; prioritising the verified jazz and flamenco programmes."
+  },
+  "bcn:99400788910": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Mecano tribute is a weaker match than the original-artist programmes selected; ticket page also returns HTTP 403."
+  },
+  "bcn:99400788911": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Scholarship fundraiser page does not establish a compelling named musical programme for this selection."
+  },
+  "bcn:99400788912": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Spanish rock concert is a weaker shared-night-out choice than the selected jazz and intimate guitar programmes."
+  },
+  "bcn:99400781861": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Feed supplies only a civic-centre homepage; specific exhibition page and exact opening and closing dates not independently verified."
+  },
+  "bcn:99400790279": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Mixed workshop, talk and craft-fair programme does not establish a specific dated live performance."
+  },
+  "bcn:99400784998": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Interactive antibiotic and public-health display is a weaker destination fit than selected art and social history."
+  },
+  "bcn:99400788347": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Instagram profile is not a verified specific concert page; no usable dated event link established."
+  },
+  "bcn:99400788348": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Promising manouche trio, but supplied Instagram profile does not verify a specific dated performance page."
+  },
+  "bcn:99400775340": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Experimental electric-violin and drums duo is a weaker match than selected song and acoustic-guitar programmes; source is only a civic-centre homepage."
+  },
+  "bcn:99400782440": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Beat Music emphasises electronic and experimental textures; weaker shared-night-out fit than the selected vocal jazz and flamenco programmes."
+  },
+  "bcn:99400783265": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "L’Auditori cannot be retrieved and supplied link is only its homepage; specific performance remains unverified."
+  },
+  "bcn:99400781647": {
+    "judgedOn": "2026-11-12",
+    "accepted": false,
+    "reason": "Specific page verifies 8 July–10 January, but Casa Batlló coordinates and both base routes have not been verified; deferred."
+  },
+  "bcn:99400789228": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400789667": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400770049": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400786567": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400786568": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400786571": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "bcn:99400783144": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/once-upon-time-gaza#2026-11-13": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/palestine-36#2026-11-15": {
+    "judgedOn": "2026-11-12",
+    "accepted": true
   }
 }

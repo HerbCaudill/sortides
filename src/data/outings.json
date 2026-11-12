@@ -2336,38 +2336,6 @@
     ]
   },
   {
-    "title": "Bali, món Gamelan",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 17
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 91
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.14926,
-      41.407419999999995
-    ],
-    "venue": "Biblioteca Jaume Fuster, Barcelona",
-    "when": "During library opening hours · curator visit Thu 5 Nov at 19:00",
-    "price": "See tickets",
-    "why": "Xavier Erruz’s photographs connect Balinese ritual, everyday life and music with Barcelona’s Gamelan Barasvara ensemble.",
-    "startsOn": "2026-09-09",
-    "endsOn": "2026-11-11",
-    "mapsUrl": "https://maps.google.com/?cid=13927579722212134726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://ajuntament.barcelona.cat/biblioteques/ca/bibjaumefuster/noticies/bali-mon-gamelan-un-viatge-al-cor-de-la-musica-i-la-dansa-balinesa-40936"
-      }
-    ]
-  },
-  {
     "title": "El que s’esborra no es pot esborrar",
     "kind": "Exhibitions",
     "bases": [
@@ -2520,41 +2488,6 @@
       {
         "label": "Exhibition",
         "url": "https://www.fundaciovilacasas.com/ca/exposicio/elisava-el-mar-sempre-el-mar"
-      }
-    ]
-  },
-  {
-    "title": "The Arch (Dong fu ren)",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "Wednesday 11 November, 21:00 · original version with Catalan subtitles",
-    "price": "See tickets",
-    "why": "T’ang Shushuen’s restored 1968 film follows a widow caught between desire and the demands of traditional womanhood.",
-    "context": "Restored by M+, the film was an early independent Hong Kong production. Its story of a widow and her daughter brings questions of gender, duty and desire into a period setting.",
-    "date": "2026-11-11",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/dong-fu-ren"
-      },
-      {
-        "label": "Film notes",
-        "url": "https://www.mplus.org.hk/en/press/mplus-hosts-conversation-featuring-actress-tilda-swinton-and-film-director-tang-shushuen/"
       }
     ]
   },
@@ -3043,36 +2976,6 @@
       {
         "label": "Event page",
         "url": "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5698"
-      }
-    ]
-  },
-  {
-    "title": "A Woman Under the Influence + Non! Tu ne sortiras pas sans moi!",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Wed 11 November, 18:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Gena Rowlands and Peter Falk in Cassavetes’ searching family drama, paired with a short silent comedy about domestic rebellion.",
-    "date": "2026-11-11",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/woman-under-influence-non-tu-ne-sortiras-pas-sans-moi"
       }
     ]
   },
@@ -3651,6 +3554,285 @@
       {
         "label": "Reviews",
         "url": "https://www.rottentomatoes.com/m/christopher_strong"
+      }
+    ]
+  },
+  {
+    "title": "Visibles: Women in farming",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 86
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.185873,
+      41.380804
+    ],
+    "venue": "Museu d’Història de Catalunya",
+    "when": "15 October–15 November 2026",
+    "price": "Free",
+    "why": "Rosa Pruna’s story opens a window onto rural women’s work and the struggle for professional recognition in Catalonia.",
+    "startsOn": "2026-10-15",
+    "endsOn": "2026-11-15",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.mhcat.cat/exposicions/exposicions_en_curs/visibles"
+      }
+    ]
+  },
+  {
+    "title": "Bombino",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "17 November, doors 19:30; La (2) de Apolo",
+    "price": "€31",
+    "why": "Tuareg guitar and songwriting offer a distinctive night built around an original voice from Niger.",
+    "date": "2026-11-17",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://dice.fm/event/xe37lm-piata-presenta-bombino-17th-nov-sala-apolo-barcelona-tickets"
+      }
+    ]
+  },
+  {
+    "title": "Ramon Mirabet All Star Jazz Project: Songs I Heard",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1753128,
+      41.3875752
+    ],
+    "venue": "Palau de la Música Catalana",
+    "when": "28 November, 20:30",
+    "price": "See tickets",
+    "why": "Mirabet revisits classic jazz with Perico Sambeat, Albert Sanz, Doug Weiss and Jordi Rossy, in a tribute to his trombonist father.",
+    "date": "2026-11-28",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/ramon-mirabet-all-star-jazz-project/"
+      }
+    ]
+  },
+  {
+    "title": "Israel Fernández: De oro y marfil",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 8
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1753128,
+      41.3875752
+    ],
+    "venue": "Palau de la Música Catalana",
+    "when": "27 November, 21:00",
+    "price": "See tickets",
+    "why": "Flamenco singing expands into an ensemble with Diego del Morao, strings and backing voices, mixing original work and classic pieces.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/israel-fernandez/"
+      }
+    ]
+  },
+  {
+    "title": "Alicia Grillo & Marta Robles",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "28 November, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "The two Las Migas guitarists turn their songs, Spanish classics and flamenco into an intimate instrumental conversation.",
+    "date": "2026-11-28",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/alicia-grillo-marta-robles/"
+      }
+    ]
+  },
+  {
+    "title": "Carolina Alabau & Èlia Bastida: Something New",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "10 December, 19:00 or 20:45",
+    "price": "See tickets",
+    "why": "Voice, piano and violin meet flamenco guitar and cello in a reunion with new compositions and arrangements.",
+    "date": "2026-12-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/carolina-alabau-elia-bastida-con-oscar-alabau-y-marc-lopez/"
+      }
+    ]
+  },
+  {
+    "title": "Marco Mezquida: Schubertíada",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 87
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1852999,
+      41.3986326
+    ],
+    "venue": "L’Auditori Sala 2",
+    "when": "10 December, 20:00",
+    "price": "See tickets",
+    "why": "Mezquida reimagines Schubert’s songs, impromptus and orchestral themes through his own piano language.",
+    "date": "2026-12-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/marco-mezquida/"
+      }
+    ]
+  },
+  {
+    "title": "Once Upon a Time in Gaza",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "13 November, 17:00; original version with Catalan subtitles",
+    "price": "See tickets",
+    "why": "The Nasser brothers combine crime and filmmaking in a portrait of Gaza in 2007.",
+    "date": "2026-11-13",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/once-upon-time-gaza"
+      },
+      {
+        "label": "Review",
+        "url": "https://cineuropa.org/en/newsdetail/477662"
+      }
+    ]
+  },
+  {
+    "title": "Palestine ’36",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "15 November, 20:00; original version with Catalan subtitles; filmmaker discussion",
+    "price": "See tickets",
+    "why": "Annemarie Jacir’s historical ensemble drama explores the 1936 revolt, with a discussion featuring the director and producer.",
+    "date": "2026-11-15",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/palestine-36"
+      },
+      {
+        "label": "Review",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/palestine-36-broad-primer-complex-period-palestinian-history"
       }
     ]
   }
