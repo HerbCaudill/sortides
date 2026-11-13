@@ -2429,5 +2429,148 @@
   "https://www.filmoteca.cat/web/ca/film/palestine-36#2026-11-15": {
     "judgedOn": "2026-11-12",
     "accepted": true
+  },
+  "bcn:99400744368": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Feed links only to the Palau homepage; specific 11 December performance page not verified."
+  },
+  "bcn:99400760434": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "L’Auditori retrieval failed; specific 11 December performance not independently verified."
+  },
+  "bcn:99400770079": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Civic-centre homepage does not establish a specific dated jam-session page."
+  },
+  "bcn:99400789174": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official Cicle Cultura page returns HTTP 403; named performance details not verified."
+  },
+  "bcn:99400789175": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Verified 22 November concert of symphonic wind-band repertory; weaker shared-night-out fit than the Cuban and acoustic swing programmes selected."
+  },
+  "bcn:99400789180": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official Cicle Cultura page returns HTTP 403; named performance details not verified."
+  },
+  "bcn:99400640884": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official Christmas page is an empty programme shell and does not corroborate the feed’s 11 December concert."
+  },
+  "bcn:99400786047": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Registration homepage does not establish a specific dated performance page."
+  },
+  "bcn:99400786714": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official event URL returns a shell without the performance date or programme; cannot corroborate feed details."
+  },
+  "bcn:99400789442": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official Kintos page confirms an opening on 28 October but supplies no closing date in retrieved content; feed closing date not independently verified."
+  },
+  "bcn:99400789443": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Feed supplies only Zona Nord civic-centre homepage; specific exhibition dates and page not verified."
+  },
+  "bcn:99400790272": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Verified experimental concert/performance about digital belonging; weaker shared-interest fit than the selected Cuban and acoustic swing programmes."
+  },
+  "bcn:99400790276": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Participatory sound experience and presentation, rather than a conventional live concert; outside this selection."
+  },
+  "bcn:99400786996": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Shark natural-history exhibition is outside the selected art, history, archaeology and design focus; official page also returns HTTP 403."
+  },
+  "bcn:99400787142": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Not open: feed opening date is 1 December; Instagram venue profile is not a specific exhibition page."
+  },
+  "bcn:99400787147": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Instagram venue profile does not verify a specific temporary exhibition with exact opening and closing dates."
+  },
+  "bcn:99400789441": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "bcn:99400787138": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "bcn:99400787910": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "bcn:99400787912": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2300h-ray-cuza-sazonando-de-cuba-pavel-zuzaeta-latin-jazz-musica-cubana-son-chachacha-bolero-15e/#2026-11-14": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2130h-swing-time-carlos-bayolo-gipsy-jazz-gipsy-swing-flamenco-14e/#2026-11-15": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/dong-fu-ren#2026-11-20": {
+    "judgedOn": "2026-11-13",
+    "accepted": true
+  },
+  "bcn:99400789624": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Specific Jamboree page verifies the performance but includes a Sold out label; linked ticket system cannot establish availability server-side. Deferred pending changed ticket/source details: thome."
+  },
+  "bcn:99400789626": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Specific Jamboree page verifies the performance but includes a Sold out label; linked ticket system cannot establish availability server-side. Deferred pending changed ticket/source details: brigitte-emaga."
+  },
+  "bcn:99400789627": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Specific Jamboree page verifies the performance but includes a Sold out label; linked ticket system cannot establish availability server-side. Deferred pending changed ticket/source details: true-loves."
+  },
+  "https://jamboreejazz.com/evento/namina-the-barbarians/#2026-11-19": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official page verifies date and programme but includes a Sold out label; ticket availability unresolved. Deferred until source details change."
+  },
+  "https://jamboreejazz.com/evento/lluis-coloma-blue-lou-marini/#2026-11-22": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official page verifies date and programme but includes a Sold out label; ticket availability unresolved. Deferred until source details change."
+  },
+  "https://jamboreejazz.com/evento/carlos-sarduy-trio-2/#2026-11-28": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official page verifies date and programme but includes a Sold out label; ticket availability unresolved. Deferred until source details change."
+  },
+  "https://jamboreejazz.com/evento/meme-solis-legend-of-cuban-feeling/#2026-12-11": {
+    "judgedOn": "2026-11-13",
+    "accepted": false,
+    "reason": "Official page verifies date and programme but includes a Sold out label; ticket availability unresolved. Deferred until source details change."
   }
 }

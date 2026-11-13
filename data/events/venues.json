@@ -1071,5 +1071,79 @@
         "distanceMeters": 126732
       }
     ]
+  },
+  "Fundació Joan Brossa": {
+    "coordinates": [
+      2.1822847,
+      41.385141
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "verifiedAt": "2026-11-13T07:04:06.936Z",
+    "placeId": "ChIJx9A7ev6ipBIRxgjcBHOikQQ",
+    "address": "Carrer dels Flassaders, 40, Ciutat Vella, 08003 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=329222862661224646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://fundaciojoanbrossa.cat/arxiu-exposicions/secrets-de-fabricacio/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11,
+        "distanceMeters": 2174
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88,
+        "distanceMeters": 126867
+      }
+    ]
+  },
+  "Palau Robert": {
+    "coordinates": [
+      2.1594723,
+      41.3960386
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "verifiedAt": "2026-11-13T07:04:07.472Z",
+    "placeId": "ChIJm6a6rJaipBIRTAPjktqx2ZQ",
+    "address": "Pg. de Gràcia, 107, Eixample, 08008 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=10725799539884884812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://palaurobert.gencat.cat/ca/exposicions/sala3/2026/un-teatre-lliure/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15,
+        "distanceMeters": 3470
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96,
+        "distanceMeters": 126918
+      }
+    ]
   }
 }

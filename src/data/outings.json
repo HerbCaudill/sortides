@@ -2890,36 +2890,6 @@
     ]
   },
   {
-    "title": "Sofia Ribeiro: A um passo",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 17
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 92
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1752178,
-      41.379681399999996
-    ],
-    "venue": "Jamboree 3",
-    "when": "Thu 12 November, 19:00 or 20:30",
-    "price": "See tickets",
-    "why": "Voice, Portuguese and seven-string guitars, cello and violin bring together jazz harmony, Latin American rhythms and fado.",
-    "date": "2026-11-12",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/sofia-ribeiro/"
-      }
-    ]
-  },
-  {
     "title": "Uri Caine & Girona Jazz Project",
     "kind": "Music",
     "bases": [
@@ -3524,40 +3494,6 @@
     ]
   },
   {
-    "title": "Christopher Strong",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca de Catalunya, Raval",
-    "when": "12 November 2026 · 20:00 · VOSE · introduction by researcher Elisenda Díaz Garcés",
-    "price": "See tickets",
-    "why": "Dorothy Arzner and Katharine Hepburn’s pre-Code aviation drama questions the social rules placed on women; Rotten Tomatoes records 83% positive reviews from six critics.",
-    "date": "2026-11-12",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/christopher-strong"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/christopher_strong"
-      }
-    ]
-  },
-  {
     "title": "Visibles: Women in farming",
     "kind": "Exhibitions",
     "bases": [
@@ -3833,6 +3769,223 @@
       {
         "label": "Review",
         "url": "https://www.bfi.org.uk/sight-and-sound/reviews/palestine-36-broad-primer-complex-period-palestinian-history"
+      }
+    ]
+  },
+  {
+    "title": "Secrets of fabrication",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1822847,
+      41.385141
+    ],
+    "venue": "Fundació Joan Brossa",
+    "when": "Tue 16:00–20:00; Wed–Sat 11:00–21:30; Sun 11:00–18:00",
+    "price": "Free",
+    "why": "Brossa’s object poems and contemporary artworks explore how everyday objects acquire poetic meaning through their making.",
+    "startsOn": "2026-10-28",
+    "endsOn": "2027-02-28",
+    "mapsUrl": "https://maps.google.com/?cid=329222862661224646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://fundaciojoanbrossa.cat/arxiu-exposicions/secrets-de-fabricacio/"
+      }
+    ]
+  },
+  {
+    "title": "Romà Vallès: The abstract horizon",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 5
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1752962,
+      41.390932
+    ],
+    "venue": "Espais Volart",
+    "when": "Open through 17 January 2027",
+    "price": "See tickets",
+    "why": "Six decades of paintings trace a pioneer of Catalan abstraction through experiments with gesture, colour and matter.",
+    "startsOn": "2026-09-16",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fundaciovilacasas.com/ca/exposicio/lhoritzo-abstracte"
+      }
+    ]
+  },
+  {
+    "title": "Un teatre Lliure",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1594723,
+      41.3960386
+    ],
+    "venue": "Palau Robert",
+    "when": "Open through 17 January 2027",
+    "price": "Free",
+    "why": "Five installations use sets, costumes, photographs and graphic design to tell fifty years of the Teatre Lliure’s collective history.",
+    "startsOn": "2026-09-22",
+    "endsOn": "2027-01-17",
+    "mapsUrl": "https://maps.google.com/?cid=10725799539884884812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://palaurobert.gencat.cat/ca/exposicions/sala3/2026/un-teatre-lliure/"
+      }
+    ]
+  },
+  {
+    "title": "Cities in transition: Rethinking regeneration",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1594723,
+      41.3960386
+    ],
+    "venue": "Palau Robert",
+    "when": "Open through 10 January 2027",
+    "price": "See tickets",
+    "why": "Models and plans compare ways to revive historic centres and public space in five Catalan towns, including Palamós.",
+    "startsOn": "2026-09-17",
+    "endsOn": "2027-01-10",
+    "mapsUrl": "https://maps.google.com/?cid=10725799539884884812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://palaurobert.gencat.cat/ca/exposicions/sala4/2026/ciutats-en-transit/"
+      }
+    ]
+  },
+  {
+    "title": "Ray Cuza & Quinteto Sazonando de Cuba + Pavel Zuzaeta",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Saturday 14 November, 23:00",
+    "price": "€15",
+    "why": "Traditional Cuban son, guaracha and bolero meet guest trumpet, with a programme explicitly inviting dancing.",
+    "date": "2026-11-14",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-sazonando-de-cuba-pavel-zuzaeta-latin-jazz-musica-cubana-son-chachacha-bolero-15e/"
+      }
+    ]
+  },
+  {
+    "title": "Swing Time & Carlos Bayolo",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sunday 15 November, 21:30",
+    "price": "€14",
+    "why": "Three guitars and guest double bass bring manouche swing into conversation with flamenco.",
+    "date": "2026-11-15",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2130h-swing-time-carlos-bayolo-gipsy-jazz-gipsy-swing-flamenco-14e/"
+      }
+    ]
+  },
+  {
+    "title": "The Arch",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca de Catalunya, Raval",
+    "when": "Friday 20 November, 21:00; original version with Catalan subtitles",
+    "price": "See tickets",
+    "why": "A restored drama about a widow caught between desire and social duty, with a strong focus on women’s roles in traditional Chinese society.",
+    "date": "2026-11-20",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/dong-fu-ren"
       }
     ]
   }
