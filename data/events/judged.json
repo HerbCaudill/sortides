@@ -2572,5 +2572,184 @@
     "judgedOn": "2026-11-13",
     "accepted": false,
     "reason": "Official page verifies date and programme but includes a Sold out label; ticket availability unresolved. Deferred until source details change."
+  },
+  "bcn:99400365767": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Family Christmas story with children’s choir; weaker fit for a shared adult music night than the selected folk and soul programmes."
+  },
+  "bcn:99400760763": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Family paper-decoration workshop, not a dated live concert."
+  },
+  "bcn:99400747262": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Discussion about women in hip-hop, not a live music performance."
+  },
+  "bcn:99400760053": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "L’Auditori retrieval failed; specific 12 December performance page not independently verified."
+  },
+  "bcn:99400786994": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Specific CaixaForum exhibition page returns HTTP 403; dates not independently corroborated."
+  },
+  "bcn:99400786772": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Not open: exhibition starts 17 November."
+  },
+  "bcn:99400787966": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Supplied registration URL returns a shell without independently verifiable opening and closing dates."
+  },
+  "bcn:99400788179": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Material-focused abstract sculpture is a weaker shared-interest choice than the selected exhibition on bodies, borders and public space at the same venue."
+  },
+  "bcn:99400787264": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Supplied link is the permanent-collection overview, not a verified specific temporary-exhibition page."
+  },
+  "bcn:99400785283": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Homepage does not establish a named 12 December performance and usable specific event page."
+  },
+  "bcn:99400788440": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Biblioteca de Catalunya page retrieval failed; exact exhibition dates not independently verified."
+  },
+  "bcn:99400787999": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Music-school homepage does not establish a specific dated performance page."
+  },
+  "bcn:99400787039": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Distributed collection project spans multiple locations rather than one verified temporary exhibition destination."
+  },
+  "bcn:99400787317": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Instagram profile does not establish a specific exhibition page with exact opening and closing dates."
+  },
+  "bcn:99400789259": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Chamber-music lecture, not a live music performance."
+  },
+  "bcn:99400789073": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Official page confirms closing 8 December but retrieved text does not independently establish the opening date."
+  },
+  "bcn:99400789286": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Football immersive attraction is outside the selected art, history, archaeology and design focus."
+  },
+  "bcn:99400790404": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Slowcore and shoegaze programme is a weaker shared-night-out choice than selected vocal folk and soul."
+  },
+  "bcn:99400789976": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Verified 4–28 November exhibition, but venue coordinates and both routes not resolved in this batch; deferred."
+  },
+  "bcn:99400790417": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Reggaeton, trap and urban hip-hop programme is a weaker fit than selected live soul and folk."
+  },
+  "bcn:99400790402": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Jamboree calendar lists Sold out; availability unresolved, deferred until source details change."
+  },
+  "bcn:99400790450": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Noise and shoegaze Sunday midday show is a weaker fit for the selected music nights."
+  },
+  "bcn:99400790451": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Venue homepage is an incomplete calendar shell; specific Club Mediodía performance page not verified."
+  },
+  "bcn:99400790453": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Verified guitar-centred experimental pop performance is a weaker shared-interest choice than the selected La Bona Sort folk programme."
+  },
+  "bcn:99400790445": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Venue homepage is an incomplete calendar shell; specific Camila Blázquez performance page not verified."
+  },
+  "bcn:99400790446": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Venue homepage is an incomplete calendar shell; specific Luck Ra performance page not verified."
+  },
+  "bcn:99400790420": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Ticket page returns empty text; cannot independently verify the specific Muerdo performance."
+  },
+  "bcn:99400790426": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Cover-band programme is a weaker fit than selected original-artist folk and soul performances; specific ticket page not reviewed in this batch."
+  },
+  "bcn:99400790432": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Feed title names Juana Everett but description names Chris Cacavas; defer until exact line-up and specific page are verified."
+  },
+  "bcn:99400790436": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Dark club electronics, EBM and rave-oriented programme is a weaker match than selected acoustic folk and live soul."
+  },
+  "bcn:99400786045": {
+    "judgedOn": "2026-11-14",
+    "accepted": false,
+    "reason": "Civic-centre homepage does not establish a specific dated Mistura de mares event page."
+  },
+  "bcn:99400787233": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
+  },
+  "bcn:99400788180": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
+  },
+  "bcn:99400789074": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
+  },
+  "bcn:99400790433": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2300h-sinead-savage-and-the-after-hours-soul-blues-rb-15e-2/#2026-11-20": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/christopher-strong#2026-11-15": {
+    "judgedOn": "2026-11-14",
+    "accepted": true
   }
 }

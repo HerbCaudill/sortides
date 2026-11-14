@@ -1145,5 +1145,79 @@
         "distanceMeters": 126918
       }
     ]
+  },
+  "Museu Etnològic, Montcada": {
+    "coordinates": [
+      2.180867,
+      41.385062999999995
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-14T07:02:52.587Z",
+    "placeId": "ChIJi3XAmf6ipBIRf3BOBcc_de4",
+    "address": "Carrer de Montcada, 12 - 14, Ciutat Vella, 08003 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=17182710077322063999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.barcelona.cat/museu-etnologic-culturesmon/ca/node/2503",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 2757
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 127024
+      }
+    ]
+  },
+  "La Fabra Centre d’Art Contemporani": {
+    "coordinates": [
+      2.1902586,
+      41.433110299999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 22
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 83
+      }
+    ],
+    "verifiedAt": "2026-11-14T07:02:53.206Z",
+    "placeId": "ChIJrwOBqfy9pBIRebB6JVyJ0J8",
+    "address": "Carrer de Sant Adrià, 20, Sant Andreu, 08030 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=11515855276045152377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.barcelona.cat/lafabracac/ca/content/randa-maroufi",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 22,
+        "distanceMeters": 10560
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 83,
+        "distanceMeters": 118940
+      }
+    ]
   }
 }
