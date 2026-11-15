@@ -2275,37 +2275,6 @@
     ]
   },
   {
-    "title": "Say it Loud: COLECTIVA, Muniats and guests",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 14
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 89
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1695907,
-      41.375198499999996
-    ],
-    "venue": "Paral·lel 62, Barcelona",
-    "when": "Sat 14 Nov · see programme for times",
-    "price": "See tickets",
-    "why": "COLECTIVA’s horn-led Afro-Latin jazz and Muniats’s live soul and funk make this a promising dance night, alongside reggae and vinyl DJ sets.",
-    "date": "2026-11-14",
-    "mapsUrl": "https://maps.google.com/?cid=18288877798364271013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://sayitloud.cat/festival/"
-      }
-    ]
-  },
-  {
     "title": "El que s’esborra no es pot esborrar",
     "kind": "Exhibitions",
     "bases": [
@@ -3102,36 +3071,6 @@
     ]
   },
   {
-    "title": "Paisà",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sat 14 Nov, 20:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "A restored print of Rossellini’s six-part account of Italy’s liberation, tracing the war through ordinary lives.",
-    "date": "2026-11-14",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/paisa-0"
-      }
-    ]
-  },
-  {
     "title": "Joan Chamorro presents Pau Garcia, Lola Peñaranda & Clàudia Rostey",
     "kind": "Music",
     "bases": [
@@ -3310,36 +3249,6 @@
       {
         "label": "Event page",
         "url": "https://jazz.barcelona/concert/triada/"
-      }
-    ]
-  },
-  {
-    "title": "Niño Josele: 20 años de Paz",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu, Barcelona",
-    "when": "14 November 2026 · 20:30",
-    "price": "See tickets",
-    "why": "Bill Evans’s music meets flamenco guitar as Josele revisits Paz with bass, drums and guest trumpeter Raynald Colom.",
-    "date": "2026-11-14",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/nino-josele/"
       }
     ]
   },
@@ -3746,36 +3655,6 @@
     ]
   },
   {
-    "title": "Ray Cuza & Quinteto Sazonando de Cuba + Pavel Zuzaeta",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Saturday 14 November, 23:00",
-    "price": "€15",
-    "why": "Traditional Cuban son, guaracha and bolero meet guest trumpet, with a programme explicitly inviting dancing.",
-    "date": "2026-11-14",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-ray-cuza-sazonando-de-cuba-pavel-zuzaeta-latin-jazz-musica-cubana-son-chachacha-bolero-15e/"
-      }
-    ]
-  },
-  {
     "title": "Swing Time & Carlos Bayolo",
     "kind": "Music",
     "bases": [
@@ -4025,6 +3904,251 @@
       {
         "label": "Reviews",
         "url": "https://www.rottentomatoes.com/m/christopher_strong"
+      }
+    ]
+  },
+  {
+    "title": "Cossos d’aigua: Bodies of water",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1767282999999997,
+      41.3755604
+    ],
+    "venue": "Museu Marítim de Barcelona",
+    "when": "During museum opening hours",
+    "price": "See tickets",
+    "why": "Marina Planas uses maritime archive photographs to connect global trade, ocean ecology and the human body.",
+    "startsOn": "2026-10-19",
+    "endsOn": "2027-01-17",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.mmb.cat/exposicions/cossos-daigua/"
+      }
+    ]
+  },
+  {
+    "title": "Architecture and everyday Barcelona, 1875–1925",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1767282999999997,
+      41.3755604
+    ],
+    "venue": "Museu Marítim de Barcelona",
+    "when": "During museum opening hours",
+    "price": "Free",
+    "why": "Architectural drawings and writing trace how industrialisation reshaped everyday life in Barcelona.",
+    "startsOn": "2026-09-18",
+    "endsOn": "2027-01-11",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.mmb.cat/exposicions/lescola-darquitectura-de-barcelona-en-la-definicio-de-la-vida-quotidiana-a-la-ciutat-1875-1925/"
+      }
+    ]
+  },
+  {
+    "title": "Sara Bonache: L’aire que balla a la boca",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 13
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1949848000000003,
+      41.4028922
+    ],
+    "venue": "Can Framis",
+    "when": "During museum opening hours",
+    "price": "See tickets",
+    "why": "Painting and pastel borrow the bee’s perspective to explore perception and our relationship with the natural world.",
+    "startsOn": "2026-10-27",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.fundaciovilacasas.com/ca/exposicio/laire-que-balla-a-la-boca"
+      }
+    ]
+  },
+  {
+    "title": "La Guerra Continua: Helnwein and Goya",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1802788,
+      41.385010699999995
+    ],
+    "venue": "MEAM",
+    "when": "During museum opening hours",
+    "price": "See tickets",
+    "why": "Goya’s war etchings meet Helnwein’s images of violence and childhood, raising questions about how we look at suffering.",
+    "startsOn": "2026-11-07",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.meam.es/ca/exhibitions/164/la-guerra-continua-helnwein-i-goya.html"
+      }
+    ]
+  },
+  {
+    "title": "Traços a la pell",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1367312,
+      41.3729076
+    ],
+    "venue": "La Lleialtat Santsenca",
+    "when": "During venue opening hours",
+    "price": "Free",
+    "why": "Photographs explore migration, identity and the lives of Amazigh women in Tortosa.",
+    "startsOn": "2026-11-03",
+    "endsOn": "2026-11-26",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://lleialtat.cat/exposiciotracosalapell/"
+      }
+    ]
+  },
+  {
+    "title": "Anni B Sweet",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1912593,
+      41.3972434
+    ],
+    "venue": "Razzmatazz 2",
+    "when": "Thu 19 Nov · doors 20:00",
+    "price": "See tickets",
+    "why": "Spanish indie songwriting with sixties colours and psychedelic textures, performed with her band.",
+    "date": "2026-11-19",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://www.notikumi.com/2026/11/19/concierto-de-annie-b-sweet-en-barcelona"
+      }
+    ]
+  },
+  {
+    "title": "Paisà",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Thu 19 Nov · 17:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Rossellini’s restored six-part portrait of wartime Italy follows the Allied advance through ordinary lives.",
+    "date": "2026-11-19",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/paisa-0"
+      }
+    ]
+  },
+  {
+    "title": "Peter Loveday Trio",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sat 21 Nov · 20:00",
+    "price": "€10",
+    "why": "An intimate folk-pop trio with guitar, flute, violin and shared vocals, drawing on Loveday’s song catalogue.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2000h-peter-loveday-folk-pop-cantautor-10e-2/"
       }
     ]
   }

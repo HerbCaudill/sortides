@@ -2751,5 +2751,302 @@
   "https://www.filmoteca.cat/web/ca/film/christopher-strong#2026-11-15": {
     "judgedOn": "2026-11-14",
     "accepted": true
+  },
+  "bcn:99400605981": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Neighbourhood charity fair with stalls and workshops; no specific live music performance established."
+  },
+  "bcn:99400760185": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "L’Auditori retrieval failed; exact 13 December performance page not verified."
+  },
+  "bcn:99400760446": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "L’Auditori retrieval failed; exact A/B Ensemble performance page not verified."
+  },
+  "bcn:99400784774": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Participatory rhythm workshop and talk, outside live concert scope."
+  },
+  "bcn:99400788121": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Theater homepage does not corroborate a specific 19 November Madama Butterfly event page."
+  },
+  "bcn:99400788123": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Theater homepage does not corroborate a specific 1 December Alex Fernández event page."
+  },
+  "bcn:99400784963": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Tina Turner tribute is a weaker shared-night-out choice than the selected original folk-pop performers."
+  },
+  "bcn:99400786488": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official dates differ from feed (18 September–31 December); new venue routes not resolved in this batch. Deferred."
+  },
+  "bcn:99400789390": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official page confirms closing date but no exact opening date in retrieved text; deferred."
+  },
+  "bcn:99400789181": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Cicle Cultura page returns HTTP 403; specific Cor Xera performance not independently verified."
+  },
+  "bcn:99400789418": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Verified garden-design exhibition, but venue coordinates and both routes unresolved in this batch; deferred."
+  },
+  "bcn:99400789215": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Family puppet and guitar activity rather than an adult music night."
+  },
+  "bcn:99400788382": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Children’s film-song concert for ages four and up, outside shared adult night-out selection."
+  },
+  "bcn:99400790232": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Music and architecture dialogue rather than a conventional live music programme."
+  },
+  "bcn:99400789622": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Jamboree calendar displays Sold out for Samuel Blaser; ticket availability unresolved."
+  },
+  "bcn:99400789623": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Jamboree calendar displays Sold out for Francesco Bearzatti; ticket availability unresolved."
+  },
+  "bcn:99400789628": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Jamboree calendar displays Sold out for Tura Sala; ticket availability unresolved."
+  },
+  "bcn:99400789631": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official page does not independently establish exact exhibition opening and closing dates."
+  },
+  "bcn:99400786963": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Civic-centre homepage does not verify a specific Umbral exhibition page with both dates."
+  },
+  "bcn:99400789838": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "District homepage does not verify a specific exhibition page with both dates."
+  },
+  "bcn:99400789845": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official calendar confirms Refugi dates, but specific exhibition URL and venue routes remain unresolved; deferred."
+  },
+  "bcn:99400790061": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Gallery calendar confirms current Moix exhibition, but specific event URL and venue routes not verified in this batch."
+  },
+  "bcn:99400790067": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Supplied Centre LGTBI overview is not a specific exhibition page; deferred pending exact dates and link."
+  },
+  "bcn:99400789255": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Biblioteca de Catalunya retrieval failed; exact closing date not independently verified."
+  },
+  "bcn:99400789511": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official page conflicts internally: header closes 11 December, body 10 January. Deferred until dates are resolved."
+  },
+  "bcn:99400789652": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Centenary homepage does not establish a specific exhibition page and independently verified date range."
+  },
+  "bcn:99400789866": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: feed starts 16 November."
+  },
+  "bcn:99400789872": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: exhibition starts 11 December."
+  },
+  "bcn:99400789876": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Festival homepage does not independently establish a specific Trinxats/Miquel del Roig/Siderland performance page."
+  },
+  "bcn:99400790094": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: feed starts 18 January 2027."
+  },
+  "bcn:99400790332": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: library calendar starts exhibition 16 November."
+  },
+  "bcn:99400787414": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Tour de France photography is a weaker fit for the selected art, history, archaeology and design outings."
+  },
+  "bcn:99400789834": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official page gives opening date only; no exact closing date independently verified."
+  },
+  "bcn:99400789535": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "DICE page returns no usable event text; exact Kalenn performance not independently corroborated."
+  },
+  "bcn:99400789536": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Jack & Jack pop programme is a weaker fit than selected acoustic singer-songwriters and jazz."
+  },
+  "bcn:99400790121": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "District-wide architecture programme, not one specific temporary exhibition."
+  },
+  "bcn:99400789909": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Family music show rather than shared adult night out."
+  },
+  "bcn:99400789678": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "DICE page returns no usable event text; exact Tori Kelly performance not independently corroborated."
+  },
+  "bcn:99400789679": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Youth-oriented dream-pop programme is a weaker shared-interest fit than selected acoustic folk-pop."
+  },
+  "bcn:99400789538": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Museu Diocesà page returns HTTP 403; specific exhibition dates not independently verified."
+  },
+  "bcn:99400789542": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Ticket landing page has no usable event text; specific Korea Spotlight performance not independently verified."
+  },
+  "bcn:99400790375": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "DICE page has no usable text or programme details; Alavedra performance not independently verified."
+  },
+  "bcn:99400790378": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Official Bi-2 ticket page says 23 November while feed says 22 November; defer conflicting performance date."
+  },
+  "bcn:99400790144": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: two-day festival starts 20 November, rather than a currently open temporary exhibition."
+  },
+  "bcn:99400790387": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Verified La Milagrosa performance, but darker generational indie-rock programme is a weaker fit than selected folk-pop."
+  },
+  "bcn:99400790392": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "DICE page has no usable event text; enMatu performance not independently verified."
+  },
+  "bcn:99400790393": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Ticket page has no independently usable dated programme text; Banda Neon performance deferred."
+  },
+  "bcn:99400790395": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Ticket page returns HTTP 403; Bruno Mars tribute also a weaker choice than selected original artists."
+  },
+  "bcn:99400789957": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Specific architecture exhibition is promising, but exact date range and venue routes not resolved in this batch."
+  },
+  "bcn:99400790214": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: feed starts 1 December."
+  },
+  "bcn:99400789984": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Casal homepage does not verify a specific Metzineres exhibition page with both dates."
+  },
+  "bcn:99400789771": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Guided visit listing rather than a specific temporary exhibition recommendation."
+  },
+  "bcn:99400789778": {
+    "judgedOn": "2026-11-15",
+    "accepted": false,
+    "reason": "Not open: official itinerary places La Sagrera exhibition from 18 November, conflicting with feed 16 November."
+  },
+  "bcn:99400789821": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "bcn:99400789822": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "bcn:99400789484": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "bcn:99400789931": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "bcn:99400789975": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "bcn:99400789543": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/paisa-0#2026-11-19": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2000h-peter-loveday-folk-pop-cantautor-10e-2/#2026-11-21": {
+    "judgedOn": "2026-11-15",
+    "accepted": true
   }
 }

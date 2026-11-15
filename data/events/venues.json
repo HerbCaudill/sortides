@@ -1219,5 +1219,116 @@
         "distanceMeters": 118940
       }
     ]
+  },
+  "Razzmatazz 2": {
+    "coordinates": [
+      2.1912593,
+      41.3972434
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-15T07:02:26.176Z",
+    "placeId": "ChIJDRNqNvejpBIRsr0uaeTzVFM",
+    "address": "Carrer de Pamplona, 88, Sant Martí, 08018 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=6004692365534477746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.notikumi.com/2026/11/19/concierto-de-annie-b-sweet-en-barcelona",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10,
+        "distanceMeters": 2515
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 124805
+      }
+    ]
+  },
+  "La Lleialtat Santsenca": {
+    "coordinates": [
+      2.1367312,
+      41.3729076
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99
+      }
+    ],
+    "verifiedAt": "2026-11-15T07:02:26.656Z",
+    "placeId": "ChIJvel3FIWYpBIRx-CHaqJKPyI",
+    "address": "Carrer d'Olzinelles, 31, Sants-Montjuïc, 08014 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=2467773182254768327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://lleialtat.cat/exposiciotracosalapell/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20,
+        "distanceMeters": 5417
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 99,
+        "distanceMeters": 130993
+      }
+    ]
+  },
+  "MEAM": {
+    "coordinates": [
+      2.1802788,
+      41.385010699999995
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "verifiedAt": "2026-11-15T07:02:27.126Z",
+    "placeId": "ChIJveK7vP6ipBIRiegu-jsxGX8",
+    "address": "Carrer de la Barra de Ferro, 5, Ciutat Vella, 08003 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=9158405450904823945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.meam.es/ca/exhibitions/164/la-guerra-continua-helnwein-i-goya.html",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 10,
+        "distanceMeters": 1977
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90,
+        "distanceMeters": 127239
+      }
+    ]
   }
 }
