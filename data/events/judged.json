@@ -1873,9 +1873,9 @@
     "reason": "Original-version screening confirmed, but no independent critical assessment established in this batch; deferred."
   },
   "https://www.filmoteca.cat/web/ca/film/al-makhduun-flowers-stand-silently-witnessing#2026-11-19": {
-    "judgedOn": "2026-11-07",
+    "judgedOn": "2026-11-16",
     "accepted": false,
-    "reason": "Original-version double bill confirmed; independent critical review remains unverified in this batch, so deferred."
+    "reason": "Specialist Palestinian exile double bill; prioritised the selected repertory features for this run."
   },
   "bcn:99400773165": {
     "judgedOn": "2026-11-08",
@@ -2704,9 +2704,8 @@
     "reason": "Venue homepage is an incomplete calendar shell; specific Luck Ra performance page not verified."
   },
   "bcn:99400790420": {
-    "judgedOn": "2026-11-14",
-    "accepted": false,
-    "reason": "Ticket page returns empty text; cannot independently verify the specific Muerdo performance."
+    "judgedOn": "2026-11-16",
+    "accepted": true
   },
   "bcn:99400790426": {
     "judgedOn": "2026-11-14",
@@ -3048,5 +3047,177 @@
   "https://www.harlemjazzclub.es/events/2000h-peter-loveday-folk-pop-cantautor-10e-2/#2026-11-21": {
     "judgedOn": "2026-11-15",
     "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2300h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-5/#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.sala-apolo.com/en/event/empremtes-2026-renaldo-%26-clara-7320#2026-11-28": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/deutschland-im-jahre-null-germania-anno-zero#2026-11-20": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-diarymaids-revenge#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/roma-citta-aperta#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.museunacional.cat/en/reverse-journey-sound-fresco-through-romanesque-art#2026-11-13": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.filmoteca.cat/web/ca/film/deutschland-im-jahre-null-germania-anno-zero#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Alternate 17 November screening of the same film; selected the Friday evening performance instead."
+  },
+  "https://www.filmoteca.cat/web/ca/film/segunda-vez#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Conceptual-art and psychoanalysis documentary is promising, but independent critical assessment was not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-mort-de-danton#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Banlieue actor documentary is a narrower selection than the critically established repertory films selected this run."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-mort-de-danton#2026-11-27": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Banlieue actor documentary is a narrower selection than the critically established repertory films selected this run."
+  },
+  "https://www.filmoteca.cat/web/ca/film/introduction-end-argument-resistance-why#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Specialist experimental and political documentary double bill is a weaker shared-night-out selection than the chosen repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/enamorada#2026-11-18": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Mexican melodrama is promising, but independent reviews or ratings not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/enamorada#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Mexican melodrama is promising, but independent reviews or ratings not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-cinematheque-ideale-des-banlieues-du-monde-sessio-de-curtmetratges#2026-11-18": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Specialist archival shorts programme is a weaker shared-night-out selection than the chosen repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/nahnou-fil-dakhil#2026-11-18": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Three-hour poetry documentary is promising, but independent reviews or ratings not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/vers-la-tendresse-clichy-pour-lexemple#2026-11-18": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Documentary double bill on masculinity and the 2005 unrest is a narrower choice than the selected repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/mujeres-en-lucha-cloenda-el-cinema-com-font-documental-dels-feminismes#2026-11-19": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Specialist historical documentary and exhibition-closing session; prioritised the selected repertory features for this run."
+  },
+  "https://www.filmoteca.cat/web/ca/film/lejos-de-los-arboles-2#2026-11-19": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "New film preview is promising, but reliable independent reviews or ratings were not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/fragments-venus-les-senegalaises-et-la-senegauloise#2026-11-20": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Museum and family documentary double bill is a narrower selection than the chosen repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/revolucion-cumple-tu-promesa-amor-rojo#2026-11-20": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Specialist multimedia-project documentary; prioritised the selected repertory features for this run."
+  },
+  "https://www.filmoteca.cat/web/ca/film/general-cine-concert#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "FilmoXica family-oriented silent film concert recommended from age three; prioritised adult repertory screenings."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-tour-du-monde#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Short neighbourhood documentary is a narrower night-out choice than the selected repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-tour-du-monde#2026-11-24": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Short neighbourhood documentary is a narrower night-out choice than the selected repertory features."
+  },
+  "https://www.filmoteca.cat/web/ca/film/competicio-de-curtmetratges-2026-10-anys#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Children’s short-film competition recommended from age ten, outside adult night-out selection."
+  },
+  "https://www.filmoteca.cat/web/ca/film/la-permanence#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Medical-consultation documentary is promising, but independent critical assessment not verified in this batch; deferred."
+  },
+  "https://www.filmoteca.cat/web/ca/film/del-gag-la-veu-propia-genealogies-afroamericanes#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Programme does not confirm original-version/subtitle details for all four shorts; deferred."
+  },
+  "https://www.harlemjazzclub.es/events/2000h-presentacion-libro-ruta-61-un-viaje-sonoro-siguiendo-el-misisipi-de-elena-ortega-entrada-libre/#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Book presentation rather than a live concert, film screening or temporary exhibition."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-58/#2026-11-17": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Official page conflicts between 20:30 structured calendar time and 22:30 performance title; defer exact start time."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-56/#2026-11-19": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Recurring open jam is a less distinctive shared-night-out selection than the confirmed Cuban quartet performance."
+  },
+  "https://cultura.palafrugell.cat/ca/programacio/c/6646-alena-josep-duo.html#2026-11-21": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Google Places result resolves to Carrer de Begur 15, not the intended Museu del Suro auditorium location; defer venue identity and routes rather than use an ambiguous match."
+  },
+  "https://cultura.palafrugell.cat/ca/programacio/c/6776-concert-santa-cecilia.html#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Choir concert names performers but no repertoire; weaker supported choice than selected Cuban and singer-songwriter concerts."
+  },
+  "https://cultura.palafrugell.cat/ca/programacio/c/6642-amfora-i-arjau.html#2026-11-22": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://web.girona.cat/bolit/exposicions/2026/gran-ritme#2026-07-24": {
+    "judgedOn": "2026-11-16",
+    "accepted": true
+  },
+  "https://www.macba.cat/en/exhibitions/counter-information-video-nou-servei-de-video-comunitari/#2026-07-09": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Official page gives opening 9 July 2026 and closing only June 2027; exact closing day required before selection."
+  },
+  "https://www.macba.cat/en/exhibitions/echoes-videos-from-the-han-nefkens-foundation-donation/#2026-07-09": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Official page gives opening 9 July 2026 and closing only June 2027; exact closing day required before selection."
+  },
+  "https://www.macba.cat/en/exhibitions/pere-portabella/#2026-07-09": {
+    "judgedOn": "2026-11-16",
+    "accepted": false,
+    "reason": "Official page gives opening 9 July 2026 and closing only June 2027; exact closing day required before selection."
   }
 }

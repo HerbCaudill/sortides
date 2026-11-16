@@ -1330,5 +1330,79 @@
         "distanceMeters": 127239
       }
     ]
+  },
+  "TeMePé": {
+    "coordinates": [
+      3.1648598,
+      41.9163606
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7
+      }
+    ],
+    "verifiedAt": "2026-11-16T07:06:03.763Z",
+    "placeId": "ChIJTcAS3YlUuhIRKTrtT5ptAGI",
+    "address": "Carrer de Santa Margarida, 1, 17200 Palafrugell, Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=7061764725250275881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://cultura.palafrugell.cat/ca/programacio/c/6642-amfora-i-arjau.html",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89,
+        "distanceMeters": 122556
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7,
+        "distanceMeters": 1790
+      }
+    ]
+  },
+  "Canònica de Santa Maria de Vilabertran": {
+    "coordinates": [
+      2.9788099999999997,
+      42.281949999999995
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 94
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 53
+      }
+    ],
+    "verifiedAt": "2026-11-16T07:06:04.242Z",
+    "placeId": "ChIJ8eAaN4eOuhIR8VugeQ3IA3g",
+    "address": "Carrer de l'Abadia, 4, 17760 Vilabertran, Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=8647975669682166769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://web.girona.cat/bolit/exposicions/2026/gran-ritme",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 94,
+        "distanceMeters": 140628
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 53,
+        "distanceMeters": 53919
+      }
+    ]
   }
 }

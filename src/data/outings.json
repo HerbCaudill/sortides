@@ -2243,38 +2243,6 @@
     ]
   },
   {
-    "title": "Fifty years of the Transition concerts",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 13
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 86
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.185873,
-      41.380804
-    ],
-    "venue": "Museu d’Història de Catalunya",
-    "when": "Tue–Sat 10:00–19:00; Wed until 20:00; Sun and holidays 10:00–14:30",
-    "price": "Free",
-    "why": "Photographs, original material and concert footage connect Raimon, Lluís Llach and Pi de la Serra’s performances with the movement for democracy.",
-    "startsOn": "2026-09-18",
-    "endsOn": "2026-11-15",
-    "mapsUrl": "https://maps.google.com/?cid=15544795194525476907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Exhibition page",
-        "url": "https://www.mhcat.cat/exposicions/exposicions_en_curs/50_anys_dels_concerts_de_la_transicio_barcelona_palau_d_esports"
-      }
-    ]
-  },
-  {
     "title": "El que s’esborra no es pot esborrar",
     "kind": "Exhibitions",
     "bases": [
@@ -3283,37 +3251,6 @@
     ]
   },
   {
-    "title": "Visibles: Women in farming",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 13
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 86
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      2.185873,
-      41.380804
-    ],
-    "venue": "Museu d’Història de Catalunya",
-    "when": "15 October–15 November 2026",
-    "price": "Free",
-    "why": "Rosa Pruna’s story opens a window onto rural women’s work and the struggle for professional recognition in Catalonia.",
-    "startsOn": "2026-10-15",
-    "endsOn": "2026-11-15",
-    "links": [
-      {
-        "label": "Exhibition page",
-        "url": "https://www.mhcat.cat/exposicions/exposicions_en_curs/visibles"
-      }
-    ]
-  },
-  {
     "title": "Bombino",
     "kind": "Music",
     "bases": [
@@ -3494,40 +3431,6 @@
     ]
   },
   {
-    "title": "Palestine ’36",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "15 November, 20:00; original version with Catalan subtitles; filmmaker discussion",
-    "price": "See tickets",
-    "why": "Annemarie Jacir’s historical ensemble drama explores the 1936 revolt, with a discussion featuring the director and producer.",
-    "date": "2026-11-15",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/palestine-36"
-      },
-      {
-        "label": "Review",
-        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/palestine-36-broad-primer-complex-period-palestinian-history"
-      }
-    ]
-  },
-  {
     "title": "Secrets of fabrication",
     "kind": "Exhibitions",
     "bases": [
@@ -3651,36 +3554,6 @@
       {
         "label": "Exhibition page",
         "url": "https://palaurobert.gencat.cat/ca/exposicions/sala4/2026/ciutats-en-transit/"
-      }
-    ]
-  },
-  {
-    "title": "Swing Time & Carlos Bayolo",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sunday 15 November, 21:30",
-    "price": "€14",
-    "why": "Three guitars and guest double bass bring manouche swing into conversation with flamenco.",
-    "date": "2026-11-15",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2130h-swing-time-carlos-bayolo-gipsy-jazz-gipsy-swing-flamenco-14e/"
       }
     ]
   },
@@ -3869,41 +3742,6 @@
       {
         "label": "Event page",
         "url": "https://www.harlemjazzclub.es/events/2300h-sinead-savage-and-the-after-hours-soul-blues-rb-15e-2/"
-      }
-    ]
-  },
-  {
-    "title": "Christopher Strong",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sunday 15 November, 21:00 · VOSE",
-    "price": "See tickets",
-    "why": "Dorothy Arzner and Katharine Hepburn’s pre-Code aviation drama questions the social rules placed on women; Rotten Tomatoes records 83% positive reviews from six critics.",
-    "date": "2026-11-15",
-    "mapsUrl": "https://maps.google.com/?cid=16041044888468048458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/christopher-strong"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/christopher_strong"
       }
     ]
   },
@@ -4149,6 +3987,292 @@
       {
         "label": "Event page",
         "url": "https://www.harlemjazzclub.es/events/2000h-peter-loveday-folk-pop-cantautor-10e-2/"
+      }
+    ]
+  },
+  {
+    "title": "Telva Rojas & Cuarteto Ébano de Cuba",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sat 21 Nov · 23:00",
+    "price": "€15",
+    "why": "Cuban boleros, son and guarachas with vocals, keyboards, bass and percussion – a late-night choice for dancing.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2300h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-5/"
+      }
+    ]
+  },
+  {
+    "title": "Muerdo: Volver a donde nacen las canciones",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Thu 26 Nov · 20:30 · La 2 · doors 19:30",
+    "price": "€18 advance + fees; €22 at the door",
+    "why": "An intimate reworking of Muerdo’s songs, with guitars, keyboards, percussion and winds shared between two musicians.",
+    "date": "2026-11-26",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.sala-apolo.com/en/event/muerdo-volver-a-donde-nacen-las-canciones-20261126-7141"
+      }
+    ]
+  },
+  {
+    "title": "Renaldo & Clara",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Sat 28 Nov · 20:30 · doors 19:30",
+    "price": "€15 advance + fees; €18 at the door",
+    "why": "Clara Viñals brings Catalan songwriting, folk and electronic pop together, with the band’s new album L’encant.",
+    "date": "2026-11-28",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.sala-apolo.com/en/event/empremtes-2026-renaldo-%26-clara-7320"
+      }
+    ]
+  },
+  {
+    "title": "Germany Year Zero",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Fri 20 Nov · 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Rossellini follows a child through ruined postwar Berlin in the closing film of his war trilogy.",
+    "date": "2026-11-20",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/deutschland-im-jahre-null-germania-anno-zero"
+      },
+      {
+        "label": "Critical appreciation",
+        "url": "https://www.criterion.com/films/297-germany-year-zero"
+      }
+    ]
+  },
+  {
+    "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Sat 21 Nov · 17:30 · original version, Spanish subtitles",
+    "price": "See tickets",
+    "why": "Akerman turns a widow’s daily routine into an unsettling portrait of domestic work and womanhood; first in Sight and Sound’s 2022 critics’ poll.",
+    "context": "The 201-minute feature is paired with the short Diarymaid’s Revenge. Plan for a long screening.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-diarymaids-revenge"
+      },
+      {
+        "label": "Critical appreciation",
+        "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time"
+      }
+    ]
+  },
+  {
+    "title": "Rome, Open City",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Sat 21 Nov · 20:00 · original version, Catalan subtitles",
+    "price": "See tickets",
+    "why": "Anna Magnani and Aldo Fabrizi anchor Rossellini’s portrait of resistance during the Nazi occupation of Rome.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/roma-citta-aperta"
+      },
+      {
+        "label": "Critical appreciation",
+        "url": "https://www.criterion.com/films/975-rome-open-city"
+      }
+    ]
+  },
+  {
+    "title": "Ona Balló: The Reverse Journey",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 98
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1535699999999998,
+      41.3684399
+    ],
+    "venue": "MNAC",
+    "when": "Tue–Fri · 13:00, 16:00, 17:00; Sat–Sun · 11:00, 12:00",
+    "price": "€6",
+    "why": "A temporary sound installation reconnects the Romanesque murals with the churches and Pyrenean landscapes they came from.",
+    "context": "Closed on free-admission days and the first Sunday of each month.",
+    "startsOn": "2026-11-13",
+    "endsOn": "2027-04-30",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://www.museunacional.cat/en/reverse-journey-sound-fresco-through-romanesque-art"
+      }
+    ]
+  },
+  {
+    "title": "Àmfora & Arjau: Havaneres for Oncolliga",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      3.1648598,
+      41.9163606
+    ],
+    "venue": "TeMePé",
+    "when": "Sun 22 Nov · 18:00",
+    "price": "€10",
+    "why": "Two local havaneres groups bring seafaring song to Palafrugell in a benefit concert for Oncolliga Girona.",
+    "date": "2026-11-22",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://cultura.palafrugell.cat/ca/programacio/c/6642-amfora-i-arjau.html"
+      }
+    ]
+  },
+  {
+    "title": "Paula García-Masedo: Gran ritme",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 94
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 53
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.9788099999999997,
+      42.281949999999995
+    ],
+    "venue": "Canònica de Santa Maria de Vilabertran",
+    "when": "During the monastery’s opening hours",
+    "price": "See tickets",
+    "why": "Esparto rope-making connects craft, agricultural life and collective memory inside Vilabertran’s medieval monastery.",
+    "startsOn": "2026-07-24",
+    "endsOn": "2027-02-07",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://web.girona.cat/bolit/exposicions/2026/gran-ritme"
       }
     ]
   }
