@@ -2275,37 +2275,6 @@
     ]
   },
   {
-    "title": "Haydée Milanés & Javier Colina: A mi manera",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu, Barcelona",
-    "when": "20:30",
-    "price": "See tickets",
-    "why": "Cuban bolero and trova meet jazz improvisation, with Luis Guerra on piano and songs by Marta Valdés, Sindo Garay and Pablo Milanés.",
-    "date": "2026-11-16",
-    "mapsUrl": "https://maps.google.com/?cid=425225950952392128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/haydee-milanes-javier-colina/"
-      }
-    ]
-  },
-  {
     "title": "Omar Sosa, Marcelo Woloski & Focus Quartet",
     "kind": "Music",
     "bases": [
@@ -4273,6 +4242,99 @@
       {
         "label": "Exhibition page",
         "url": "https://web.girona.cat/bolit/exposicions/2026/gran-ritme"
+      }
+    ]
+  },
+  {
+    "title": "Thana Alexa & Friends",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree 3",
+    "when": "Tuesday 15 December, 19:00 or 20:45",
+    "price": "€28",
+    "why": "Voice, loops and electronics rework songs by the Beatles, Björk, Nina Simone and Stevie Wonder, with Shai Maestro, Christos Rafalides and Antonio Sánchez as guests.",
+    "context": "The festival confirms both sets. Jamboree also displays a sold-out label, so check ticket availability before planning the evening.",
+    "date": "2026-12-15",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/thana-alexa-friends/"
+      }
+    ]
+  },
+  {
+    "title": "Mulholland Drive",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 6
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1625929999999998,
+      41.386125
+    ],
+    "venue": "Mooby Aribau",
+    "when": "Friday 20 November, 21:00 · original English version",
+    "price": "See tickets",
+    "why": "David Lynch’s Hollywood mystery offers an unsettling, dreamlike evening of shifting identities; English Cinema Barcelona reports a Metacritic score of 87.",
+    "date": "2026-11-20",
+    "mapsUrl": "https://maps.google.com/?cid=15635588341396068292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Screening details",
+        "url": "https://englishcinemabarcelona.com/m/mulholland-drive/in-english-in-barcelona"
+      }
+    ]
+  },
+  {
+    "title": "An Unlikely Shadow",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.166667,
+      41.383611
+    ],
+    "venue": "CCCB, Barcelona",
+    "when": "23 October – 1 December · Plaça Joan Coromines",
+    "price": "See tickets",
+    "why": "A temporary, reusable pavilion turns the CCCB courtyard into an experiment in shade and public space, with a light-and-movement installation running from 17 to 30 November.",
+    "startsOn": "2026-10-23",
+    "endsOn": "2026-12-01",
+    "links": [
+      {
+        "label": "Installation page",
+        "url": "https://www.cccb.org/en/w/activities/an-unlikely-shadow"
       }
     ]
   }

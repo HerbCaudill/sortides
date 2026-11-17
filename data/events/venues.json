@@ -1404,5 +1404,42 @@
         "distanceMeters": 53919
       }
     ]
+  },
+  "Mooby Aribau": {
+    "coordinates": [
+      2.1625929999999998,
+      41.386125
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 6
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "verifiedAt": "2026-11-17T07:03:12.728Z",
+    "placeId": "ChIJ74nVg4yipBIRxNcmb8HE_Ng",
+    "address": "Carrer d'Aribau, 8, 10, Eixample, 08011 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15635588341396068292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://englishcinemabarcelona.com/m/mulholland-drive/in-english-in-barcelona",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 6,
+        "distanceMeters": 1284
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95,
+        "distanceMeters": 127106
+      }
+    ]
   }
 }

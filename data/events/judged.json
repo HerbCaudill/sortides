@@ -3219,5 +3219,72 @@
     "judgedOn": "2026-11-16",
     "accepted": false,
     "reason": "Official page gives opening 9 July 2026 and closing only June 2027; exact closing day required before selection."
+  },
+  "bcn:99400786573": {
+    "judgedOn": "2026-11-17",
+    "accepted": true
+  },
+  "bcn:99400785603": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Parent-and-child movement and wellbeing activity for mothers and children aged 4–12, rather than a live music performance."
+  },
+  "bcn:99400787921": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Bach organ recital is a narrower fit than the selected jazz programme; feed supplies only the Palau homepage, not a verified specific performance URL."
+  },
+  "bcn:99400790475": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Not currently open: exhibition starts 2026-11-19, after the 17 November refresh."
+  },
+  "bcn:99400790517": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Not currently open: exhibition starts 2026-11-18, after the 17 November refresh."
+  },
+  "https://englishcinemabarcelona.com/m/mulholland-drive/in-english-in-barcelona#2026-11-20": {
+    "judgedOn": "2026-11-17",
+    "accepted": true
+  },
+  "https://englishcinemabarcelona.com/m/ghost-world/in-english-in-barcelona#2026-11-20": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Only verified screening is at 15:00, a poor fit for a date-night film despite strong critical ratings."
+  },
+  "https://englishcinemabarcelona.com/m/trainspotting/in-english-in-barcelona#2026-11-22": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Well-reviewed repertory screening, but its addiction story and 21:40 Sunday start are a weaker shared-night-out choice than Mulholland Drive this run."
+  },
+  "https://www.cccb.org/en/w/activities/an-unlikely-shadow#2026-10-23": {
+    "judgedOn": "2026-11-17",
+    "accepted": true
+  },
+  "https://www.cccb.org/en/w/exhibitions/the-atomic-age#2026-11-26": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Not currently open: public exhibition dates are 26 November 2026 – 17 May 2027."
+  },
+  "https://jamboreejazz.com/evento/samuel-blaser-quartet/#2026-11-17": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Official event page displays Sold out; no independently readable ticket availability confirmation. Defer rather than present as a bookable night out."
+  },
+  "https://jamboreejazz.com/evento/francesco-bearzatti-trio/#2026-11-18": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Official event page displays Sold out; no independently readable ticket availability confirmation. Defer rather than present as a bookable night out."
+  },
+  "https://jamboreejazz.com/evento/thome/#2026-11-18": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Official event page displays Sold out; no independently readable ticket availability confirmation. Defer rather than present as a bookable night out."
+  },
+  "https://jamboreejazz.com/evento/habana-abierta/#2026-12-12": {
+    "judgedOn": "2026-11-17",
+    "accepted": false,
+    "reason": "Official event page displays Sold out; no independently readable ticket availability confirmation. Defer rather than present as a bookable night out."
   }
 }
