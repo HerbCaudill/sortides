@@ -2399,36 +2399,6 @@
     ]
   },
   {
-    "title": "Chris Potter Trio",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu",
-    "when": "Tuesday 17 November, 20:30",
-    "price": "See tickets",
-    "why": "Potter joins bassist Matt Brewer and drummer Kendrick Scott for a saxophone-led trio set built around new music and material from Alive With Ghosts Today.",
-    "date": "2026-11-17",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/chris-potter-trio/"
-      }
-    ]
-  },
-  {
     "title": "World Press Photo 2026",
     "kind": "Exhibitions",
     "bases": [
@@ -3216,36 +3186,6 @@
       {
         "label": "Event page",
         "url": "https://jazz.barcelona/concert/las-migas/"
-      }
-    ]
-  },
-  {
-    "title": "Bombino",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 16
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 96
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1695739,
-      41.374402599999996
-    ],
-    "venue": "Sala Apolo",
-    "when": "17 November, doors 19:30; La (2) de Apolo",
-    "price": "€31",
-    "why": "Tuareg guitar and songwriting offer a distinctive night built around an original voice from Niger.",
-    "date": "2026-11-17",
-    "links": [
-      {
-        "label": "Tickets",
-        "url": "https://dice.fm/event/xe37lm-piata-presenta-bombino-17th-nov-sala-apolo-barcelona-tickets"
       }
     ]
   },
@@ -4335,6 +4275,375 @@
       {
         "label": "Installation page",
         "url": "https://www.cccb.org/en/w/activities/an-unlikely-shadow"
+      }
+    ]
+  },
+  {
+    "title": "I Am Ashurbanipal: King of the World, King of Assyria",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 100
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.149575,
+      41.371308
+    ],
+    "venue": "CaixaForum Barcelona",
+    "when": "18 November – 29 March",
+    "price": "€6",
+    "why": "Ivories from Nimrud and a carved stele from Borsippa bring the world of the Assyrian king who built a library of cuneiform tablets into focus.",
+    "startsOn": "2026-11-18",
+    "endsOn": "2027-03-29",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://caixaforum.org/es/barcelona/p/soy-asurbanipal-barcelona"
+      }
+    ]
+  },
+  {
+    "title": "Horacio Fumero & Pedro Javier González",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sunday 22 November, 21:30",
+    "price": "€18",
+    "why": "A double bass and guitar duet moves between jazz and flamenco, with tango, bulerías and chacarera in the mix.",
+    "date": "2026-11-22",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2130h-horacio-fumero-pedro-javier-gonzalez-flamenco-jazz-18e/"
+      }
+    ]
+  },
+  {
+    "title": "Michał Obrębski",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Tuesday 24 November, 20:00",
+    "price": "€11",
+    "why": "Obrębski brings his fingerstyle guitar pieces from Routine and new songs to Harlem. The same ticket includes the 22:30 blues jam.",
+    "date": "2026-11-24",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2000h-michal-obrebski-rock-progresivo-flamenco-jazz-fingerstyle-guitar-2230h-blues-jam-session-11e/"
+      }
+    ]
+  },
+  {
+    "title": "Temples + Miel",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695907,
+      41.375198499999996
+    ],
+    "venue": "Paral·lel 62, Barcelona",
+    "when": "Sunday 22 November, 20:30",
+    "price": "€30.80",
+    "why": "Temples bring melodic British rock rooted in 1960s psychedelia, with Miel opening.",
+    "date": "2026-11-22",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://paral-lel62.cat/programacio/temples-parallel62-barcelona-cat/"
+      }
+    ]
+  },
+  {
+    "title": "Lia Kali",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695907,
+      41.375198499999996
+    ],
+    "venue": "Paral·lel 62, Barcelona",
+    "when": "Friday 27 November, 21:00",
+    "price": "From €32",
+    "why": "The Barcelona singer closes out the touring chapter of Contra Todo Pronóstico and Kaelis with a hometown show before taking 2027 off from performing.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://paral-lel62.cat/programacio/lia-kali-27-nov-2026-cat/"
+      }
+    ]
+  },
+  {
+    "title": "Júlia Colom + Gaia Banfi",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Thursday 10 December, doors at 19:30 · La Cinc",
+    "price": "€12 advance plus fees or €15 at the door",
+    "why": "Colom draws on Mallorcan folk song for her delicate pop. Banfi pairs her songs with experimental electronics in this small-room double bill.",
+    "date": "2026-12-10",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://sala-apolo.com/en/event/afers-j%C3%BAlia-colom-gaia-banfi-20261210-7518"
+      }
+    ]
+  },
+  {
+    "title": "Niña Pastori: Color Fania",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.8115644,
+      41.9855598
+    ],
+    "venue": "Auditori de Girona",
+    "when": "Monday 7 December, 20:00",
+    "price": "€45–€60",
+    "why": "Niña Pastori brings the flamenco, pop and Latin sounds of Color Fania to Girona alongside songs from earlier in her career.",
+    "date": "2026-12-07",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5782"
+      }
+    ]
+  },
+  {
+    "title": "Pol Batlle: La Flor de Déu",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 87
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1852999,
+      41.3986326
+    ],
+    "venue": "L’Auditori Sala 3",
+    "when": "Saturday 28 November, 20:00",
+    "price": "€18",
+    "why": "Batlle presents his new album with a four-piece band in a show built for the room, using lighting and staging to shape songs about memory, fragility and care.",
+    "date": "2026-11-28",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.auditori.cat/en/events/scenes-la-flor-de-deu/"
+      }
+    ]
+  },
+  {
+    "title": "Wild Horse Nine",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 6
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1625929999999998,
+      41.386125
+    ],
+    "venue": "Mooby Aribau",
+    "when": "Thursday 19 November, 19:05 or 21:30 · original English version",
+    "price": "See tickets",
+    "why": "Martin McDonagh sends John Malkovich and Sam Rockwell to Easter Island in a darkly funny espionage story set just before Chile’s 1973 coup.",
+    "date": "2026-11-19",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://englishcinemabarcelona.com/m/wild-horse-nine/in-english-in-barcelona"
+      },
+      {
+        "label": "Cinema listing",
+        "url": "https://www.moobycinemas.com/wild-horse-nine"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/wild_horse_nine"
+      }
+    ]
+  },
+  {
+    "title": "Mary Halvorson: Canis Major",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 15
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1709583,
+      41.3761667
+    ],
+    "venue": "Conservatori Liceu",
+    "when": "Thursday 19 November, 20:30",
+    "price": "See tickets",
+    "why": "Halvorson brings her new quartet to the jazz festival, with Dave Adewumi on trumpet, Henry Fraser on bass and Tomas Fujiwara on drums.",
+    "date": "2026-11-19",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://jazz.barcelona/concert/mary-halvorson-canis-major/"
+      }
+    ]
+  },
+  {
+    "title": "Iván Ferreiro: Hoy x Ayer",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "venue": "La Mirona",
+    "when": "Friday 4 December, 22:00",
+    "price": "€30 advance",
+    "why": "The Galician songwriter looks back on 35 years of Spanish indie rock, from Los Piratas to his solo work, including songs he has rarely performed in recent years.",
+    "date": "2026-12-04",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://lamirona.cat/2026/12/04/ivan-ferreiro/"
+      }
+    ]
+  },
+  {
+    "title": "The Black Heritage Choir: The Soul of Gospel",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 71
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 52
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.8115644,
+      41.9855598
+    ],
+    "venue": "Auditori de Girona",
+    "when": "Tuesday 8 December, 18:00",
+    "price": "€30–€36",
+    "why": "Singers from the Mississippi Mass Choir trace African American gospel from its early roots to contemporary styles, with piano, bass and drums.",
+    "date": "2026-12-08",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5708"
       }
     ]
   }

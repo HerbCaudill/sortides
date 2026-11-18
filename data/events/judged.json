@@ -3286,5 +3286,323 @@
     "judgedOn": "2026-11-17",
     "accepted": false,
     "reason": "Official event page displays Sold out; no independently readable ticket availability confirmation. Defer rather than present as a bookable night out."
+  },
+  "bcn:99400754681": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Local Christmas concert by the senior ensemble. The supplied URL is the community centre homepage and does not verify a specific listing."
+  },
+  "bcn:99400790532": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Exhibition is not open on 18 November. The feed gives an opening date of 2026-11-19."
+  },
+  "bcn:99400790537": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Exhibition is not open on 18 November. The feed gives an opening date of 2027-02-01."
+  },
+  "bcn:99400790596": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "One-off guided architecture tour of a sports centre, rather than a temporary exhibition."
+  },
+  "bcn:99400471639": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "District-wide open night with multiple activities, without a single specific exhibition or performance in the feed entry."
+  },
+  "bcn:99400790613": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Neighbourhood anniversary with talks, lunch and several activities. The supplied social link does not verify a dated standalone Trenkalos performance."
+  },
+  "bcn:99400790651": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Exhibition is not open on 18 November. The feed gives an opening date of 2027-01-04."
+  },
+  "bcn:99400790653": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Exhibition is not open on 18 November. The feed gives an opening date of 2027-03-02."
+  },
+  "bcn:99400790652": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Exhibition is not open on 18 November. The feed gives an opening date of 2027-02-02."
+  },
+  "https://caixaforum.org/es/barcelona/p/soy-asurbanipal-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2130h-horacio-fumero-pedro-javier-gonzalez-flamenco-jazz-18e/#2026-11-22": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2000h-michal-obrebski-rock-progresivo-flamenco-jazz-fingerstyle-guitar-2230h-blues-jam-session-11e/#2026-11-24": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://paral-lel62.cat/programacio/temples-parallel62-barcelona-cat/#2026-11-22": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://paral-lel62.cat/programacio/lia-kali-27-nov-2026-cat/#2026-11-27": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://sala-apolo.com/en/event/afers-j%C3%BAlia-colom-gaia-banfi-20261210-7518#2026-12-10": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5782#2026-12-07": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://www.auditori.cat/en/events/scenes-la-flor-de-deu/#2026-11-28": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://www.auditori.cat/en/events/scenes-la-flor-de-deu/#2026-11-29": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Same production as the selected Saturday evening performance, with an earlier Sunday start."
+  },
+  "https://paral-lel62.cat/programacio/univers-parallel-vvv-trippin-you-las-eras-sdh-cat/#2026-11-20": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Dark electronic post-punk and rave bill followed by a DJ set until 02:00. Temples is a closer fit for a shared rock outing."
+  },
+  "https://paral-lel62.cat/programacio/la-sotana-novembre-2026-cat/#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Live football podcast, outside the live music scope."
+  },
+  "https://caixaforum.org/es/barcelona/p/joseph-beuys-barcelona#standing-installation": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Standing installation without a dated temporary exhibition run."
+  },
+  "https://englishcinemabarcelona.com/m/wild-horse-nine/in-english-in-barcelona#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://englishcinemabarcelona.com/m/caravaggio-2025/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The two listed screenings are on the refresh date, and the source has no aggregate critic rating."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Nearly three hours and large-format spectacle. Prioritised the shorter, strongly reviewed McDonagh film this run."
+  },
+  "https://englishcinemabarcelona.com/m/george-michael-the-faith-tour/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Concert film, with no published aggregate rating shown in the listing."
+  },
+  "https://englishcinemabarcelona.com/m/digger/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Mixed reviews, with 52% from Rotten Tomatoes critics."
+  },
+  "https://englishcinemabarcelona.com/m/ebenezer/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Another Christmas Carol adaptation, with no verified review aggregate in the listing."
+  },
+  "https://englishcinemabarcelona.com/m/sense-and-sensibility-2026/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "A promising Austen adaptation. Prioritised the more distinctive, strongly reviewed new release this run."
+  },
+  "https://englishcinemabarcelona.com/m/the-invite/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Well-reviewed dinner-party comedy. Prioritised Wild Horse Nine for the verified Aribau evening slot."
+  },
+  "https://englishcinemabarcelona.com/m/wicker/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "An offbeat fantasy whose Metacritic score of 70 makes it a lower priority than this run’s new release."
+  },
+  "https://englishcinemabarcelona.com/m/wildwood/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The animated family adventure is a lower priority for this date-night selection."
+  },
+  "https://englishcinemabarcelona.com/m/how-to-rob-a-bank/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Social-media heist thriller without a verified review aggregate in the listing."
+  },
+  "https://englishcinemabarcelona.com/m/the-social-reckoning/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The source reports mixed reception, at 54% from Rotten Tomatoes critics."
+  },
+  "https://englishcinemabarcelona.com/m/resident-evil-2026/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Well-reviewed franchise horror, a narrower shared-night-out choice this run."
+  },
+  "https://englishcinemabarcelona.com/m/verity/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Weak critical reception, at 31% from Rotten Tomatoes critics."
+  },
+  "https://englishcinemabarcelona.com/m/clayface/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Comic-book body horror is a narrower fit for this selection."
+  },
+  "https://englishcinemabarcelona.com/m/young-washington/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Historical biopic with a 6.9 IMDb score and a listed 16:00 Aribau screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-cat-in-the-hat/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Family animation is a lower priority for this date-night selection."
+  },
+  "https://englishcinemabarcelona.com/m/club-kid/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Promising festival film. Its later December dates warrant a separate venue and showtime check."
+  },
+  "https://englishcinemabarcelona.com/m/heart-of-the-beast/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Survival drama with a Metacritic score of 66 is a lower priority this run."
+  },
+  "https://englishcinemabarcelona.com/m/rocky/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The verified Aribau repertory slot is at 16:00."
+  },
+  "https://englishcinemabarcelona.com/m/leviticus/in-english-in-barcelona#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Specialist horror feature with a single same-day screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-rivals-of-amziah-king/in-english-in-barcelona#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Only listed screening is at 13:15."
+  },
+  "https://englishcinemabarcelona.com/m/miss-jobson/in-english-in-barcelona#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Single listing without a published review aggregate."
+  },
+  "https://englishcinemabarcelona.com/m/teenage-sex-and-death-at-camp-miasma/in-english-in-barcelona#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Strong critical reception, but this slasher homage is a narrower choice for a shared night."
+  },
+  "https://englishcinemabarcelona.com/m/the-hunger-games-sunrise-on-the-reaping/in-english-in-barcelona#2026-11-20": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Franchise prequel without a verified review aggregate on the screening page."
+  },
+  "https://englishcinemabarcelona.com/m/dune-1984/in-english-in-barcelona#2026-11-20": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Repertory curiosity with a Metacritic score of 41. The current list already includes a well-reviewed Lynch screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-devils/in-english-in-barcelona#2026-11-21": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Distinctive but intense repertory horror. The listed Aribau option is at 16:00."
+  },
+  "https://englishcinemabarcelona.com/m/the-departed/in-english-in-barcelona#2026-11-23": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Strong repertory film, with a single screening at 17:45."
+  },
+  "https://englishcinemabarcelona.com/m/the-human-scale/in-english-in-barcelona#2026-11-23": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Urban-design documentary with mixed critical reception, at 50 on Metacritic."
+  },
+  "https://englishcinemabarcelona.com/m/hardware/in-english-in-barcelona#2026-11-24": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Cult sci-fi horror with a Metacritic score of 41."
+  },
+  "https://englishcinemabarcelona.com/m/the-usual-suspects/in-english-in-barcelona#2026-11-24": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The only listed screening begins at 17:15."
+  },
+  "https://englishcinemabarcelona.com/m/blue-velvet/in-english-in-barcelona#2026-11-24": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The current outings already include a Lynch repertory night. This second one starts at 21:50 on Tuesday."
+  },
+  "https://englishcinemabarcelona.com/m/casino/in-english-in-barcelona#2026-11-21": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The three-hour crime drama is a lower priority than this run’s shorter, strongly reviewed new release."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5697#2026-11-28": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The benefit programme combines cobla and strings in a themed concert about the sea. Prioritised the flamenco and gospel programmes for this refresh."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5683#2026-12-03": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Classical baritone recital is a narrower fit than the selected flamenco, gospel and jazz concerts."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5700#2026-12-04": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Improvised electronic music in a club layout. The selected Girona programmes are a closer fit."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5703#2026-12-05": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The 40th-anniversary concert is a good Catalan rock option. Prioritised Ferreiro’s retrospective in Salt this weekend."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5706#2026-12-13": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Participatory holiday performance of Handel’s Messiah is a narrower match than the selected gospel programme."
+  },
+  "https://cultura.palafrugell.cat/ca/programacio/c/6717-acte-institucional-n.html#2026-11-25": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Institutional commemoration with incidental music. La Bòbila is listed only as a rain venue."
+  },
+  "https://jazz.barcelona/concert/trobades-amb-horacio-fumero-andrea-motis/#2026-11-18": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "Festival conversation at a record shop rather than a concert listing."
+  },
+  "https://jazz.barcelona/concert/sant-andreu-dixie-band/#2026-11-25": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The festival marks the concert sold out."
+  },
+  "https://www.sala-apolo.com/en/event/afers-cloe-riembau-malva-20261119-7514#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": false,
+    "reason": "The Colom and Banfi bill is a closer fit for the folk and songwriter interests within this series."
+  },
+  "https://jazz.barcelona/concert/mary-halvorson-canis-major/#2026-11-19": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://lamirona.cat/2026/12/04/ivan-ferreiro/#2026-12-04": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5708#2026-12-08": {
+    "judgedOn": "2026-11-18",
+    "accepted": true
   }
 }
