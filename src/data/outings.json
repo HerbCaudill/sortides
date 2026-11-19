@@ -2978,36 +2978,6 @@
     ]
   },
   {
-    "title": "Joan Chamorro presents Pau Garcia, Lola Peñaranda & Clàudia Rostey",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 9
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 87
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1852999,
-      41.3986326
-    ],
-    "venue": "L’Auditori Sala 2",
-    "when": "Wed 18 Nov, 20:00",
-    "price": "See tickets",
-    "why": "Three emerging soloists join the Sant Andreu Jazz Band to introduce their latest recordings.",
-    "date": "2026-11-18",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/joan-chamorro-presenta-pau-garcia-lola-penaranda-y-claudia-rostey/"
-      }
-    ]
-  },
-  {
     "title": "Terraza, Wakenius & Boussaguet: With Respect to Oscar and Niels",
     "kind": "Music",
     "bases": [
@@ -4644,6 +4614,101 @@
       {
         "label": "Event page",
         "url": "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5708"
+      }
+    ]
+  },
+  {
+    "title": "Étienne Chambaud: World",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.185384,
+      41.398695
+    ],
+    "venue": "Museu de la Música",
+    "when": "Tuesday to Sunday",
+    "price": "€6 general admission",
+    "why": "Two installations use the museum’s lighting and displays to change how you experience its collection of musical instruments.",
+    "startsOn": "2026-11-13",
+    "endsOn": "2027-02-14",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://agenda500.barcelona.cat/es/detall/exposicio-world-d-etienne-chambaud_99400790757.html"
+      }
+    ]
+  },
+  {
+    "title": "La Mirona’s 25th anniversary concert",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 70
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 50
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.7734563999999997,
+      41.968405499999996
+    ],
+    "venue": "La Mirona",
+    "when": "Fri 11 Dec, 22:00",
+    "price": "€15 advance / €18 at the door",
+    "why": "Musicians with ties to the Salt venue share a stage to revisit songs from its first 25 years, with surprise guests promised.",
+    "date": "2026-12-11",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://lamirona.cat/2026/12/11/concert-25-anys-de-la-mirona-amb-musics-amics-i-amigues-de-la-sala/"
+      }
+    ]
+  },
+  {
+    "title": "The Invite",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1340125999999997,
+      41.394831499999995
+    ],
+    "venue": "Mooby Gran Sarrià",
+    "when": "Sat 21 Nov, 20:00 (original English)",
+    "price": "See tickets",
+    "why": "Olivia Wilde directs and stars in a sharp dinner-party comedy about two couples, with Seth Rogen, Penélope Cruz and Edward Norton.",
+    "date": "2026-11-21",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://englishcinemabarcelona.com/m/the-invite/in-english-in-barcelona"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/the_invite"
       }
     ]
   }

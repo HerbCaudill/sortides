@@ -1441,5 +1441,42 @@
         "distanceMeters": 127106
       }
     ]
+  },
+  "Mooby Gran Sarrià": {
+    "coordinates": [
+      2.1340125999999997,
+      41.394831499999995
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "verifiedAt": "2026-11-19T07:03:47.041Z",
+    "placeId": "ChIJ7cUpUG6YpBIRaFGYvFHZgNI",
+    "address": "Rda. Gral. Mitre, 38, 44, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15168362490063507816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://englishcinemabarcelona.com/m/the-invite/in-english-in-barcelona",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 3761
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92,
+        "distanceMeters": 126983
+      }
+    ]
   }
 }
