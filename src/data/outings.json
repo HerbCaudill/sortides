@@ -3563,37 +3563,6 @@
     ]
   },
   {
-    "title": "La Bona Sort",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 14
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 89
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1695907,
-      41.375198499999996
-    ],
-    "venue": "Paral·lel 62, Barcelona",
-    "when": "Thursday 19 November, 20:30",
-    "price": "€5",
-    "why": "An intimate indie-folk duo expands into a band, with flute-led arrangements and unhurried songs.",
-    "date": "2026-11-19",
-    "mapsUrl": "https://maps.google.com/?cid=18288877798364271013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://paral-lel62.cat/programacio/latencies-la-bona-sort-barcelona-2026-cat/"
-      }
-    ]
-  },
-  {
     "title": "Sinead Savage and The After Hours",
     "kind": "Music",
     "bases": [
@@ -3776,66 +3745,6 @@
       {
         "label": "Exhibition page",
         "url": "https://lleialtat.cat/exposiciotracosalapell/"
-      }
-    ]
-  },
-  {
-    "title": "Anni B Sweet",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 10
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 89
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1912593,
-      41.3972434
-    ],
-    "venue": "Razzmatazz 2",
-    "when": "Thu 19 Nov · doors 20:00",
-    "price": "See tickets",
-    "why": "Spanish indie songwriting with sixties colours and psychedelic textures, performed with her band.",
-    "date": "2026-11-19",
-    "links": [
-      {
-        "label": "Tickets",
-        "url": "https://www.notikumi.com/2026/11/19/concierto-de-annie-b-sweet-en-barcelona"
-      }
-    ]
-  },
-  {
-    "title": "Paisà",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Thu 19 Nov · 17:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Rossellini’s restored six-part portrait of wartime Italy follows the Allied advance through ordinary lives.",
-    "date": "2026-11-19",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/paisa-0"
       }
     ]
   },
@@ -4490,74 +4399,6 @@
     ]
   },
   {
-    "title": "Wild Horse Nine",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 6
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 95
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1625929999999998,
-      41.386125
-    ],
-    "venue": "Mooby Aribau",
-    "when": "Thursday 19 November, 19:05 or 21:30 · original English version",
-    "price": "See tickets",
-    "why": "Martin McDonagh sends John Malkovich and Sam Rockwell to Easter Island in a darkly funny espionage story set just before Chile’s 1973 coup.",
-    "date": "2026-11-19",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://englishcinemabarcelona.com/m/wild-horse-nine/in-english-in-barcelona"
-      },
-      {
-        "label": "Cinema listing",
-        "url": "https://www.moobycinemas.com/wild-horse-nine"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/wild_horse_nine"
-      }
-    ]
-  },
-  {
-    "title": "Mary Halvorson: Canis Major",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 15
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1709583,
-      41.3761667
-    ],
-    "venue": "Conservatori Liceu",
-    "when": "Thursday 19 November, 20:30",
-    "price": "See tickets",
-    "why": "Halvorson brings her new quartet to the jazz festival, with Dave Adewumi on trumpet, Henry Fraser on bass and Tomas Fujiwara on drums.",
-    "date": "2026-11-19",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://jazz.barcelona/concert/mary-halvorson-canis-major/"
-      }
-    ]
-  },
-  {
     "title": "Iván Ferreiro: Hoy x Ayer",
     "kind": "Music",
     "bases": [
@@ -4709,6 +4550,131 @@
       {
         "label": "Reviews",
         "url": "https://www.rottentomatoes.com/m/the_invite"
+      }
+    ]
+  },
+  {
+    "title": "Amaral: Dolce Vita Tour",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1520405,
+      41.3639595
+    ],
+    "venue": "Palau Sant Jordi",
+    "when": "Friday 18 December, 21:00",
+    "price": "See tickets",
+    "why": "Eva Amaral and Juan Aguirre bring their Dolce Vita tour to its penultimate stop in Barcelona.",
+    "date": "2026-12-18",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://palausantjordi.barcelona/es/amaral-0"
+      }
+    ]
+  },
+  {
+    "title": "Salsa Fest II: Brunella Torpoco & Luisito Carrión",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Tuesday 8 December. Listed at 18:30. Confirm start time.",
+    "price": "€65 advance plus fees",
+    "why": "Peruvian singer Brunella Torpoco shares the bill with Puerto Rican salsa brava and salsa romántica veteran Luisito Carrión.",
+    "date": "2026-12-08",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://sala-apolo.com/es/evento/salsa-fest-ll-brunella-torpoco-luisito-carri%C3%B3n-20261208-7718"
+      }
+    ]
+  },
+  {
+    "title": "El crepúsculo de los dioses (Sunset Boulevard)",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 12
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1712328,
+      41.3784206
+    ],
+    "venue": "Filmoteca",
+    "when": "Wednesday 2 December, 17:00. Original English with Spanish subtitles.",
+    "price": "See tickets",
+    "why": "See Billy Wilder’s restored Hollywood noir with Gloria Swanson as silent-film star Norma Desmond. It has a 98% Rotten Tomatoes critics’ score.",
+    "date": "2026-12-02",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.filmoteca.cat/web/ca/film/sunset-boulevard"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/sunset_boulevard"
+      }
+    ]
+  },
+  {
+    "title": "Retrats sense nom: Portraits of painters and strangers",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      3.1643809999999997,
+      41.915808999999996
+    ],
+    "venue": "Biblioteca de Palafrugell",
+    "when": "Espai ARTECA. Check the exhibition calendar.",
+    "price": "Free",
+    "why": "Arnau Planas Quintana hangs four portraits of painters alongside portraits of strangers, inviting you to look at the faces before reading the names.",
+    "startsOn": "2026-10-30",
+    "endsOn": "2026-11-28",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://cultura.palafrugell.cat/ca/programacio/c/6762-exposicio-retrats-sense-nom-entre-pintors-i-a.html"
       }
     ]
   }

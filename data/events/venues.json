@@ -1478,5 +1478,79 @@
         "distanceMeters": 126983
       }
     ]
+  },
+  "Palau Sant Jordi": {
+    "coordinates": [
+      2.1520405,
+      41.3639595
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93
+      }
+    ],
+    "verifiedAt": "2026-11-20T07:01:58.182Z",
+    "placeId": "ChIJ6UvsNWyipBIR9P29l8A1kJ4",
+    "address": "Passeig Olímpic, 5-7, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=11425691355934752244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://palausantjordi.barcelona/es/amaral-0",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17,
+        "distanceMeters": 5514
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 93,
+        "distanceMeters": 132856
+      }
+    ]
+  },
+  "Biblioteca de Palafrugell": {
+    "coordinates": [
+      3.1643809999999997,
+      41.915808999999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7
+      }
+    ],
+    "verifiedAt": "2026-11-20T07:03:07.896Z",
+    "placeId": "ChIJVzxp34lUuhIRYYgI0GrUabw",
+    "address": "Carrer de Sant Martí, 18, 17200 Palafrugell, Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=13576616106906912865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://cultura.palafrugell.cat/ca/programacio/c/6762-exposicio-retrats-sense-nom-entre-pintors-i-a.html",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 89,
+        "distanceMeters": 122541
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 7,
+        "distanceMeters": 1776
+      }
+    ]
   }
 }
