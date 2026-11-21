@@ -1552,5 +1552,190 @@
         "distanceMeters": 1776
       }
     ]
+  },
+  "Saló del Tinell": {
+    "coordinates": [
+      2.1772369,
+      41.3842736
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90
+      }
+    ],
+    "verifiedAt": "2026-11-21T07:01:40.730Z",
+    "placeId": "ChIJw494C_mipBIRBDTfdDR9msk",
+    "address": "Pl. del Rei, 10, Ciutat Vella, 08002 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=14527061212289512452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://mediterraneanday.com/ca/events/concert-day-of-the-mediterranean-2026",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 2884
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 90,
+        "distanceMeters": 127136
+      }
+    ]
+  },
+  "Can Mario, Palafrugell": {
+    "coordinates": [
+      3.1661254,
+      41.9186869
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 87
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 10
+      }
+    ],
+    "verifiedAt": "2026-11-21T07:06:26.956Z",
+    "placeId": "ChIJWcGXV2JUuhIR_utqu-rDhBc",
+    "address": "Plaça de Can Màrio, 7, 17200 Palafrugell, Girona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=1694694772732259326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.fundaciovilacasas.com/ca/exposicio/neix-en-laire-la-primera-flor",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 87,
+        "distanceMeters": 121832
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 10,
+        "distanceMeters": 4176
+      }
+    ]
+  },
+  "Teatre-Auditori Emma Vilarasau": {
+    "coordinates": [
+      2.0890106,
+      41.4694303
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 31
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 84
+      }
+    ],
+    "verifiedAt": "2026-11-21T07:06:27.484Z",
+    "placeId": "ChIJ1cYT9-aWpBIR_vCS6yLfxzQ",
+    "address": "Plaça Victòria dels Àngels, 1, 08172 Sant Cugat del Vallès, Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=3803253751411831038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://www.taemmavilarasau.cat/programacio/espectacle/andrea-motis-trio-1",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 31,
+        "distanceMeters": 16668
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 84,
+        "distanceMeters": 121885
+      }
+    ]
+  },
+  "Jamboree Sala 1": {
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "verifiedAt": "2026-11-21T07:08:19.154Z",
+    "placeId": "ChIJjeBz7leipBIR2hJlrAvHBQY",
+    "address": "Pl. Reial, 17, Ciutat Vella, 08002 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=433971792061993690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://jamboreejazz.com/evento/cicle-john-coltrane-i-miles-davis-eddie-henderson-quartet/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17,
+        "distanceMeters": 3020
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92,
+        "distanceMeters": 129010
+      }
+    ]
+  },
+  "Cinemes Verdi": {
+    "coordinates": [
+      2.1568812,
+      41.4040137
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "verifiedAt": "2026-11-21T07:13:23.619Z",
+    "placeId": "ChIJEyeo2b2ipBIReRDeiQuIX9I",
+    "address": "Carrer de Verdi, 32, Gràcia, 08012 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=15158984453891428473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://barcelona.cines-verdi.com/con-la-muerte-en-los-talones",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9,
+        "distanceMeters": 1923
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95,
+        "distanceMeters": 126016
+      }
+    ]
   }
 }
