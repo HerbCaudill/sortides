@@ -2645,36 +2645,6 @@
     ]
   },
   {
-    "title": "Uri Caine & Girona Jazz Project",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 71
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 52
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.8115644,
-      41.9855598
-    ],
-    "venue": "Auditori de Girona",
-    "when": "Sat 21 November, 20:00",
-    "price": "€20",
-    "why": "Bach’s Goldberg Variations reimagined for big band, alongside Caine’s funk and groove compositions.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://web2.girona.cat/auditori/cat/programacio_fitxa.php?idReg=5693"
-      }
-    ]
-  },
-  {
     "title": "Salvador Sobral: A Flor Do Recomeço",
     "kind": "Music",
     "bases": [
@@ -3627,66 +3597,6 @@
     ]
   },
   {
-    "title": "Peter Loveday Trio",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sat 21 Nov · 20:00",
-    "price": "€10",
-    "why": "An intimate folk-pop trio with guitar, flute, violin and shared vocals, drawing on Loveday’s song catalogue.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2000h-peter-loveday-folk-pop-cantautor-10e-2/"
-      }
-    ]
-  },
-  {
-    "title": "Telva Rojas & Cuarteto Ébano de Cuba",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sat 21 Nov · 23:00",
-    "price": "€15",
-    "why": "Cuban boleros, son and guarachas with vocals, keyboards, bass and percussion – a late-night choice for dancing.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2300h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-5/"
-      }
-    ]
-  },
-  {
     "title": "Muerdo: Volver a donde nacen las canciones",
     "kind": "Music",
     "bases": [
@@ -3743,75 +3653,6 @@
       {
         "label": "Event page",
         "url": "https://www.sala-apolo.com/en/event/empremtes-2026-renaldo-%26-clara-7320"
-      }
-    ]
-  },
-  {
-    "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sat 21 Nov · 17:30 · original version, Spanish subtitles",
-    "price": "See tickets",
-    "why": "Akerman turns a widow’s daily routine into an unsettling portrait of domestic work and womanhood; first in Sight and Sound’s 2022 critics’ poll.",
-    "context": "The 201-minute feature is paired with the short Diarymaid’s Revenge. Plan for a long screening.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-diarymaids-revenge"
-      },
-      {
-        "label": "Critical appreciation",
-        "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time"
-      }
-    ]
-  },
-  {
-    "title": "Rome, Open City",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 12
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 93
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1712328,
-      41.3784206
-    ],
-    "venue": "Filmoteca",
-    "when": "Sat 21 Nov · 20:00 · original version, Catalan subtitles",
-    "price": "See tickets",
-    "why": "Anna Magnani and Aldo Fabrizi anchor Rossellini’s portrait of resistance during the Nazi occupation of Rome.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.filmoteca.cat/web/ca/film/roma-citta-aperta"
-      },
-      {
-        "label": "Critical appreciation",
-        "url": "https://www.criterion.com/films/975-rome-open-city"
       }
     ]
   },
@@ -4333,40 +4174,6 @@
     ]
   },
   {
-    "title": "The Invite",
-    "kind": "Movies",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 14
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 92
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1340125999999997,
-      41.394831499999995
-    ],
-    "venue": "Mooby Gran Sarrià",
-    "when": "Sat 21 Nov, 20:00 (original English)",
-    "price": "See tickets",
-    "why": "Olivia Wilde directs and stars in a sharp dinner-party comedy about two couples, with Seth Rogen, Penélope Cruz and Edward Norton.",
-    "date": "2026-11-21",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://englishcinemabarcelona.com/m/the-invite/in-english-in-barcelona"
-      },
-      {
-        "label": "Reviews",
-        "url": "https://www.rottentomatoes.com/m/the_invite"
-      }
-    ]
-  },
-  {
     "title": "Amaral: Dolce Vita Tour",
     "kind": "Music",
     "bases": [
@@ -4779,6 +4586,293 @@
       {
         "label": "Event page",
         "url": "https://cultura.palafrugell.cat/ca/programacio/c/6397-miquel-abras-ultim-concert-gira.html"
+      }
+    ]
+  },
+  {
+    "title": "Borja Penalba & Meritxell Gené: D’un temps, d’un país",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 19
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.2032803,
+      41.3999465
+    ],
+    "venue": "Casino de l’Aliança del Poblenou",
+    "when": "Sunday 20 December, 18:00",
+    "price": "See tickets",
+    "why": "Two Catalan singer-songwriters close their tour with their own arrangements of Nova Cançó songs by Maria del Mar Bonet, Raimon, Lluís Llach, and others.",
+    "date": "2026-12-20",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://casinoalianca.cat/penalba-gene/"
+      }
+    ]
+  },
+  {
+    "title": "Emmie Reek: Jazz, Queen!",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Saturday 28 November, 20:00",
+    "price": "€13",
+    "why": "Brazilian singer and guitarist Emmie Reek reworks familiar songs as soul and R&B with a live band and guest vocalist Àlex Marteen.",
+    "date": "2026-11-28",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2000h-emmie-reek-presenta-jazz-queen-soul-rb-13e/"
+      }
+    ]
+  },
+  {
+    "title": "Telva Rojas & Cuarteto Ébano de Cuba",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 18
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 94
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1783946,
+      41.3811302
+    ],
+    "venue": "Harlem Jazz Club",
+    "when": "Sunday 29 November, 21:30",
+    "price": "€14",
+    "why": "Cuban singer Telva Rojas and her quartet move between boleros, son, and guarachas in an intimate club.",
+    "date": "2026-11-29",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.harlemjazzclub.es/events/2130h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-copy/"
+      }
+    ]
+  },
+  {
+    "title": "La La Land",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 6
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 95
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1625929999999998,
+      41.386125
+    ],
+    "venue": "Mooby Aribau",
+    "when": "Friday 27 November, 21:00. Original English with Spanish subtitles.",
+    "price": "See tickets",
+    "why": "Damien Chazelle’s musical follows a jazz pianist and an actor trying to make their careers work in Los Angeles. It has a 91% Rotten Tomatoes critics’ score.",
+    "date": "2026-11-27",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68998&language=esp&theatre=28"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/la_la_land"
+      }
+    ]
+  },
+  {
+    "title": "You Can See Everything",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1386111,
+      41.4072222
+    ],
+    "venue": "Mooby Balmes",
+    "when": "Thursday 26 November, 19:30. Original English with Spanish subtitles.",
+    "price": "See tickets",
+    "why": "Nathan Fielder and Lance Oppenheim follow Theranos founder Elizabeth Holmes before she enters prison. The documentary has a 97% Rotten Tomatoes critics’ score.",
+    "date": "2026-11-26",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=189707&language=esp&theatre=29"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/you_can_see_everything"
+      }
+    ]
+  },
+  {
+    "title": "Victor Ruiz Colomer: Llum LED",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 20
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 110
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.16,
+      41.368611
+    ],
+    "venue": "Fundació Joan Miró, Barcelona",
+    "when": "Tuesday to Sunday, 10:00–19:00",
+    "price": "Free",
+    "why": "A walkable intervention on the sculpture gallery ramp lets you see Josep Lluís Sert’s building from a different route through Espai 13.",
+    "startsOn": "2026-11-14",
+    "endsOn": "2027-01-24",
+    "links": [
+      {
+        "label": "Exhibition page",
+        "url": "https://agenda.cultura.gencat.cat/content/agenda/ca/activitat.html.html/2026111300024/exposicio-charlotte-perriand-la-llibertat-de-repensar-el-mon"
+      }
+    ]
+  },
+  {
+    "title": "The Sheepdogs: Out All Night Tour",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Saturday 5 December, 20:30. La (2).",
+    "price": "€28.50 general, plus €2 per order",
+    "why": "The Canadian band brings vocal harmonies and Southern rock guitar riffs to Apolo’s smaller room, with country and soul in the mix.",
+    "date": "2026-12-05",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://www.ticketmaster.es/event/the-sheepdogs-out-all-night-tour-tickets/1431066550"
+      },
+      {
+        "label": "Event page",
+        "url": "https://www.sala-apolo.com/cat/event/the-sheepdogs-out-all-night-tour-6909"
+      }
+    ]
+  },
+  {
+    "title": "Luís Vicente Trio with Tony Malaby and Leo Genovese",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 17
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1752178,
+      41.379681399999996
+    ],
+    "venue": "Jamboree Sala 1",
+    "when": "Sunday 20 December, 19:00",
+    "price": "€23.34 general before any order fees",
+    "why": "Portuguese trumpeter Luís Vicente expands his trio into a quintet with saxophonist Tony Malaby and pianist Leo Genovese for a set built around improvisation.",
+    "date": "2026-12-20",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://www.entradas.com/event/luis-vicente-trio-feat-tony-malaby-i-leo-genovese-jamboree-jazz-dance-club-21855052/?affiliate=G1R"
+      },
+      {
+        "label": "Event page",
+        "url": "https://jamboreejazz.com/evento/luis-vicente-trio-feat-tony-malaby-i-leo-genovese/"
+      }
+    ]
+  },
+  {
+    "title": "Amancio Prada: Rosalía de Castro",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 9
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 87
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1852999,
+      41.3986326
+    ],
+    "venue": "L’Auditori Sala 2",
+    "when": "Sunday 22 November, 19:00",
+    "price": "€30",
+    "why": "Prada revisits his settings of the Galician poet Rosalía de Castro with voice and guitar, fifty years after the original album.",
+    "date": "2026-11-22",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.auditori.cat/es/evento/sessions-amancio-prada/"
       }
     ]
   }

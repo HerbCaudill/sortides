@@ -130,9 +130,8 @@
     "reason": "Not open on refresh date: listed opening 2026-12-07. Reconsider only when source dates/details change."
   },
   "bcn:99400772085": {
-    "judgedOn": "2026-10-29",
-    "accepted": false,
-    "reason": "Not open on refresh date: listed opening 2026-10-30. Reconsider only when source dates/details change."
+    "judgedOn": "2026-11-22",
+    "accepted": true
   },
   "bcn:99400770214": {
     "judgedOn": "2026-10-29",
@@ -5438,5 +5437,327 @@
     "judgedOn": "2026-11-21",
     "accepted": false,
     "reason": "Local short-film showcase. The programme page does not specify versions or Spanish subtitles for the screening."
+  },
+  "bcn:99400790242": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2000h-emmie-reek-presenta-jazz-queen-soul-rb-13e/#2026-11-28": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://www.harlemjazzclub.es/events/2130h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-copy/#2026-11-29": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://mooby.elqueque.com/la-la-land#2026-11-27": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://mooby.elqueque.com/puedes-verlo-todo#2026-11-26": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "bcn:99400767714": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://jamboreejazz.com/evento/luis-vicente-trio-feat-tony-malaby-i-leo-genovese/#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "https://www.auditori.cat/es/evento/sessions-amancio-prada/#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": true
+  },
+  "bcn:99400713159": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Seasonal choral oratorio. The 20 December shortlist prioritizes the Nova Cançó tour finale and the Luís Vicente quintet."
+  },
+  "bcn:99400788169": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "L’Auditori marks the 20 December performance canceled."
+  },
+  "https://jamboreejazz.com/evento/fredis-jazz-band/#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Seasonal big-band program. The same evening is represented by the Luís Vicente quintet and the Nova Cançó tour finale."
+  },
+  "https://www.sala-apolo.com/cat/event/divas-a-new-battle-by-churros-con-chocolate-20261125-7744#2026-11-25": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Late-night drag and ballroom club event."
+  },
+  "https://www.sala-apolo.com/cat/event/antichurros-20261129-7695#2026-11-29": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Eighties-themed DJ party."
+  },
+  "https://auditori.girona.cat/cat/programacio_fitxa.php?idReg=5704#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The auditorium explicitly marks the concert sold out."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The same wide-release title has multiple screenings. The shortlist focuses on the documentary preview and the anniversary repertory screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-23": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The same wide-release title has multiple screenings. The shortlist focuses on the documentary preview and the anniversary repertory screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-24": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The same wide-release title has multiple screenings. The shortlist focuses on the documentary preview and the anniversary repertory screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-26": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The same wide-release title has multiple screenings. The shortlist focuses on the documentary preview and the anniversary repertory screening."
+  },
+  "https://englishcinemabarcelona.com/m/the-odyssey/in-english-in-barcelona#2026-11-29": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The same wide-release title has multiple screenings. The shortlist focuses on the documentary preview and the anniversary repertory screening."
+  },
+  "https://englishcinemabarcelona.com/m/digger/in-english-in-barcelona#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The new entries are late Verdi screenings and a noon Balmes screening. The shortlist favors the earlier evening picks."
+  },
+  "https://englishcinemabarcelona.com/m/digger/in-english-in-barcelona#2026-11-23": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The new entries are late Verdi screenings and a noon Balmes screening. The shortlist favors the earlier evening picks."
+  },
+  "https://englishcinemabarcelona.com/m/dune-part-three/in-english-in-barcelona#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Advance franchise listing with limited review evidence."
+  },
+  "https://englishcinemabarcelona.com/m/avengers-doomsday/in-english-in-barcelona#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Advance franchise listing with limited review evidence."
+  },
+  "https://englishcinemabarcelona.com/m/the-aviator/in-english-in-barcelona#2026-11-28": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The cinema’s 35 mm screening starts at 15:25."
+  },
+  "https://englishcinemabarcelona.com/m/the-rocky-horror-picture-show/in-english-in-barcelona#2026-11-28": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Phenomena confirms a 23:30 VOSE screening. The earlier repertory and music picks take priority."
+  },
+  "https://www.sala-apolo.com/cat/event/kyle-alessandro-20261125-7501#2026-11-25": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Norwegian pop set. The shortlist favors the Catalan songwriting and roots-rock bills."
+  },
+  "https://www.sala-apolo.com/cat/event/city-of-the-sun-20261204-7452#2026-12-04": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Instrumental guitar and post-rock trio. This date already has the Bandera–Motis quartet and Iván Ferreiro."
+  },
+  "https://www.sala-apolo.com/cat/event/el-desliz-de-la-milkshake-20261210-7737#2026-12-10": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Late-night DJ club program."
+  },
+  "https://www.sala-apolo.com/cat/event/vr%26f-carlangas-20261211-7630#2026-12-11": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Indie-pop and dance-rock bill. The evening is already represented by Canelita and La Mirona’s anniversary."
+  },
+  "https://www.sala-apolo.com/cat/event/apologia-x-the-scissor-cult-j-strambach-isovel-jambel-20261212-7773#2026-12-12": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "DJ and selector session."
+  },
+  "https://www.sala-apolo.com/cat/event/epiq-20261213-7746#2026-12-13": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Club party. The date heading and descriptive month also disagree."
+  },
+  "https://www.sala-apolo.com/cat/event/pinata-presenta-hercules-%26-love-affair-20261215-7526#2026-12-15": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The event description specifies an Andy Butler DJ set."
+  },
+  "https://www.sala-apolo.com/cat/event/guarres-temporada3-cap%C3%ADtol5-20261216-7432#2026-12-16": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Live podcast taping."
+  },
+  "https://www.sala-apolo.com/cat/event/15-anys-rockpelsxuklis-alfredo-piedrafita-barrena-20261216-7443#2026-12-16": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Rock benefit show with two acts. The shortlist features the roots-rock and songwriting concerts."
+  },
+  "https://www.filmoteca.cat/web/ca/film/billy-elliot#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The 17:00 screening is part of the FilmoXica family program."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-sinead-savage-and-the-after-hours-soul-blues-rb-15e-3/#2026-11-27": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "23:00 soul and blues tribute set. Emmie Reek and her band offer an earlier show that weekend."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-the-sharps-swing-swing-swing-15e-22/#2026-11-28": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Late swing set. The shortlist favors the earlier Emmie Reek show and the Cuban quartet."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-59/#2026-12-10": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-chino-swingslide-the-sharps-swing-swing-swing-15e-23/#2026-12-11": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Late swing set. The shortlist favors the earlier Emmie Reek show and the Cuban quartet."
+  },
+  "https://www.harlemjazzclub.es/events/1930h-spanish-guitar-motivations-jazz-musica-progresiva-contemporanea-10e/#2026-12-12": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Contemporary guitar-jazz project. The shortlist focuses on the soul and Cuban concerts."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-the-sinful-souls-rb-revue-soul-rb-blues-15e-54/#2026-12-12": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring late R&B and blues revue. The selected soul show features a distinct guest and band."
+  },
+  "https://www.harlemjazzclub.es/events/2130h-gipsy-nur-project-gipsy-jazz-jazz-manouche-cancion-francesa-13e/#2026-12-13": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Manouche jazz and chanson. The same evening has Andrea Motis’s guitar trio."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-62/#2026-12-15": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-60/#2026-12-17": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-the-sinful-souls-rb-revue-soul-rb-blues-15e-55/#2026-12-18": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring late R&B and blues revue. The selected soul show features a distinct guest and band."
+  },
+  "https://www.harlemjazzclub.es/events/2130h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-14e-9/#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Repeat engagement. The 29 November performance is selected."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-60/#2026-12-01": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-mr-shingles-soul-blues-jam-session-soul-blues-rb-11e-58/#2026-12-03": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-the-sinful-souls-rb-revue-soul-rb-blues-15e-56/#2026-12-04": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring late R&B and blues revue. The selected soul show features a distinct guest and band."
+  },
+  "https://www.harlemjazzclub.es/events/2300h-telva-rojas-cuarteto-ebano-de-cuba-musica-cubana-boleros-son-guarachas-15e-6/#2026-12-05": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Repeat engagement. The 29 November performance is selected."
+  },
+  "https://www.harlemjazzclub.es/events/2130h-swing-time-rafa-palomares-gipsy-jazz-gipsy-swing-flamenco-14e-copy/#2026-12-06": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Late Manouche and flamenco crossover. The shortlist features the Motis trio and the earlier flamenco shows."
+  },
+  "https://www.harlemjazzclub.es/events/2230h-blues-early-jazz-jam-session-blues-early-jazz-11e-61/#2026-12-08": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring open jam without a fixed concert program."
+  },
+  "https://www.palaumusica.cat/ca/flamenkat_1646156#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Midday flamenco program. The shortlist has dedicated evening flamenco performances."
+  },
+  "https://www.palaumusica.cat/ca/patricia-kopatchinskaja-fazil-say_1624008#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Classical chamber, orchestral, or vocal program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/gran-gala-flamenc_927626#2026-11-22": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Recurring flamenco gala. The shortlist favors individual artists’ concerts."
+  },
+  "https://www.palaumusica.cat/ca/hong-kong-philharmonic-orchestra-peltokoski_1586387#2026-11-23": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Classical chamber, orchestral, or vocal program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/franco-fagioli-gabetta-consort_1586538#2026-11-30": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Classical chamber, orchestral, or vocal program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/accademia-nazionale-di-santa-cecilia-harding_1586390#2026-12-01": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Classical chamber, orchestral, or vocal program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/emmanuelle-haim-le-concert-d-astree_1585424#2026-12-09": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Classical chamber, orchestral, or vocal program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/el-pessebre-de-pau-casals_1587247#2026-12-15": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Seasonal orchestral or choral program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/el-messies-de-handel_1587327#2026-12-16": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Seasonal orchestral or choral program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/adda-simfonica-alacant-josep-vicent_1585405#2026-12-17": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Seasonal orchestral or choral program. The shortlist emphasizes jazz, roots music, and song."
+  },
+  "https://www.palaumusica.cat/ca/candlelight-classics-de-nadal_1657922/#2026-12-19": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Candlelight string quartet playing seasonal standards. The shortlist prioritizes named acts."
+  },
+  "https://www.palaumusica.cat/ca/candlelight-classics-de-nadal_1657922/#2026-12-20": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Candlelight string quartet playing seasonal standards. The shortlist prioritizes named acts."
+  },
+  "https://paral-lel62.cat/programacio/josue-rarujo-obed-hernandez-2026-cat/#2026-12-10": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "Flamenco-pop tour stop. The evening already has Júlia Colom’s songwriting show and the Alabau–Bastida jazz duo."
+  },
+  "https://www.macba.cat/en/exhibitions/spiral-of-time-placa-dels-angels-macba/#2025-07-10": {
+    "judgedOn": "2026-11-22",
+    "accepted": false,
+    "reason": "The outdoor installation explores the museum’s public space. The shortlist already includes three current MACBA gallery exhibitions."
   }
 }

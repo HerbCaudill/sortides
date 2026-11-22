@@ -1737,5 +1737,79 @@
         "distanceMeters": 126016
       }
     ]
+  },
+  "Casino de l’Aliança del Poblenou": {
+    "coordinates": [
+      2.2032803,
+      41.3999465
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 19
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-22T07:03:40.314Z",
+    "placeId": "ChIJG5i7WxWjpBIRMen16lqW6og",
+    "address": "Rambla del Poblenou, 42, Sant Martí, 08005 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=9865863250941700401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://casinoalianca.cat/penalba-gene/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 19,
+        "distanceMeters": 4732
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 125585
+      }
+    ]
+  },
+  "Mooby Balmes": {
+    "coordinates": [
+      2.1386111,
+      41.4072222
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88
+      }
+    ],
+    "verifiedAt": "2026-11-22T07:08:09.287Z",
+    "placeId": "ChIJl2Qulw6YpBIRXqM8cEs0VC4",
+    "address": "Carrer de Balmes, 422, 424, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=3338350722398593886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://mooby.elqueque.com/balmes",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 14,
+        "distanceMeters": 3110
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 88,
+        "distanceMeters": 124604
+      }
+    ]
   }
 }
