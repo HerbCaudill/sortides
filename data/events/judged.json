@@ -644,9 +644,8 @@
     "reason": "Not open on refresh date: listed opening 2026-11-11. Reconsider only when source dates/details change."
   },
   "bcn:99400787498": {
-    "judgedOn": "2026-10-29",
-    "accepted": false,
-    "reason": "Not open on refresh date: listed opening 2026-11-20. Reconsider only when source dates/details change."
+    "judgedOn": "2026-11-23",
+    "accepted": true
   },
   "bcn:99400786194": {
     "judgedOn": "2026-10-29",
@@ -5759,5 +5758,175 @@
     "judgedOn": "2026-11-22",
     "accepted": false,
     "reason": "The outdoor installation explores the museum’s public space. The shortlist already includes three current MACBA gallery exhibitions."
+  },
+  "bcn:99400788125": {
+    "judgedOn": "2026-11-23",
+    "accepted": true
+  },
+  "bcn:99400790418": {
+    "judgedOn": "2026-11-23",
+    "accepted": true
+  },
+  "https://www.sala-apolo.com/cat/event/brighton-64-20261212-7248#2026-12-12": {
+    "judgedOn": "2026-11-23",
+    "accepted": true
+  },
+  "https://www.sala-apolo.com/cat/event/la-gran-xefla-de-fetus-20261217-7527#2026-12-17": {
+    "judgedOn": "2026-11-23",
+    "accepted": true
+  },
+  "https://phenomena-experience.com/index?evento=279&pag=ficha#2026-11-29": {
+    "judgedOn": "2026-11-23",
+    "accepted": true
+  },
+  "bcn:99400713127": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Baroque Christmas program of Bach, Handel and Rameau. The shortlist favors the same evening’s flamenco concert."
+  },
+  "bcn:99400790185": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Student bands and orchestras from the Eixample municipal music school give a seasonal recital."
+  },
+  "bcn:99400791170": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "The civic center exhibition is scheduled for 12 February to 6 April 2027 and has yet to open."
+  },
+  "https://jamboreejazz.com/evento/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-3/#2026-12-21": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "The jazz standards and pop arrangements are billed without a named lineup. The same evening has Diego El Cigala’s Aurora concert."
+  },
+  "https://englishcinemabarcelona.com/m/you-can-see-everything/in-english-in-barcelona#2026-11-26": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "The same documentary is already listed at Mooby Balmes on 26 November."
+  },
+  "https://englishcinemabarcelona.com/m/dune-part-three/in-english-in-barcelona#2026-12-21": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Advance franchise listing. Substantial critical coverage was unavailable for this date."
+  },
+  "https://englishcinemabarcelona.com/m/avengers-doomsday/in-english-in-barcelona#2026-12-21": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Advance superhero-franchise listing. Substantial critical coverage was unavailable for this date."
+  },
+  "https://englishcinemabarcelona.com/m/la-la-land/in-english-in-barcelona#2026-11-27": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "The same anniversary screening is already listed at Mooby Aribau on 27 November."
+  },
+  "https://www.sala-apolo.com/cat/event/mind-enterprises-20261125-7596#2026-11-25": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo’s dated calendar marks this performance sold out."
+  },
+  "https://www.sala-apolo.com/cat/event/bresh-club-20261125-7611#2026-11-25": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills BRESH CLUB as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/mind-enterprises-20261126-7479#2026-11-26": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo’s dated calendar marks this performance sold out."
+  },
+  "https://www.sala-apolo.com/cat/event/milkshake-stile-adco-20261126-7701#2026-11-26": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills Milkshake: Stile & ADCØ as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/el-d%C3%BAplex-20261126-7704#2026-11-26": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills EL DÚPLEX as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/bresh-club-20261202-7727#2026-12-02": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills BRESH CLUB as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/el-duplex-20261203-7732#2026-12-03": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills EL DÚPLEX as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/milkshake-stile-adco-20261203-7736#2026-12-03": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills Milkshake: Stile & ADCØ as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/nitsa-folamour-4-hour-set-gee-lane-20261205-7751#2026-12-05": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills Nitsa: Folamour 4-hour set + Gee Lane as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/bresh-club-20261209-7728#2026-12-09": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills BRESH CLUB as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/rikas-20261210-7427#2026-12-10": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "German indie-pop quartet. The evening already has Júlia Colom and the Alabau–Bastida jazz duo."
+  },
+  "https://www.sala-apolo.com/cat/event/afers-j%C3%BAlia-colom-gaia-banfi-20261210-7518#2026-12-10": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Júlia Colom and Gaia Banfi are already listed for the same date and venue."
+  },
+  "https://www.sala-apolo.com/cat/event/el-duplex-20261210-7733#2026-12-10": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills EL DÚPLEX as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/bresh-club-20261216-7729#2026-12-16": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills BRESH CLUB as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/nalgas-club-20261216-7612#2026-12-16": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills NALGAS Club | TBC as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/el-duplex-20261217-7734#2026-12-17": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills EL DÚPLEX as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/milkshake-nadal-stile-20261217-7738#2026-12-17": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills Milkshake: Nadal | Stile & Dj Guest as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/carino-20261218-7644#2026-12-18": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Indie-pop album launch. The shortlist already has Miquel Abras’s hometown tour finale and Amaral that evening."
+  },
+  "bcn:99400789654": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Andalusian-rooted electronic solo debut. The shortlist prioritizes the two songwriting tour dates on 18 December."
+  },
+  "https://www.sala-apolo.com/cat/event/apologia-x-griotz-soumeya-sinap6is-heavy-waves-simone-salvi-20261219-7767#2026-12-19": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Sala Apolo bills Apologia X GriotZ: SOUMEYA + SINAP6IS + HEAVY WAVES + SIMONE SALVI as a club night."
+  },
+  "https://www.sala-apolo.com/cat/event/sho-hai-20261219-7327#2026-12-19": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Zaragoza rap concert. The music shortlist emphasizes jazz, flamenco and roots music."
+  },
+  "https://www.fmirobcn.org/es/exposiciones/7359/divided#2026-07-14": {
+    "judgedOn": "2026-11-23",
+    "accepted": false,
+    "reason": "Camilla Wills’s foyer intervention explores art publishing. The current picks at the foundation cover the larger Perriand retrospective and the Espai 13 installation."
   }
 }

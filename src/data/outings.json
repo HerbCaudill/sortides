@@ -3689,36 +3689,6 @@
     ]
   },
   {
-    "title": "Àmfora & Arjau: Havaneres for Oncolliga",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 89
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 7
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      3.1648598,
-      41.9163606
-    ],
-    "venue": "TeMePé",
-    "when": "Sun 22 Nov · 18:00",
-    "price": "€10",
-    "why": "Two local havaneres groups bring seafaring song to Palafrugell in a benefit concert for Oncolliga Girona.",
-    "date": "2026-11-22",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://cultura.palafrugell.cat/ca/programacio/c/6642-amfora-i-arjau.html"
-      }
-    ]
-  },
-  {
     "title": "Paula García-Masedo: Gran ritme",
     "kind": "Exhibitions",
     "bases": [
@@ -3843,36 +3813,6 @@
     ]
   },
   {
-    "title": "Horacio Fumero & Pedro Javier González",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 18
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 94
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1783946,
-      41.3811302
-    ],
-    "venue": "Harlem Jazz Club",
-    "when": "Sunday 22 November, 21:30",
-    "price": "€18",
-    "why": "A double bass and guitar duet moves between jazz and flamenco, with tango, bulerías and chacarera in the mix.",
-    "date": "2026-11-22",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://www.harlemjazzclub.es/events/2130h-horacio-fumero-pedro-javier-gonzalez-flamenco-jazz-18e/"
-      }
-    ]
-  },
-  {
     "title": "Michał Obrębski",
     "kind": "Music",
     "bases": [
@@ -3899,36 +3839,6 @@
       {
         "label": "Event page",
         "url": "https://www.harlemjazzclub.es/events/2000h-michal-obrebski-rock-progresivo-flamenco-jazz-fingerstyle-guitar-2230h-blues-jam-session-11e/"
-      }
-    ]
-  },
-  {
-    "title": "Temples + Miel",
-    "kind": "Music",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 14
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 89
-      }
-    ],
-    "mode": "night",
-    "coordinates": [
-      2.1695907,
-      41.375198499999996
-    ],
-    "venue": "Paral·lel 62, Barcelona",
-    "when": "Sunday 22 November, 20:30",
-    "price": "€30.80",
-    "why": "Temples bring melodic British rock rooted in 1960s psychedelia, with Miel opening.",
-    "date": "2026-11-22",
-    "links": [
-      {
-        "label": "Event page",
-        "url": "https://paral-lel62.cat/programacio/temples-parallel62-barcelona-cat/"
       }
     ]
   },
@@ -4495,37 +4405,6 @@
     ]
   },
   {
-    "title": "Anna Irina Russell: Neix en l’aire la primera flor",
-    "kind": "Exhibitions",
-    "bases": [
-      {
-        "base": "Barcelona",
-        "driveMinutes": 87
-      },
-      {
-        "base": "Tamariu",
-        "driveMinutes": 10
-      }
-    ],
-    "mode": "day",
-    "coordinates": [
-      3.1661254,
-      41.9186869
-    ],
-    "venue": "Can Mario, Palafrugell",
-    "when": "Final weekend at Can Mario. Check museum hours.",
-    "price": "See tickets",
-    "why": "Anna Irina Russell works with soft and inflatable forms to make breathing the subject of a sculpture installation.",
-    "startsOn": "2026-06-06",
-    "endsOn": "2026-11-22",
-    "links": [
-      {
-        "label": "Exhibition page",
-        "url": "https://www.fundaciovilacasas.com/ca/exposicio/neix-en-laire-la-primera-flor"
-      }
-    ]
-  },
-  {
     "title": "North by Northwest",
     "kind": "Movies",
     "bases": [
@@ -4847,32 +4726,204 @@
     ]
   },
   {
-    "title": "Amancio Prada: Rosalía de Castro",
+    "title": "Diego El Cigala: Aurora",
     "kind": "Music",
     "bases": [
       {
         "base": "Barcelona",
-        "driveMinutes": 9
+        "driveMinutes": 11
       },
       {
         "base": "Tamariu",
-        "driveMinutes": 87
+        "driveMinutes": 92
       }
     ],
     "mode": "night",
     "coordinates": [
-      2.1852999,
-      41.3986326
+      2.1704608,
+      41.374716899999996
     ],
-    "venue": "L’Auditori Sala 2",
-    "when": "Sunday 22 November, 19:00",
-    "price": "€30",
-    "why": "Prada revisits his settings of the Galician poet Rosalía de Castro with voice and guitar, fifty years after the original album.",
-    "date": "2026-11-22",
+    "venue": "Teatre Apolo",
+    "when": "Mon 21 Dec, 20:00",
+    "price": "From €50",
+    "why": "El Cigala brings his flamenco voice back to the center of a set shaped by bolero and son.",
+    "context": "The Aurora tour brings together guitar, cajón, dance and handclaps with piano and double bass.",
+    "date": "2026-12-21",
+    "mapsUrl": "https://maps.google.com/?cid=11155710489244356812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "links": [
       {
         "label": "Event page",
-        "url": "https://www.auditori.cat/es/evento/sessions-amancio-prada/"
+        "url": "https://teatreapolo.com/cartelera/diego-el-cigala-aurora/"
+      }
+    ]
+  },
+  {
+    "title": "Infinity Song",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Mon 23 Nov, 19:30 listed",
+    "price": "€25 advance + fees",
+    "why": "Four New York siblings sing close harmonies over soft rock with gospel and jazz roots.",
+    "date": "2026-11-23",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://sala-apolo.com/es/evento/pinata-presents-infinity-song-20261023-7451"
+      }
+    ]
+  },
+  {
+    "title": "Brighton 64: Se Traspasa tour",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Sat 12 Dec, 19:30 listed",
+    "price": "From €22",
+    "why": "A farewell show for the Barcelona mod band behind “Barcelona Blues” and “La casa de la bomba.”",
+    "date": "2026-12-12",
+    "links": [
+      {
+        "label": "Tickets",
+        "url": "https://www.entradas.com/en/event/brighton-64-sala-apolo-21398621/"
+      },
+      {
+        "label": "Event page",
+        "url": "https://www.sala-apolo.com/cat/event/brighton-64-20261212-7248"
+      }
+    ]
+  },
+  {
+    "title": "Fetus: La Gran Xefla",
+    "kind": "Music",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 96
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1695739,
+      41.374402599999996
+    ],
+    "venue": "Sala Apolo",
+    "when": "Thu 17 Dec, 20:00",
+    "price": "€18 advance + fees",
+    "why": "Fetus plays its Catalan ballads with punk guitars, accordion, fiddle and bagpipes, with Joan Garriga among the guests.",
+    "date": "2026-12-17",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://www.sala-apolo.com/cat/event/la-gran-xefla-de-fetus-20261217-7527"
+      },
+      {
+        "label": "Organizer",
+        "url": "https://bankrobber.net/artist/fetus/"
+      }
+    ]
+  },
+  {
+    "title": "T2 Trainspotting",
+    "kind": "Movies",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "mode": "night",
+    "coordinates": [
+      2.1718110999999998,
+      41.409088800000006
+    ],
+    "venue": "Phenomena",
+    "when": "Sun 29 Nov, 21:30 · VOSE",
+    "price": "€11",
+    "why": "Danny Boyle reunites the original cast for a rueful look at what became of Renton and his Edinburgh friends.",
+    "date": "2026-11-29",
+    "mapsUrl": "https://maps.google.com/?cid=17747581028526607923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://phenomena-experience.com/index?evento=279&pag=ficha"
+      },
+      {
+        "label": "Reviews",
+        "url": "https://www.rottentomatoes.com/m/t2_trainspotting"
+      }
+    ]
+  },
+  {
+    "title": "Picasso and Architecture",
+    "kind": "Exhibitions",
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "mode": "day",
+    "coordinates": [
+      2.1809472,
+      41.3852706
+    ],
+    "venue": "Museu Picasso, Barcelona",
+    "when": "Tue–Sun, 10:00–19:00",
+    "price": "See tickets",
+    "why": "See how Picasso’s experiments with space and perspective crossed over into modern architecture, including links to Le Corbusier.",
+    "context": "The show follows Picasso from Cubist experiments to his work for architectural settings, including Barcelona’s architects’ association.",
+    "startsOn": "2026-11-20",
+    "endsOn": "2027-03-07",
+    "mapsUrl": "https://maps.google.com/?cid=2810561113253530723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "links": [
+      {
+        "label": "Event page",
+        "url": "https://museupicassobcn.cat/actualitat/exposicio/picasso-i-larquitectura"
+      },
+      {
+        "label": "Hours and prices",
+        "url": "https://museupicassobcn.cat/es/planifica-la-visita/horarios-y-precios"
       }
     ]
   }

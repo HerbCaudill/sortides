@@ -1811,5 +1811,116 @@
         "distanceMeters": 124604
       }
     ]
+  },
+  "Teatre Apolo": {
+    "coordinates": [
+      2.1704608,
+      41.374716899999996
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92
+      }
+    ],
+    "verifiedAt": "2026-11-23T07:02:47.139Z",
+    "placeId": "ChIJJ5on7FuipBIRzFCCoJUL0Zo",
+    "address": "Avinguda del Paral·lel, 59, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=11155710489244356812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://teatreapolo.com/cartelera/diego-el-cigala-aurora/",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11,
+        "distanceMeters": 3373
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 92,
+        "distanceMeters": 129286
+      }
+    ]
+  },
+  "Museu Picasso, Barcelona": {
+    "coordinates": [
+      2.1809472,
+      41.3852706
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89
+      }
+    ],
+    "verifiedAt": "2026-11-23T07:06:24.583Z",
+    "placeId": "ChIJa-K8mf6ipBIRY8wAB3EeASc",
+    "address": "Carrer de Montcada, 15-23, Ciutat Vella, 08003 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=2810561113253530723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://museupicassobcn.cat/actualitat/exposicio/picasso-i-larquitectura",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 16,
+        "distanceMeters": 3364
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 89,
+        "distanceMeters": 127026
+      }
+    ]
+  },
+  "Phenomena": {
+    "coordinates": [
+      2.1718110999999998,
+      41.409088800000006
+    ],
+    "bases": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91
+      }
+    ],
+    "verifiedAt": "2026-11-23T07:06:24.995Z",
+    "placeId": "ChIJJ0AB4M-ipBIRM07KK-oSTPY",
+    "address": "Carrer de Sant Antoni Maria Claret, 168, Eixample, 08025 Barcelona, Spain",
+    "mapsUrl": "https://maps.google.com/?cid=17747581028526607923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "sources": [
+      "https://phenomena-experience.com/index?evento=279&pag=ficha",
+      "https://places.googleapis.com/v1/places:searchText",
+      "https://routes.googleapis.com/directions/v2:computeRoutes"
+    ],
+    "routes": [
+      {
+        "base": "Barcelona",
+        "driveMinutes": 11,
+        "distanceMeters": 2855
+      },
+      {
+        "base": "Tamariu",
+        "driveMinutes": 91,
+        "distanceMeters": 121338
+      }
+    ]
   }
 }
